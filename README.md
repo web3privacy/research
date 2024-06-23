@@ -8,7 +8,7 @@ Infographic containing all 700+ privacy-enhancing projects within the web3 marke
 
 hi-resolution is available here: [link](https://github.com/web3privacy/research/blob/main/Privacy%20market/Infographics/)
 
-Hot to add new projects on the Map (landscape)
+**Hot to add new projects on the Map (landscape)**
 - Open Market database: https://github.com/web3privacy/web3privacy
 - Browse categories & projects - add new one via Pull Request
 - If a category is missing - create new category and make Pull Request
