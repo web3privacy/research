@@ -5,7 +5,7 @@ This is a temporary repository of the market snapshot
 - [Investment](#Investment)
 - [Hackathons](#Hackathons)
 - [Products](#Products)
-- [Protocols](#Protocols)
+- [Protocols](#Protocol-launches)
 
 ## Investment
 | Project  | Raised | Date |
@@ -36,14 +36,24 @@ This is a temporary repository of the market snapshot
 | Name  | Type | 
 | ------------- | ------------- |
 | [GnosisVPN (poc)](https://gnosisvpn.com) | dVPN |
+| [Privacy pools](https://privacypools.com) | transactions |
+| [Calimero network](https://calimero.network) | data verification |
+| [NymVPN](https://nym.com) | dVPN | 
+| [Shutter API](https://blog.shutter.network/introducing-shutter-api-threshold-encryption-service/) | Threshold Encryption |
+| [TACEO](https://core.taceo.io/articles/taceo-proof/) | coSNARK Network for Private Proof Delegation |
+| [Billions Network](https://billions.network) | The Human and AI Network |
 
-## Protocols
+## Protocol launches
 | Name  | Type | Chain |
 | ------------- | ------------- | ------------- |
 | [Namada](http://namada.net) | mainnet | Cosmos |
 | [Aztec](https://aztec.network) | testnet | Ethereum |
 | [Intmax](https://intmax.io) | mainnet | Multichain |
 | [Miden](https://miden.xyz) | testnet | ? |
+| [COTI](https://coti.io) | mainnet | Ethereum |
+| [Panther Protocol](https://www.pantherprotocol.io) | mainnet | Multichain |
+
+## R&D
 
 ## Foundations
 Aztec launched [foundation](https://aztec.foundation)
