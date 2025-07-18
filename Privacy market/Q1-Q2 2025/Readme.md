@@ -3,6 +3,8 @@
 This is a temporary repository of the new market snapshot. Last one we made in [2023](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae).
 We will curate market snapshot twice per year: mid + end of the year. It's aim - structure key news & data happening at decentralised privacy market.
 
+![alt text](https://github.com/web3privacy/research/blob/main/Privacy%20market/Q1-Q2%202025/src/Q1-Q2%202025%20report%20cover.png)
+
 ## Contents
 - [Key stats](#Key-stats)
 - [Investment](#Investment)
