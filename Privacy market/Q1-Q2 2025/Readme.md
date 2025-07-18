@@ -78,6 +78,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [zkPDF](https://pse.dev/blog/zkpdf-unlocking-verifiable-data) | a set of zero-knowledge circuits and tools for proving facts from digitally signed PDFs  |
 | [MachinaIO](https://machina-io.com/posts/hello_world_first.html) | indistinguishability obfuscation |
 | [OSPEAD - Optimal Ring Signature Research](https://www.getmonero.org/2025/04/05/ospead-optimal-ring-signature-research.html) | reveals the timing of Monero spending patterns in probabilistic form |
+| [Crosslink roadmap by Shielded labs](https://shieldedlabs.net/crosslink-roadmap-q1-2025/) | a hybrid PoW/PoS consensus algorithm for Zcash | 
 
 ## TGE
 | Name  | Raised | Date |
