@@ -57,6 +57,8 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Darnswap](https://www.dawnswap.com/haveno.html) | decentralized exchange platform built around Monero |
 | [Cake Wallet](https://monero.observer/cake-wallet-v5.1.2-release-candidate-available-testing/) | privacy-focused wallet |
 | [Veridian](https://cardanofoundation.org/veridian) | digital identity |
+| [Monerujo](https://www.monerujo.app) | Wallet |
+| [Monero v0.18.4.0](https://monero.observer/monero-v0.18.4.0-fluorine-fermi-released/) | 'Fluorine Fermi' update |
 
 ## Protocol launches
 | Name  | Type | Chain |
@@ -81,6 +83,8 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [OSPEAD - Optimal Ring Signature Research](https://www.getmonero.org/2025/04/05/ospead-optimal-ring-signature-research.html) | reveals the timing of Monero spending patterns in probabilistic form |
 | [Crosslink roadmap by Shielded labs](https://shieldedlabs.net/crosslink-roadmap-q1-2025/) | a hybrid PoW/PoS consensus algorithm for Zcash | 
 | [Confidential Balances Token Extensions](https://www.helius.dev/blog/confidential-balances) | confidential balances on Solana | 
+| [Wallet Beat](https://beta.walletbeat.eth.limo/wallet/privacy/) | privacy categories for Wallet categories | 
+| [FMC++ progress](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/543#note_29699) | Full-chain membership proofs++ for Monero |
 
 ## TGE
 | Name  | Raised | Date |
