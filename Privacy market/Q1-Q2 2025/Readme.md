@@ -1,4 +1,7 @@
-This is a temporary repository of the market snapshot
+# Privacy market snapshot
+
+This is a temporary repository of the new market snapshot. Last one we made in [2023](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae).
+We will curate market snapshot twice per year: mid + end of the year. It's aim - structure key news & data happening at decentralised privacy market.
 
 ## Contents
 - [Key stats](#Key-stats)
@@ -6,6 +9,8 @@ This is a temporary repository of the market snapshot
 - [Hackathons](#Hackathons)
 - [Products](#Products)
 - [Protocols](#Protocol-launches)
+- [TGE](#TGE)
+- [Other](#Other)
 
 ## Investment
 | Project  | Raised | Date |
@@ -58,7 +63,19 @@ This is a temporary repository of the market snapshot
 | [Panther Protocol](https://www.pantherprotocol.io) | mainnet | Multichain |
 
 ## R&D
+| Name  | Description | 
+| ------------- | ------------- |  
+| [MPC Framework](https://mpc.pse.dev) | Create secure MPC apps easily in TypeScript | 
+| [Semaphore-Noir](https://github.com/hashcloak/semaphore-noir) | A zero-knowledge protocol for anonymous interactions |
 
-## Foundations
+## TGE
+| Name  | Raised | Date |
+| ------------- | ------------- |  ------------- |
+| [Privasea](https://icodrops.com/privasea/) | NA | May | 
+| [Mind Network](https://icodrops.com/mind-network/) | $ 750K | April | 
+| [Kinto](https://icodrops.com/kinto/) | $ 250K | Mar | 
+| [Nillion](https://icodrops.com/nillion/) | NA | Mar | 
+| [Arcium](https://coinlist.co/arcium) | NA | April |
+
+## Other
 Aztec launched [foundation](https://aztec.foundation)
-
