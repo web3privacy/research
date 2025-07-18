@@ -16,6 +16,7 @@ This is a temporary repository of the market snapshot
 | [Miden](https://miden.xyz) | $ 25.00M | April | 
 | [Ika](https://ika.xyz) | N/A | April | 
 | [Inco Network](https://www.inco.org) | $ 5.00M | April | 
+| [Davinci](http://davinci.vote) | $ 1.00M | April | 
 | [Mask Network](https://www.mask.io) | $ 5.00M | April | 
 | [Arcium](https://www.arcium.com) | $ 5.00M | Mar-April | 
 | [Stoffel MPC](https://stoffelmpc.com) | $ 1.60M | Mar | 
@@ -24,7 +25,7 @@ This is a temporary repository of the market snapshot
 | [Humanity Protocol](https://www.humanity.org) | $ 20.00M | Feb |
 | [Privasea](https://www.privasea.ai) | $ 10.20M | Jan + May | 
 
-**TOTAL**: $ 160,6 (source: https://cryptorank.io/funding-rounds) 
+**TOTAL**: $ 161,6 (source: https://cryptorank.io/funding-rounds) 
 
 ## Hackathons
 | Name  | Location | Participants | Date |
@@ -42,6 +43,9 @@ This is a temporary repository of the market snapshot
 | [Shutter API](https://blog.shutter.network/introducing-shutter-api-threshold-encryption-service/) | Threshold Encryption |
 | [TACEO](https://core.taceo.io/articles/taceo-proof/) | coSNARK Network for Private Proof Delegation |
 | [Billions Network](https://billions.network) | The Human and AI Network |
+| [Davinci](https://davinci.vote) | voting |
+| [TLS Notary](https://github.com/tlsnotary/tlsn/releases/tag/v0.1.0-alpha.10) | Privacy-preserving data portability |
+| [Self](https://self.xyz) | identity |
 
 ## Protocol launches
 | Name  | Type | Chain |
