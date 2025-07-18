@@ -69,6 +69,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Panther Protocol](https://www.pantherprotocol.io) | mainnet | Multichain |
 | [DarkFi](https://dark.fi/insights/testnet-v2a.html) | testnet | Multichain |
 | [Midnight](https://x.com/MidnightNtwrk/status/1925196371943895088) | testnet | Cardano |
+| [Tari](https://tari.com) | mainnet | ? |
 
 ## R&D
 | Name  | Description | 
@@ -79,6 +80,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [MachinaIO](https://machina-io.com/posts/hello_world_first.html) | indistinguishability obfuscation |
 | [OSPEAD - Optimal Ring Signature Research](https://www.getmonero.org/2025/04/05/ospead-optimal-ring-signature-research.html) | reveals the timing of Monero spending patterns in probabilistic form |
 | [Crosslink roadmap by Shielded labs](https://shieldedlabs.net/crosslink-roadmap-q1-2025/) | a hybrid PoW/PoS consensus algorithm for Zcash | 
+| [Confidential Balances Token Extensions](https://www.helius.dev/blog/confidential-balances) | confidential balances on Solana | 
 
 ## TGE
 | Name  | Raised | Date |
