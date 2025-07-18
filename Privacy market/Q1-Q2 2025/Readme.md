@@ -1,11 +1,11 @@
 This is a temporary repository of the market snapshot
 
 ## Contents
-- [Key stats][#Key-stats]
-- [Investment][#Investment]
-- [Hackathons][#Hackathons]
-- [Products][#Products]
-- [Protocols][#Protocols]
+- [Key stats](#Key-stats)
+- [Investment](#Investment)
+- [Hackathons](#Hackathons)
+- [Products](#Products)
+- [Protocols](#Protocols)
 
 ## Investment
 | Project  | Raised | Date |
@@ -28,7 +28,7 @@ This is a temporary repository of the market snapshot
 
 ## Hackathons
 | Name  | Location | Participants | Date |
-| ------------- | ------------- |------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | [ETHDam](http://ethdam.com) | Amsterdam | 276 | May | 
 | [W3PN HACKS](https://hackathon.web3privacy.info) | Berlin | 140 | June |
 
