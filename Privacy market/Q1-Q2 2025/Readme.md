@@ -51,6 +51,9 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Davinci](https://davinci.vote) | voting |
 | [TLS Notary](https://github.com/tlsnotary/tlsn/releases/tag/v0.1.0-alpha.10) | Privacy-preserving data portability |
 | [Self](https://self.xyz) | identity |
+| [DarkFi app](https://dark.fi/insights/darkfi-app-alpha-release.html) | anonymous p2p chat |
+| [Darnswap](https://www.dawnswap.com/haveno.html) | decentralized exchange platform built around Monero |
+| [Cake Wallet](https://monero.observer/cake-wallet-v5.1.2-release-candidate-available-testing/) | privacy-focused wallet |
 
 ## Protocol launches
 | Name  | Type | Chain |
@@ -61,12 +64,16 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Miden](https://miden.xyz) | testnet | ? |
 | [COTI](https://coti.io) | mainnet | Ethereum |
 | [Panther Protocol](https://www.pantherprotocol.io) | mainnet | Multichain |
+| [DarkFi](https://dark.fi/insights/testnet-v2a.html) | testnet | Multichain |
 
 ## R&D
 | Name  | Description | 
 | ------------- | ------------- |  
 | [MPC Framework](https://mpc.pse.dev) | Create secure MPC apps easily in TypeScript | 
 | [Semaphore-Noir](https://github.com/hashcloak/semaphore-noir) | A zero-knowledge protocol for anonymous interactions |
+| [zkPDF](https://pse.dev/blog/zkpdf-unlocking-verifiable-data) | a set of zero-knowledge circuits and tools for proving facts from digitally signed PDFs  |
+| [MachinaIO](https://machina-io.com/posts/hello_world_first.html) | indistinguishability obfuscation |
+| [OSPEAD - Optimal Ring Signature Research](https://www.getmonero.org/2025/04/05/ospead-optimal-ring-signature-research.html) | reveals the timing of Monero spending patterns in probabilistic form |
 
 ## TGE
 | Name  | Raised | Date |
