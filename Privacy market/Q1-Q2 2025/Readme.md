@@ -54,6 +54,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [DarkFi app](https://dark.fi/insights/darkfi-app-alpha-release.html) | anonymous p2p chat |
 | [Darnswap](https://www.dawnswap.com/haveno.html) | decentralized exchange platform built around Monero |
 | [Cake Wallet](https://monero.observer/cake-wallet-v5.1.2-release-candidate-available-testing/) | privacy-focused wallet |
+| [Veridian](https://cardanofoundation.org/veridian) | digital identity |
 
 ## Protocol launches
 | Name  | Type | Chain |
@@ -86,3 +87,5 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 
 ## Other
 Aztec launched [foundation](https://aztec.foundation)
+[A maximally simple Ethereum L1 privacy roadmap](https://ethereum-magicians.org/t/a-maximally-simple-l1-privacy-roadmap/23459) by Buterin
+[Ethereum Privacy: The Road to Self-Sovereignty](https://ethresear.ch/t/ethereum-privacy-the-road-to-self-sovereignty/22115) by pcaversaccio
