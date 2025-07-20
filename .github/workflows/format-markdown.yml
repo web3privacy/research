@@ -2,7 +2,7 @@ name: Auto-format Markdown
 
 on:
   push:
-    branches: [ main, get/structure ]
+    branches: [ main ]
     paths: [ '**/*.md' ]
   pull_request:
     branches: [ main ]
@@ -63,7 +63,7 @@ jobs:
 
     - name: Format markdown files
       run: |
-        echo "📝 Formatting markdown files..."
+        echo "🔧 Formatting markdown files..."
         markdownlint --fix "**/*.md" || true
 
     - name: Check for changes
