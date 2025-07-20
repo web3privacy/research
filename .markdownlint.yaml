@@ -1,0 +1,20 @@
+# Markdownlint configuration for research documents
+# Forgiving rules that focus on major issues, not nitpicks
+
+# Disable rules that are too strict for research
+MD013: false  # Line length (research has long tables/links)
+MD033: false  # Allow HTML (template comments)
+MD041: false  # Allow docs without H1 first (YAML frontmatter)
+MD024: false  # Allow duplicate headings (templates)
+MD029: false  # Allow different ordered list styles
+MD036: false  # Allow emphasis instead of headers sometimes
+
+# Keep important formatting rules
+MD003:
+  style: "atx"  # Use # headers
+
+MD007:
+  indent: 2  # 2-space list indentation
+
+MD046:
+  style: "fenced"  # Use ``` code blocks 

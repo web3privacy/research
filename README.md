@@ -1,15 +1,72 @@
 # Web3Privacy Now Research
 
-Repository which contains all published reports and outputs of Research efforts within the W3PN eco-system.
+Building a culture of open-data analysis within decentralised privacy through systematic collaboration, transparent research processes, and free access to knowledge.
+> Please note: we are currently under development - expect breaking changes!
 
-## Privacy landscape
-Infographic containing all 700+ privacy-enhancing projects within the web3 market.
-![alt text](https://github.com/web3privacy/research/blob/main/Privacy%20market/Infographics/Privacy%20x%20web3%20landscape%20(june%202024).png)
+---
 
-The high-resolution version is available here: [link](https://github.com/web3privacy/research/blob/main/Privacy%20market/Infographics/)
+Web3Privacy Now conducts research to map, analyze, and advance the Web3 privacy ecosystem. We focus on:
 
-**How to add new projects on the Map (landscape)**
-- Open Market database: https://github.com/web3privacy/web3privacy
-- Browse categories & projects - add new one via Pull Request
-- If a category is missing - create new category and make Pull Request
-- Request an update of the privacy landscape by creating an Issue on Github
+- **Ecosystem Analysis**: Mapping privacy projects, tools, and protocols across Web3
+- **Market Research**: Understanding adoption, funding, and growth trends in privacy tech
+- **Technical Analysis**: Evaluating privacy tools, comparing approaches, and identifying gaps
+- **Policy Research**: Analyzing regulatory landscapes and compliance frameworks
+- **Use Case-studies**: Exploring practical applications of privacy technologies
+
+Research findings serve our community to advance default privacy in Web3.
+
+## Initiatives
+
+Browse active research in the `initiatives/` folder:
+
+- **[Ethereum Privacy Ecosystem](initiatives/ethereum-privacy-ecosystem/)**: Comprehensive analysis of privacy solutions on Ethereum
+- **[Privacy Landscape Map](initiatives/privacy-landscape-map/)**: Visual mapping of 700+ privacy projects across Web3
+
+> Note: we are migrating all current researches into `initiatives/` folder - expect more to come!
+
+## Process
+
+You only need to Copy the complete research template and rename / clean up your folder:
+
+```bash
+cp -r templates/research-initiative initiatives/your-research-name
+rm initiatives/your-research-name/README.md
+mv initiatives/your-research-name/research-initiative.md initiatives/your-research-name/your-research-name.md
+```
+
+Your research initiative must follow the three phases:
+
+1. Definition (Research Proposal):
+   - Fill out the YAML metadata (title, status: draft, authors, category)
+   - Complete Overview through Timeline sections to establish your research proposal
+   - Create a GitHub issue using our research issue template to announce your initiative
+   - Commit your research proposal
+
+2. Execution (Active Research):
+   - Begin researching and document findings in the Research Findings section
+   - Update your document as you discover things - it's a _living, organic_ document
+   - Note: your research may move between active and review multiple times
+
+3. Conclusion (Retrospective & Completion):
+   - Complete retrospective analysis of what you learned and discovered
+   - Identify future research opportunities that build on your work
+   - Conclusion all sections before moving to "final" status
+
+The lifecycle is `Draft → Active → Review → Final`.
+
+## Code Quality
+
+All markdown files are **automatically formatted** by GitHub Actions when you push changes. No setup required!
+
+The automation:
+
+- ✅ Fixes YAML frontmatter syntax errors
+- ✅ Applies consistent markdown formatting  
+- ✅ Ensures proper code style
+- ✅ Commits fixes back to your branch automatically
+
+Just write your research and push - we handle the formatting! 🤖
+
+## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
