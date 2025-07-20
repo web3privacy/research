@@ -1,21 +1,56 @@
 ---
-title: Research Initiative Title
+title: Ethereum Privacy Ecosystem Mapping
 status: draft                   # draft | active | review | final | paused
 created: 2025-07-13
-updated: 2025-07-13
-authors: [@username1, @username2]
+updated: 2025-07-20
+authors: [@Msiusko]
 category: ecosystem-analysis    # ecosystem-analysis | tooling | policy | market-research
 timeline: Q2 2025
 priority: high                  # high | medium | low
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices magna vel nunc posuere, vel auctor ipsum malesuada. Vivamus ac ante finibus, ornare sapien sit amet, eleifend nisi. Maecenas nec rutrum nulla, at eleifend enim. Integer accumsan dignissim convallis. Nunc facilisis odio a enim tristique volutpat. In faucibus lectus ut metus porttitor feugiat. Aliquam erat volutpat. Etiam quis euismod enim. Morbi sed convallis leo. Mauris blandit in diam sit amet aliquam. Aliquam dignissim ut nisi mollis consequat. Vivamus metus mauris, tristique quis aliquam ac, molestie at nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut molestie luctus tortor, vel porta tortor. Praesent justo elit, finibus vitae commodo eu, bibendum ut velit. Praesent id eros ac lacus pellentesque molestie viverra id dui.
 
-Praesent suscipit sed dolor id ultrices. Donec ac gravida orci. Quisque fermentum purus quis odio commodo, a tincidunt eros sodales. Sed lacinia orci in massa vulputate tristique. Donec rutrum ligula nec lacinia dapibus. Phasellus tempor erat non sapien iaculis, ac luctus dui eleifend. Nullam sodales erat magna, a ullamcorper enim tincidunt ac.
+# Context
+Ethereum Privacy Ecosystem is highly dissconnected. R&D primitives & tooling are there, developers build hackathon demos, but there are almost no end-user privacy apps. Mapping ecosystem will help to highlight existing actors, create connections and foster ecosystem towards delivering practical daily privacy within Ethereum.
 
-Donec vitae ante lobortis, tristique tellus vitae, consectetur velit. Sed ultrices aliquam tincidunt. Ut sit amet nulla lorem. Sed aliquam suscipit viverra. Mauris aliquet finibus velit convallis placerat. Proin at fringilla metus, sed feugiat diam. Donec sollicitudin, sapien dignissim fermentum faucibus, massa mi viverra elit, a placerat odio massa at urna. Vivamus semper mauris vitae dapibus lobortis. Cras lorem enim, ultrices a ultrices maximus, hendrerit vel dolor. Aenean non ipsum eget mauris tempus efficitur. Vestibulum ut rutrum diam. Vivamus pellentesque magna eget luctus rutrum. Mauris tempus neque ut est bibendum tincidunt.
+# Goals
+Fill existing knowledge gap: Create an actionable map structuring global players delivering privacy in Ethereum from L2s like Aztec to local Privacy LATAM communities. 
 
-Fusce vulputate dictum dui quis malesuada. Maecenas volutpat nunc enim, sit amet tincidunt ante maximus in. Vestibulum vehicula condimentum enim, at fermentum augue pulvinar ac. Sed malesuada urna at mi pharetra feugiat. Nunc a felis rhoncus, placerat sapien ac, pulvinar massa. Nam lectus eros, sagittis eu nunc a, blandit congue diam. Praesent rutrum lorem ac risus pellentesque, sed rutrum nibh mollis. Ut in pharetra nulla. Aenean laoreet non tortor quis maximus. Vivamus laoreet pretium metus vitae viverra. Fusce et ligula lectus. Proin eget dapibus mi. Aenean eu urna lobortis, pretium nunc non, aliquet diam. Cras eleifend faucibus leo in imperdiet. Integer at magna lacinia sapien ullamcorper tempor. Vestibulum at nulla quam.
+Significantly increase privacy impact-metrics: more people building privacy-tooling, apps getting mentors, access to finances and markets.
 
-Integer elementum consequat bibendum. Maecenas fringilla nisl a maximus interdum. Vivamus vitae lorem elit. Donec eget consectetur nunc, non consectetur ligula. Duis laoreet placerat metus, ac sagittis lectus pellentesque non. Morbi quis ipsum dapibus nibh interdum pellentesque eu sit amet nibh. In tincidunt ac diam nec fermentum. Curabitur sed lectus non justo tristique fringilla. Vivamus cursus tortor vel fringilla viverra. Mauris at quam erat. Sed vehicula mauris sed metus elementum, vel pulvinar lectus rhoncus. Pellentesque id lacus sed orci lobortis iaculis sit amet eu augue.
+# Approach
+Focus on a builder journey from "I never build privacy dapp in my life" to reach privacy-market-fit. Curating available resources, links, people and organizations that can help everyone exploring Ethereum privacy.
+Research framework 
+aggregate all privacy projects, initiatives & R&D that has been delivered from Privacy & Scaling Explorations to hackathons like ETHRome.
+structure them in categories and tags (from private voting to privacy-focused events and communities)
+provide hygine check on link availability (alive post-hackathon like ETHBerlin repos or sunset projects like Nocturne)
+facilitated unified open-knowledge DB available to all from researchers to product managers
+
+# Milestones
+
+**Preliminary research (1 month)**
+source existing projects, organizations, tools, communities, individuals, events within a privacy landscape
+collect all links in 1 place
+
+**Ecosystem mapping (2 months)**
+- 1on1 interviews with key actors + local representation (examples: Aztec, Railgun, 0xbow, Fluidkey, Rotki, Department Of Decentralization, Mask Network (China), Privacy LATAM, 0xParc, Fileverse)
+total # of interviews: 30
+- highlight Ethereum Privacy Ecosystem "stack" (from R&D tech to communities) that will be turned into a map
+- collect insights (ammount of privacy demos per hackathon, Railgun operational fees, MACI implementations, ammount of people using privacy tooling etc)
+
+**Public delivery (1.5 months)**
+
+- Github-friendly PDF report
+- Github-friendly repo-as-a-DB
+- Ethereum Privacy Ecosystem infographic (jpg)
+- Public presentation at [Ethereum Cypherpunk Congress](http://congress.web3privacy.info), 16 Nov, Buenos Aires
+
+# Deliverables
+
+- Ethereum Privacy Ecosystem research map (PDF report: 30 1on1 interviews; min 100 pages)
+- Ethereum Privacy Ecosystem micro-web 
+
+**Post-reserach**
+- Open-data maintainance: we comit to maintain Ethereum Privacy Knowledge base by adding new projects, events, research into general DB.
+- Advocacy: report will be actively share with every key privacy players within ecosystem, integrated into hackathons, meetups, Cypherpunk Congresses.
 
