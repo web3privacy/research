@@ -27,6 +27,7 @@ Browse active research in the `initiatives/` folder:
 ## Process
 
 You only need to Copy the complete research template and rename / clean up your folder:
+
 ```bash
 cp -r templates/research-initiative initiatives/your-research-name
 rm initiatives/your-research-name/README.md
@@ -53,6 +54,19 @@ Your research initiative must follow the three phases:
 
 The lifecycle is `Draft → Active → Review → Final`.
 
-### Contributing (future)
+## Code Quality
 
-Read [Contributing.md](https://github.com/web3privacy/research/blob/get/structure/CONTRIBUTING.md)
+All markdown files are **automatically formatted** by GitHub Actions when you push changes. No setup required!
+
+The automation:
+
+- ✅ Fixes YAML frontmatter syntax errors
+- ✅ Applies consistent markdown formatting  
+- ✅ Ensures proper code style
+- ✅ Commits fixes back to your branch automatically
+
+Just write your research and push - we handle the formatting! 🤖
+
+## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.

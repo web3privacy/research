@@ -67,6 +67,7 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 ---
 
 ## PHASE 1: DEFINITION (Research Proposal)
+
 *Complete all sections below to establish your research initiative*
 
 ## Overview
@@ -74,6 +75,7 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 **Brief Description**: [1-2 sentence summary of what this research initiative aims to accomplish]
 
 **Key Questions**: [What specific questions will this research answer?]
+
 - Question 1
 - Question 2
 - Question 3
@@ -83,11 +85,13 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 ## Objectives
 
 ### Primary Objectives
+
 - [ ] [Specific, measurable goal 1]
 - [ ] [Specific, measurable goal 2]
 - [ ] [Specific, measurable goal 3]
 
 ### Secondary Objectives
+
 - [ ] [Additional goal if time/resources permit]
 - [ ] [Additional goal if time/resources permit]
 
@@ -96,11 +100,13 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 **Research Approach**: [Describe your overall methodology - e.g., literature review, data analysis, interviews, technical evaluation, etc.]
 
 **Data Sources**: [Where will you gather information?]
+
 - Primary sources (interviews, surveys, original analysis)
 - Secondary sources (existing research, documentation, code repositories)
 - Tools and platforms to be analyzed
 
 **Success Criteria**: [How will you measure success?]
+
 - [ ] [Specific, measurable metric 1]
 - [ ] [Specific, measurable metric 2]
 - [ ] [Specific, measurable metric 3]
@@ -108,25 +114,30 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 ## Scope & Boundaries
 
 **In Scope**:
+
 - [What will be included]
 - [Specific areas of focus]
 
 **Out of Scope**:
+
 - [What will NOT be covered]
 - [Limitations and boundaries]
 
 ## Resources & Assets
 
 ### Research Materials
+
 - [ ] [Document/resource needed]
 - [ ] [Document/resource needed]
 - [ ] [Document/resource needed]
 
 ### Data & Datasets
+
 - [ ] [Specific datasets required]
 - [ ] [APIs or tools needed]
 
 ### External Collaboration
+
 - [ ] [Experts to interview]
 - [ ] [Organizations to engage]
 - [ ] [Community feedback channels]
@@ -144,29 +155,36 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 ---
 
 ## PHASE 2: EXECUTION (Active Research & Review)
+
 *Document your findings as you research - this section grows over time*
 
 # Research Findings
 
 ## Key Discoveries
+
 *[Update this section as research progresses]*
 
 **Finding 1**: [Description]
+
 - Supporting evidence
 - Implications
 
 **Finding 2**: [Description]
+
 - Supporting evidence
 - Implications
 
 **Finding 3**: [Description]
+
 - Supporting evidence
 - Implications
 
 ### Data & Analysis
+
 *[Include relevant data, charts, tables, or visualizations]*
 
 ### Notable Projects/Tools/Protocols
+
 *[For ecosystem research - list and briefly describe relevant projects]*
 
 | Project | Category | Status | Key Features | Notes |
@@ -176,85 +194,107 @@ DELETE EVERYTHING ABOVE THIS LINE BEFORE COMMITTING
 ## Challenges & Limitations
 
 **Encountered Challenges**:
+
 - [Challenge 1 and how it was addressed]
 - [Challenge 2 and how it was addressed]
 - [Challenge 3 and how it was addressed]
 
 **Research Limitations**:
+
 - [Limitation 1]
 - [Limitation 2]
 - [Limitation 3]
 
 **Areas for Future Research**:
+
 - [Identified gaps or follow-up questions]
 
 ---
 
 ## PHASE 3: CONCLUSION (Retrospective & Completion)
+
 *Synthesize your research, write conclusions and retrospective - complete before moving to "final" status*
 
 ## Retrospective
 
 ### What We Discovered
+
 [Reflect on your key findings and what surprised you during the research]
 
 ### What We Learned
+
 [Personal and methodological learnings from conducting this research]
 
 ### What Worked Well
+
 [Research methods, sources, or approaches that were particularly effective]
 
 ### What We'd Do Differently
+
 [Honest reflection on limitations, missed opportunities, or better approaches]
 
 ### Implications for the Ecosystem
+
 [How do these findings change our understanding of Web3 privacy?]
 
 ### Recommendations & Next Phases
+
 1. **For Developers**: [Actionable insights]
 2. **For Users**: [Practical guidance]  
 3. **For Ecosystem**: [Strategic recommendations]
 
 ### Future Works & Research Opportunities
+
 [Research initiatives that could build on this work]
 
 **Immediate Follow-ups** (3-6 months):
+
 - [Specific research that directly extends these findings]
 - [Areas where you had to limit scope but could be explored]
 
 **Medium-term Research** (6-12 months):
+
 - [More complex studies that use this research as foundation]
 - [Cross-ecosystem or comparative studies building on this work]
 
 **Long-term Vision** (1+ years):
+
 - [Ambitious research programs that this work enables]
 - [Interdisciplinary studies connecting to broader themes]
 
 **Collaboration Opportunities**:
+
 - [Specific expertise or partnerships needed for follow-up work]
 - [Other Web3Privacy initiatives that could be connected]
 
 ## References & Sources
 
 ### Primary Sources
+
 - [Interview notes, surveys, original analysis]
 
 ### Secondary Sources
+
 - [Academic papers, reports, documentation]
 
 ### Code & Technical Resources
+
 - [GitHub repositories, technical documentation, specifications]
 
 ### Community Resources
+
 - [Forums, discussions, community feedback]
 
 ## Appendices
 
 ### Appendix A: Detailed Data
+
 *[Raw data, extended tables, full survey results, etc.]*
 
 ### Appendix B: Methodology Details
+
 *[Extended methodology notes, technical specifications]*
 
 ### Appendix C: Additional Resources
+
 *[Supplementary materials, links, contact information]*

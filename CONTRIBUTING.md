@@ -5,9 +5,11 @@ Welcome to Web3Privacy's research initiative! We facilitate open research on dec
 ## Research Principles
 
 ### 1. Chain Agnostic
+
 We maintain neutrality and don't advocate for any specific blockchain. This approach helps create a well-balanced snapshot of the privacy market across all ecosystems.
 
 ### 2. Full-Stack Approach
+
 Privacy doesn't end with a "protocol" or "coin" - it's a comprehensive stack spanning from messaging protocols to storage solutions. Recognizing privacy stack complexity helps us better articulate the balance between Web3 and Web2 privacy (e.g., "Railgun for EVM transactional privacy" but "Signal for messaging") and identify missing links toward default decentralized privacy across all stack categories.
 
 ## How to Contribute
