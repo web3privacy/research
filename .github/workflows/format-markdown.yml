@@ -77,21 +77,19 @@ jobs:
 
     - name: Commit changes
       if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "🤖 Auto-format markdown files
-
-        - Fixed YAML frontmatter syntax
-        - Applied consistent markdown formatting
-        - Ensured proper code style
-        
-        [skip ci]" || exit 0
-
-    - name: Push changes
-      if: steps.verify-changed-files.outputs.changed == 'true'
-      uses: ad-m/github-push-action@master
+      uses: swinton/commit@v2.x
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }} 
+        files: |
+          **/*.md
+          .markdownlint.yaml
+        commit-message: |
+          🤖 Auto-format markdown files
+
+          - Fixed YAML frontmatter syntax
+          - Applied consistent markdown formatting
+          - Ensured proper code style
+          
+          [skip ci]
+        ref: ${{ github.ref }} 
