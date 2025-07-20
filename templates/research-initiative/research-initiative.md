@@ -1,11 +1,11 @@
 ---
-title: [Research Initiative Title]
+title: "Research Initiative Title"
 status: draft                   # draft | active | review | final | paused
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-authors: [@github-username]     # Use GitHub usernames for easy attribution
-category: ecosystem-analysis    # ecosystem-analysis | tooling | market-research | landscape-mapping | use-case-analysis | other
-timeline: [Q4 2025 | 2-3 months | ongoing]
+authors: ["@github-username"]   # Use GitHub usernames for easy attribution
+category: ecosystem-analysis    # ecosystem-analysis | tooling | policy | market-research | landscape-mapping | use-case-analysis
+timeline: "Q4 2025"            # Q4 2025 | 2-3 months | ongoing
 priority: medium               # high | medium | low
 tags: []                       # Optional: privacy, ZK, DeFi, infrastructure, etc.
 ---
