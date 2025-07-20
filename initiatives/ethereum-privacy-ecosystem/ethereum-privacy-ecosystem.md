@@ -1,12 +1,13 @@
 ---
-title: Ethereum Privacy Ecosystem Mapping
-status: draft                   # draft | active | review | final | paused
+title: "Ethereum Privacy Ecosystem Mapping"
+status: draft
 created: 2025-07-13
 updated: 2025-07-20
-authors: [@Msiusko]
-category: ecosystem-analysis    # ecosystem-analysis | tooling | policy | market-research
-timeline: Q2 2025
-priority: high                  # high | medium | low
+authors: ["@Msiusko"]
+category: ecosystem-analysis
+timeline: "Q2 2025"
+priority: high
+tags: []
 ---
 
 

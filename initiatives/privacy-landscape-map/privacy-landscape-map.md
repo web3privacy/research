@@ -1,12 +1,13 @@
 ---
-title: Research Initiative Title
+title: "Privacy Landscape Map"
 status: draft                   # draft | active | review | final | paused
 created: 2025-07-13
 updated: 2025-07-13
-authors: [@username1, @username2]
-category: ecosystem-analysis    # ecosystem-analysis | tooling | policy | market-research
-timeline: Q2 2025
+authors: ["@username1", "@username2"]
+category: landscape-mapping     # ecosystem-analysis | tooling | policy | market-research | landscape-mapping | use-case-analysis
+timeline: "Q2 2025"
 priority: high                  # high | medium | low
+tags: []
 ---
 
 
