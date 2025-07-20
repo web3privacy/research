@@ -1,4 +1,3 @@
-
 ---
 title: Decentralised privacy market snapshot Q1-Q2
 status: draft                   # draft | active | review | final | paused
