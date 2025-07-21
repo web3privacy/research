@@ -101,6 +101,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Confidential Balances Token Extensions](https://www.helius.dev/blog/confidential-balances) | confidential balances on Solana |
 | [Wallet Beat](https://beta.walletbeat.eth.limo/wallet/privacy/) | privacy categories for Wallet categories |
 | [FMC++ progress](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/543#note_29699) | Full-chain membership proofs++ for Monero |
+| [Zero-knowledge Authenticator for Blockchain: Policy-private and Obliviously Updateable](https://eprint.iacr.org/2025/921) | introduce zero-knowledge authenticators (zkAt), a new cryptographic primitive for privacy-preserving authentication on public blockchains |
 
 ## Events
 | Name  | Description | Ecosystem | Date
@@ -126,3 +127,4 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 - Midnight launched [foundation](https://midnight.foundation)
 - [A maximally simple Ethereum L1 privacy roadmap](https://ethereum-magicians.org/t/a-maximally-simple-l1-privacy-roadmap/23459) by Buterin
 - [Ethereum Privacy: The Road to Self-Sovereignty](https://ethresear.ch/t/ethereum-privacy-the-road-to-self-sovereignty/22115) by pcaversaccio
+- [Capture Hidden Trends - Use Cases for Private and Decentralized ML Training](https://yuriko.io/posts/capture-hidden-trends/) by Yuriko
