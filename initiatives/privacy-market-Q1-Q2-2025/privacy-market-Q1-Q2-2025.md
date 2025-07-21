@@ -102,6 +102,14 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Wallet Beat](https://beta.walletbeat.eth.limo/wallet/privacy/) | privacy categories for Wallet categories |
 | [FMC++ progress](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/543#note_29699) | Full-chain membership proofs++ for Monero |
 
+## Events
+| Name  | Description | Ecosystem | Date
+| ------------- | ------------- | ------------- | ------------- | 
+| [Zcon VI](https://zfnd.org/zconvi/) | an annual conference with a focus on Zcash and privacy-preserving technologies | Zcash | March |
+| [Protocol Berg](https://protocol.berlin) | The decentralized protocol and infrastructure conference | Ethereum | June |
+| [Monerokon](http://monerokon.org) | A technical conference in privacy and financial technology | Monero | June |
+| [Ethereum Cypherpunk Congress](http://congress.web3privacy.info) | The biggest privacy & cypherpunk conference in web3 | multichain | Nov |
+
 ## TGE
 
 | Name  | Raised | Date |
