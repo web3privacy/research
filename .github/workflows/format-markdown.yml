@@ -64,7 +64,7 @@ jobs:
     - name: Format markdown files
       run: |
         echo "🔧 Formatting markdown files..."
-        markdownlint --fix "**/*.md" || true
+        find . -name "*.md" -exec markdownlint --fix {} + || true
 
     - name: Check for changes
       id: verify-changed-files
