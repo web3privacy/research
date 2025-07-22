@@ -10,7 +10,10 @@
 
 ## Research Initiative
 **Related Initiative**: [Link to the research initiative this PR relates to]
-**Research Phase**: [ ] Phase 1: Definition [ ] Phase 2: Execution [ ] Phase 3: Conclusion [ ]
+**Research Phase**: 
+- [ ] Phase 1: Definition
+- [ ] Phase 2: Execution 
+- [ ] Phase 3: Conclusion
 **Status Change**: [If applicable: draft → active → review → final]
 
 ## Summary
@@ -50,12 +53,17 @@
 - [ ] Links and references are functional
 
 ## Collaboration
-**Reviewers Requested**: @[username1] @[username2]
+**Reviewers Requested**: 
+- @[username1] 
+- @[username2]
 **Community Input**: [Is community review/feedback needed?]
 **Expert Consultation**: [Were domain experts consulted?]
 
 ## Impact Assessment
-**Significance**: [ ] Major findings [ ] Minor update [ ] Maintenance/correction
+**Significance**: 
+- [ ] Major findings 
+- [ ] Minor update 
+- [ ] Maintenance/correction
 **Affects Other Research**: [Does this impact other initiatives? If so, which ones?]
 **Next Phases**: [What should happen after this PR is merged?]
 

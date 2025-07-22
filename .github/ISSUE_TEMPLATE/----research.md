@@ -21,8 +21,14 @@ assignees: ''
 
 ## Research Initiative
 **Related Initiative**: [Link to specific research initiative if applicable]
-**Research Phase**: [ ] Phase 1: Definition [ ] Phase 2: Execution[ ] Phase 3: Conclusion [ ]
-**Priority**: [ ] High [ ] Medium [ ] Low
+**Research Phase**:
+- [ ] Phase 1: Definition
+- [ ] Phase 2: Execution
+- [ ] Phase 3: Conclusion
+**Priority**:
+- [ ] High
+- [ ] Medium
+- [ ] Low
 
 ## Description
 [Detailed description of the issue, request, or finding]
@@ -51,7 +57,14 @@ assignees: ''
 ## For Research Initiative Proposals
 If this is a new research initiative proposal, please also include (if / when  applicable):
 
-**Research Category**: [ ] ecosystem-analysis [ ] tooling [ ] policy [ ] market-research [ ] landscape-mapping [ ] use-case-analysis [ ] other
+**Research Category**: 
+- [ ] ecosystem-analysis 
+- [ ] tooling 
+- [ ] policy 
+- [ ] market-research 
+- [ ] landscape-mapping 
+- [ ] use-case-analysis 
+- [ ] other
 
 **Expected Timeline**: [Duration and target completion]
 
