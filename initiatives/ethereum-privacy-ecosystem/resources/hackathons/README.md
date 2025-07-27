@@ -13,12 +13,12 @@ Welcome to the open research project exploring **privacy projects built during E
 
 Two primary datasets:
 
-1. `data/hackathons.csv`: hackathon-level metadata *WIP
-2. `data/privacy-projects.csv`: individual privacy projects with tags *WIP
+1. `data/hackathons.md`: hackathon-level metadata *WIP
+2. `data/privacy-projects.md`: individual privacy projects with tags *WIP
 
 ## Contribute
 
-See [CONTRIBUTE.md]() to add new hackathons or privacy projects! *WIP
+See [contribute.md](https://github.com/jen-sei/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons/contribute.md) to add new hackathons or privacy projects!
 
 ## Project Tags
 
@@ -32,7 +32,7 @@ We use tags like:
 - `MPC`
 - `UX`
 
-Full list in [`tags/README.md`](). *WIP
+Full list in [`tags/README.md`](https://github.com/jen-sei/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons/tags/README.md).
 
 ## Output
 
