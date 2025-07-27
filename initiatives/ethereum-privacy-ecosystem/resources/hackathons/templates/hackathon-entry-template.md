@@ -7,4 +7,3 @@
 - **Total Hackers:** example2
 - **Total Submissions:** example2
 - **Privacy Submissions:** example2
-- 
