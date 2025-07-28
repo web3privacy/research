@@ -87,7 +87,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [COTI](https://coti.io) | mainnet | Ethereum |
 | [Panther Protocol](https://www.pantherprotocol.io) | mainnet | Multichain |
 | [DarkFi](https://dark.fi/insights/testnet-v2a.html) | testnet | Multichain |
-| [Midnight](https://x.com/MidnightNtwrk/status/1925196371943895088) | testnet | Cardano |
+| [Midnight](https://x.com/MidnightNtwrk/status/1925196371943895088) | testnet | Midnight |
 | [Tari](https://tari.com) | mainnet | ? |
 
 ## R&D
