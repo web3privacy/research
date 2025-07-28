@@ -23,6 +23,7 @@ See [contribute.md](https://github.com/jen-sei/research/blob/main/initiatives/et
 ## Project Tags
 
 We use tags like:
+
 - `identity`
 - `defi`
 - `zk`

@@ -8,6 +8,11 @@ on:
     branches: [ main ]
     paths: [ '**/*.md' ]
 
+# Add permissions block
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   format:
     runs-on: ubuntu-latest
@@ -69,11 +74,23 @@ jobs:
     - name: Check for changes
       id: verify-changed-files
       run: |
-        if [ -n "$(git status --porcelain)" ]; then
-          echo "changed=true" >> $GITHUB_OUTPUT
+        changes=$(git status --porcelain)
+        if [ -n "$changes" ]; then
+          echo "changed=true" >> "$GITHUB_OUTPUT"
         else
-          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "changed=false" >> "$GITHUB_OUTPUT"
         fi
+
+    - name: Get modified files
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      id: changed-files
+      run: |
+        # Get list of modified markdown files
+        {
+          echo 'files<<EOF'
+          git ls-files -m "*.md"
+          echo 'EOF'
+        } >> "$GITHUB_OUTPUT"
 
     - name: Commit changes
       if: steps.verify-changed-files.outputs.changed == 'true'
@@ -81,9 +98,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        files: |
-          **/*.md
-          .markdownlint.yaml
+        files: ${{ steps.changed-files.outputs.files }}
         commit-message: |
           🤖 Auto-format markdown files
 
@@ -92,4 +107,4 @@ jobs:
           - Ensured proper code style
           
           [skip ci]
-        ref: ${{ github.ref }} 
+        ref: refs/heads/${{ github.head_ref || github.ref_name }} 
