@@ -73,6 +73,8 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Veridian](https://cardanofoundation.org/veridian) | digital identity |
 | [Monerujo](https://www.monerujo.app) | Wallet |
 | [Monero v0.18.4.0](https://monero.observer/monero-v0.18.4.0-fluorine-fermi-released/) | 'Fluorine Fermi' update |
+| [Bionetta](https://docs.rarimo.com/zkml-bionetta/) | the ultimate client-side ZKML framework |
+| [Privacy Pools (0xbow)](http://0xbow.io) | private & compliant transactions on Ethereum |
 
 ## Protocol launches
 
@@ -102,6 +104,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Wallet Beat](https://beta.walletbeat.eth.limo/wallet/privacy/) | privacy categories for Wallet categories |
 | [FMC++ progress](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/543#note_29699) | Full-chain membership proofs++ for Monero |
 | [Zero-knowledge Authenticator for Blockchain: Policy-private and Obliviously Updateable](https://eprint.iacr.org/2025/921) | introduce zero-knowledge authenticators (zkAt), a new cryptographic primitive for privacy-preserving authentication on public blockchains |
+| [Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe](https://arxiv.org/abs/2501.03391) | a solution utilizing zk-SNARKs to provide privacy in smart contracts and blockchains |
 
 ## Events
 | Name  | Description | Ecosystem | Date
@@ -109,6 +112,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Zcon VI](https://zfnd.org/zconvi/) | an annual conference with a focus on Zcash and privacy-preserving technologies | Zcash | March |
 | [Protocol Berg](https://protocol.berlin) | The decentralized protocol and infrastructure conference | Ethereum | June |
 | [Monerokon](http://monerokon.org) | A technical conference in privacy and financial technology | Monero | June |
+| [bitcoin++](https://btcplusplus.dev/conf/riga/talks) | Privacy-edition program has been revealed | Bitcoin | August |
 | [Ethereum Cypherpunk Congress](http://congress.web3privacy.info) | The biggest privacy & cypherpunk conference in web3 | multichain | Nov |
 
 ## TGE
