@@ -107,8 +107,9 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe](https://arxiv.org/abs/2501.03391) | a solution utilizing zk-SNARKs to provide privacy in smart contracts and blockchains |
 
 ## Events
+
 | Name  | Description | Ecosystem | Date
-| ------------- | ------------- | ------------- | ------------- | 
+| ------------- | ------------- | ------------- | ------------- |
 | [Zcon VI](https://zfnd.org/zconvi/) | an annual conference with a focus on Zcash and privacy-preserving technologies | Zcash | March |
 | [Protocol Berg](https://protocol.berlin) | The decentralized protocol and infrastructure conference | Ethereum | June |
 | [Monerokon](http://monerokon.org) | A technical conference in privacy and financial technology | Monero | June |

@@ -66,6 +66,7 @@ If your project doesn't fit into the existing tags, propose a new one by opening
 ---
 
 **Tagging Guidelines:**
+
 - Use lowercase, comma-separated tags.
 - Be descriptive but concise.
 - Avoid overly niche tags unless the category is emerging or growing.
