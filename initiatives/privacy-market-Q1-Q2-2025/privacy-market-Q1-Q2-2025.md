@@ -13,7 +13,7 @@ tags: []
 Last snapshot we made was in [2023](https://medium.com/@Svyazniy/privacy-market-outlook-in-web3-report-35a96c35b6ae).
 We will curate market snapshot twice per year: mid + end of the year. It's aim - structure key news & data happening at decentralised privacy market.
 
-![alt text](https://github.com/web3privacy/research/blob/main/Privacy%20market/Q1-Q2%202025/src/Q1-Q2%202025%20report%20cover.png)
+![alt text](https://github.com/web3privacy/research/blob/main/initiatives/privacy-market-Q1-Q2-2025/assets/report%20title.jpeg)
 
 ## Contents
 
