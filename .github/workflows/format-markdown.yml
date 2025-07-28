@@ -81,15 +81,6 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        files: |
-          **/*.md
-          .markdownlint.yaml
-        commit-message: |
-          🤖 Auto-format markdown files
-
-          - Fixed YAML frontmatter syntax
-          - Applied consistent markdown formatting
-          - Ensured proper code style
-          
-          [skip ci]
-        ref: ${{ github.ref }} 
+        files: "**/*.md .markdownlint.yaml"
+        commit-message: "🤖 Auto-format markdown files\n\n- Fixed YAML frontmatter syntax\n- Applied consistent markdown formatting\n- Ensured proper code style\n\n[skip ci]"
+        ref: ${{ github.head_ref || github.ref }}
