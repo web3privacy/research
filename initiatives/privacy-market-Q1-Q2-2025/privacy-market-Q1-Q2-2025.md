@@ -75,6 +75,7 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 | [Monero v0.18.4.0](https://monero.observer/monero-v0.18.4.0-fluorine-fermi-released/) | 'Fluorine Fermi' update |
 | [Bionetta](https://docs.rarimo.com/zkml-bionetta/) | the ultimate client-side ZKML framework |
 | [Privacy Pools (0xbow)](http://0xbow.io) | private & compliant transactions on Ethereum |
+| [Firo v0.14.14.1](https://github.com/firoorg/firo/releases/tag/v0.14.14.1) | Spark Names support update |
 
 ## Protocol launches
 
