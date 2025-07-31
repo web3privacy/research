@@ -133,4 +133,5 @@ We will curate market snapshot twice per year: mid + end of the year. It's aim -
 - [A maximally simple Ethereum L1 privacy roadmap](https://ethereum-magicians.org/t/a-maximally-simple-l1-privacy-roadmap/23459) by Buterin
 - [Ethereum Privacy: The Road to Self-Sovereignty](https://ethresear.ch/t/ethereum-privacy-the-road-to-self-sovereignty/22115) by pcaversaccio
 - [Capture Hidden Trends - Use Cases for Private and Decentralized ML Training](https://yuriko.io/posts/capture-hidden-trends/) by Yuriko
+- [Firo Core Team receives 574 XMR donation from Power Up Privacy](https://firo.org/2025/04/10/firo-receive-574-xmr-donation-power-up-privacy.html) by Reuben Yap
 - [Firo's Spark Names activated](https://firo.org/2025/05/28/sparknames-activated.html) by AJay
