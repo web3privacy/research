@@ -11,7 +11,7 @@
 | [ETHPrague 2023](https://ethprague.com/) | DuctTape | 09.06.2023 | IRL | $128.400 | ? | [95](https://ethprague2023.devfolio.co/projects) | 7 |
 | [ETHPrague 2024](https://ethprague.com/) | DuctTape | 31.05.2024 | IRL | $86.500 | ? | [46](https://ethprague2024.devfolio.co/projects) | 1 |
 | [ETHBarcelona](https://www.ethbarcelona.com/) | ETHBCN | 07.07.2023 | IRL | $109.350 | ? | [46](https://ethbarcelona.devfolio.co/projects) | 1 |
-| [ETHIndia 2022](https://ethindia.co/) | ETHGlobal |
+| [ETHIndia 2022](https://ethindia.co/) | ETHGlobal | 02.12.2022 | IRL | $353.912 | ? | [462](https://ethindia2022.devfolio.co/projects) | 
 | [ETHIndia 2023](https://ethindia.co/) | ETHGlobal | 08.12.2023 | IRL | $273.000 | ? | [482](https://ethindia2023.devfolio.co/projects) | 23 |
 | [ETHIndia 2024](https://ethindia.co/) | ETHGlobal |
 | [ETHDenver 2020](https://www.ethdenver.com/) | ETHDenver LLC. |
