@@ -24,7 +24,7 @@
 
 ## Apps
 
-- **Stalth addresses**: Fluidkey, Umbra…
+- **Stealth addresses**: Fluidkey, Umbra…
 - **Wallets**: Railway, Frame, Rabby, Brume, Hinkal
 - **Transactions**: Railgun, 0xbow
 - **Mixers**: Tornado Cash
@@ -36,7 +36,7 @@
 
 ## Governance
 
-- **DAO-priva**cy: Aragon x MACI
+- **DAO-privacy**: Aragon x MACI, Vocdoni/Davinchi
 
 ## Infra
 
