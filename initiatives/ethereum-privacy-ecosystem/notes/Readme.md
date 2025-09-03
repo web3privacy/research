@@ -5,6 +5,7 @@
 - Papers
 - EIPs
 - [Proposals?]
+- **Tooling**: MACI...
 - **Working groups**
   - WalletBeat
   - Explorer
@@ -30,6 +31,9 @@
 - **VPN**: Nym, GnosisVPN
 - **Messengers**: Status
 - **Docs**: Fileverse
+
+## Governance
+- **DAO-priva**cy: Aragon x MACI
 
 ## Infra
 
