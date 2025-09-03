@@ -1,24 +1,26 @@
 # Mapping Ethereum Privacy Ecosystem components
 
 ## R&D
+
 - Papers
 - EIPs
 - [Proposals?]
 - **Working groups**
-    - WalletBeat
-    - Explorer
+  - WalletBeat
+  - Explorer
 
 - **Research Labs**
-    - Privacy & Scaling Explorations
-    - …
+  - Privacy & Scaling Explorations
+  - …
 - **Dev shops**
-    - Distributed Labs
-    - FAT Solutions
-    - DeFi Wonderland
+  - Distributed Labs
+  - FAT Solutions
+  - DeFi Wonderland
 
 - Individual Researchers
 
-## Apps 
+## Apps
+
 - **Stalth addresses**: Fluidkey, Umbra…
 - **Wallets**: Railway, Frame, Rabby, Brume
 - **Transactions**: Railgun, 0xbow
@@ -29,26 +31,30 @@
 - **Messengers**: Status
 
 ## Infra
+
 - **L2s**
-    - Aztec
-    - COTI
+  - Aztec
+  - COTI
 - **Mixnets**: Nym, HOPR
 - **Nodes**
-    - Gnosis x HOPR
-    - Dappnode
+  - Gnosis x HOPR
+  - Dappnode
 
 ## B2B
+
 - Confidential ERC20
 - **products**: ZKSync’s Validium
 - **companies**: Inco, Zama...
 
 ## Communities
+
 - Web3Privacy now
 - Privacy Latam
 - Cryptocanal x ETHDam privacy hackathon
 - ETHRome x Rome privacy hackathon
 
 ## Events
+
 - Hackathons: offline - ETHRome, ETHDam, ETHBerlin, W3PN HACKS...
 - Congresses: Ethereum Cypherpunk Congress
 - Summits: Web3Privacy now, Encryption Days, Privacy Summit by Crecimiento...
@@ -56,6 +62,7 @@
 - …
 
 ## Sunset
+
 - Sismo
 - Nocturne
 - Unirep
