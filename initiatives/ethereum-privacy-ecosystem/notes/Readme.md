@@ -33,6 +33,7 @@
 - **Docs**: Fileverse
 
 ## Governance
+
 - **DAO-priva**cy: Aragon x MACI
 
 ## Infra
