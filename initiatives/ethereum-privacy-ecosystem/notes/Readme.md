@@ -1,5 +1,7 @@
 # Mapping Ethereum Privacy Ecosystem components
 
+![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/assets/img/ethereum-privacy-ecosystem-mapping.png)
+
 ## R&D
 
 - Papers
