@@ -22,13 +22,14 @@
 ## Apps
 
 - **Stalth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume
+- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal
 - **Transactions**: Railgun, 0xbow
 - **Mixers**: Tornado Cash
-- **DID**: Rarime, ex-Holonym [Human.tech]
+- **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
 - **Portfolio**: Rotki
 - **VPN**: Nym, GnosisVPN
 - **Messengers**: Status
+- **Docs**: Fileverse
 
 ## Infra
 
@@ -68,3 +69,9 @@
 - Unirep
 - Firn
 - Aztec Connect
+
+# Open questions
+
+- Where to frame projects that allow ETH-as-a-currency be private (swap, transfer)?
+- Where to put projects that use EVM, but doesn't deploy on Ethereum? Like Secret Network.
+- How to frame projects that are protocols, but use marketing language or hide their infra-centric approach (calling themselves "wallet")?
