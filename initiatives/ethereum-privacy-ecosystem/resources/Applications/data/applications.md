@@ -2,11 +2,59 @@
 
 ## Applications
 
-- **Stealth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet
-- **Transactions**: Railgun, 0xbow, Tornado Cash
-- **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
-- **Portfolio**: Rotki
-- **VPN**: Nym, GnosisVPN
-- **Messengers**: Status
-- **Docs**: Fileverse
+## Wallets
+
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Railway** | - |  - |
+| **Frame** |  - |  - |
+| **Rabby** |  - |  - |
+| **Brume** | -  |  -  |
+| **Hinkal** |  - |  -  |
+| **Terminal Wallet** |  -  | -  |
+| **Kohaku Wallet** |  -  |  -  |
+
+## Transactional privacy
+
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Railgun** | - |  - |
+| **0xbow** |  - |  - |
+| **Tornado Cash** |  - |  - |
+
+## Stealth addresses
+
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Fluidkey** | - |  - |
+| **Umbra cash** |  - |  - |
+
+## Decentralised identity
+
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Rarime** | - |  - |
+| **Human.tech** |  - |  - |
+| **Privado ID** |  - |  - |
+
+## Portfolio
+
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Rotki** | - |  - |
+
+## Docs
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Ddocs** | - |  - |
+
+## Messengers
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **Status** | - |  - |
+
+## dVPNs
+| **Project** | **GitHub** | Product-readiness |
+| ------------- | ------------- |------------- |
+| **NYM** | - |  - |
+| **GnosisVPN** | - |  - |
