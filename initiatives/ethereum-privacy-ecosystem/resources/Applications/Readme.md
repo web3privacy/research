@@ -11,3 +11,9 @@ Welcome to the open research project exploring privacy projects built during Eth
 **Data Overview**
 
 Primary dataset: `data/applications.md`: applications DB *WIP
+
+## Contribute
+
+1. Fork the repo
+2. Add Application to the list
+3. Create a Pull Request
