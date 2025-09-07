@@ -36,6 +36,7 @@
 | **Rarime** | - |  - |
 | **Human.tech** |  - |  - |
 | **Privado ID** |  - |  - |
+| **ZK Pass** |  - |  - |
 
 ## Portfolio
 
