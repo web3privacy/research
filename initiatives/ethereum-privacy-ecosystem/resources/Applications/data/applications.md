@@ -44,16 +44,19 @@
 | **Rotki** | - |  - |
 
 ## Docs
+
 | **Project** | **GitHub** | Product-readiness |
 | ------------- | ------------- |------------- |
 | **Ddocs** | - |  - |
 
 ## Messengers
+
 | **Project** | **GitHub** | Product-readiness |
 | ------------- | ------------- |------------- |
 | **Status** | - |  - |
 
 ## dVPNs
+
 | **Project** | **GitHub** | Product-readiness |
 | ------------- | ------------- |------------- |
 | **NYM** | - |  - |
