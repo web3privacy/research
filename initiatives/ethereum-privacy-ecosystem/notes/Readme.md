@@ -9,13 +9,12 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 
 ![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/notes/Ethereum%20Privacy%20Ecosystem%20layering.png)
 
-
 # Adoption layer
 
 ## Apps
 
 - **Stealth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet 
+- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet
 - **Transactions**: Railgun, 0xbow, Tornado Cash
 - **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
 - **Portfolio**: Rotki
@@ -30,7 +29,7 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 - **VCs**:
   - orgs: a16z crypto, Outlier Ventures
   - individuals: Vitalik Buterin, Zac Williamson, Stefan George...
- 
+
 ## Marketing
 
 - **Agencies**: Serotonin...
