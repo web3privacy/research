@@ -2,19 +2,25 @@
 
 ![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/assets/img/ethereum-privacy-ecosystem-mapping.png)
 
+# Tech Layer
+
 ## R&D
 
 - Papers
 - EIPs
 - [Proposals?]
-- **Tooling**: MACI...
 - **Working groups**
   - WalletBeat
   - Explorer
+ 
+**Tooling**: 
+- Abstraction layers:
+  - Protocols: Semaphore, RLN, TLS Notary, Unirep...
+  - ZK Infra
+  - DSLs (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
 
-- **Research Labs**
-  - Privacy & Scaling Explorations
-  - …
+- **Research Labs**: Privacy & Scaling Explorations
+
 - **Dev shops**
   - Distributed Labs
   - FAT Solutions
@@ -22,17 +28,9 @@
 
 - Individual Researchers
 
-## Apps
-
-- **Stealth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal
-- **Transactions**: Railgun, 0xbow
-- **Mixers**: Tornado Cash
-- **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
-- **Portfolio**: Rotki
-- **VPN**: Nym, GnosisVPN
-- **Messengers**: Status
-- **Docs**: Fileverse
+## Funding (R&D)
+- EF grants
+- Aztec grants
 
 ## Governance
 
@@ -43,16 +41,56 @@
 - **L2s**
   - Aztec
   - COTI
+- **RPC**
 - **Mixnets**: Nym, HOPR
 - **Nodes**
   - Gnosis x HOPR
   - Dappnode
+- **Private compute** (TEE, FHE...)
 
 ## B2B
 
 - Confidential ERC20
 - **products**: ZKSync’s Validium
 - **companies**: Inco, Zama...
+
+## Sunset
+
+- Sismo
+- Nocturne
+- Unirep
+- Firn
+- Aztec Connect
+
+# Adoption layer
+
+## Funding (R&D)
+- Public goods: Gitcoin, Giveth...
+- EF grants
+- VCs:
+  - orgs: a16z crypto, Outlier Ventures
+  - individuals: Vitalik Buterin...
+
+## Apps
+
+- **Stealth addresses**: Fluidkey, Umbra…
+- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal
+- **Transactions**: Railgun, 0xbow, Tornado Cash
+- **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
+- **Portfolio**: Rotki
+- **VPN**: Nym, GnosisVPN
+- **Messengers**: Status
+- **Docs**: Fileverse
+
+# Social layer
+
+## Advocacy
+
+- Coin Center
+- Web3Privacy now
+- Privacy Guardians
+- WomenX in Privacy
+- EFF
 
 ## Communities
 
@@ -63,19 +101,15 @@
 
 ## Events
 
-- Hackathons: offline - ETHRome, ETHDam, ETHBerlin, W3PN HACKS...
-- Congresses: Ethereum Cypherpunk Congress
-- Summits: Web3Privacy now, Encryption Days, Privacy Summit by Crecimiento...
-- Meetups: Web3Privacy now meetups, Privacy Guardians...
-- …
+- **Hackathons**: offline - ETHRome, ETHDam, ETHBerlin, W3PN HACKS...
+- **Congresses**: Ethereum Cypherpunk Congress
+- **Summits**: Web3Privacy now, Encryption Days, Privacy Summit by Crecimiento...
+- **Meetups**: Web3Privacy now meetups, Privacy Guardians...
 
-## Sunset
+## Social, cultural sciences
 
-- Sismo
-- Nocturne
-- Unirep
-- Firn
-- Aztec Connect
+- **Content**: Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis
+- **Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
 
 # Open questions
 
