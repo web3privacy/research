@@ -3,4 +3,4 @@
 ## Marketing
 
 - **Agencies**: Serotonin...
-- **KOLs**: Naomi Brockwell 
+- **KOLs**: Naomi Brockwell
