@@ -20,7 +20,7 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 ## Apps
 
 - **Stealth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet 
+- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet
 - **Transactions**: Railgun, 0xbow, Tornado Cash
 - **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
 - **Portfolio**: Rotki
