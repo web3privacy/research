@@ -28,6 +28,10 @@
 | ------------- | ------------- |------------- |
 | **Fluidkey** | - |  - |
 | **Umbra cash** |  - |  - |
+| [Night](https://x.com/NightProtocol) |  - |  - |
+| [STELS](https://x.com/StelsProtocol) |  - |  - |
+| [dstealth](https://dstealth.xyz) |  - |  - |
+| [Curvy](https://x.com/0xCurvy)  - |  - |
 
 ## Decentralised identity
 
