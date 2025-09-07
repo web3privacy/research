@@ -114,6 +114,10 @@
 - **Content**: Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis
 - **Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
 
+## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
+
+![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/notes/Ethereum%20Privacy%20Ecosystem%20layout%20by%20Alisher%20x%20Logos.png)
+
 # Open questions
 
 - Where to frame projects that allow ETH-as-a-currency be private (swap, transfer)?
