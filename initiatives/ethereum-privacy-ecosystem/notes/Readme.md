@@ -12,8 +12,9 @@
 - **Working groups**
   - WalletBeat
   - Explorer
- 
-**Tooling**: 
+
+**Tooling**:
+
 - Abstraction layers:
   - Protocols: Semaphore, RLN, TLS Notary, Unirep...
   - ZK Infra
@@ -29,6 +30,7 @@
 - Individual Researchers
 
 ## Funding (R&D)
+
 - EF grants
 - Aztec grants
 
@@ -65,6 +67,7 @@
 # Adoption layer
 
 ## Funding (R&D)
+
 - Public goods: Gitcoin, Giveth...
 - EF grants
 - VCs:
