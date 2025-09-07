@@ -7,26 +7,33 @@
 We apply human-centric approach to mapping putting applications as the starting point of Ethereum privacy activations. Only afterwards we follow up with tech layer from EIPs to SDKs.
 This helps to de-center privacy from inward-tech view without adoption & focus on projects, initiatives in need of privacy.
 
+![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/notes/Ethereum%20Privacy%20Ecosystem%20layering.png)
+
+
 # Adoption layer
-
-## Funding (R&D)
-
-- Public goods: Gitcoin, Giveth...
-- EF grants
-- VCs:
-  - orgs: a16z crypto, Outlier Ventures
-  - individuals: Vitalik Buterin...
 
 ## Apps
 
 - **Stealth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet
+- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet 
 - **Transactions**: Railgun, 0xbow, Tornado Cash
 - **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
 - **Portfolio**: Rotki
 - **VPN**: Nym, GnosisVPN
 - **Messengers**: Status
 - **Docs**: Fileverse
+
+## Funding (R&D)
+
+- **Public goods**: Gitcoin, Giveth...
+- **EF grants**
+- **VCs**:
+  - orgs: a16z crypto, Outlier Ventures
+  - individuals: Vitalik Buterin, Zac Williamson, Stefan George...
+ 
+## Marketing
+
+- **Agencies**: Serotonin...
 
 # Tech Layer
 
