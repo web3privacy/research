@@ -1,0 +1,19 @@
+# Ethereum Privacy Funding Overview
+
+Welcome to the open research project exploring privacy projects built during Ethereum Privacy Fundijng around the globe. This is a community-driven effort to map, understand, and support the growing privacy ecosystem across the Ethereum space supported by the Ethereum Foundation and coordinated by Web3Privacy Now collective.
+
+**Goals**
+
+- Map privacy-focused funding opportunities across Ethereum ecosystem.
+- Provide a taggable database of these initiatives
+- Enable researchers, developers, community fundraise and sustaine development and scaling of their apps/protocols
+
+**Data Overview**
+
+Primary dataset: `data/funding.md`: funding initiatives DB *WIP
+
+## Contribute
+
+1. Fork the repo
+2. Add New entry to the list
+3. Create a Pull Request
