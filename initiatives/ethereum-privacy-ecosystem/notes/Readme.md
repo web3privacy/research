@@ -11,7 +11,7 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 
 # Adoption layer
 
-## Apps
+## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
 - **Stealth addresses**: Fluidkey, Umbra…
 - **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet
@@ -22,7 +22,7 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 - **Messengers**: Status
 - **Docs**: Fileverse
 
-## Funding (R&D)
+## [Funding (R&D)](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
 - **Public goods**: Gitcoin, Giveth...
 - **EF grants**
@@ -30,9 +30,10 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
   - orgs: a16z crypto, Outlier Ventures
   - individuals: Vitalik Buterin, Zac Williamson, Stefan George...
 
-## Marketing
+## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
 
 - **Agencies**: Serotonin...
+- **Indivuduals**: Naomi Brockwell, [90 seconds to crypto](https://www.youtube.com/@90secondscrypto), [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3)
 
 # Tech Layer
 
@@ -115,7 +116,7 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 
 ## Events
 
-- **Hackathons**: offline - ETHRome, ETHDam, ETHBerlin, W3PN HACKS...
+- **[Hackathons](https://github.com/web3privacy/research/tree/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons)**: offline - ETHRome, ETHDam, ETHBerlin, W3PN HACKS...
 - **Congresses**: Ethereum Cypherpunk Congress
 - **Summits**: Web3Privacy now, Encryption Days, Privacy Summit by Crecimiento...
 - **Meetups**: Web3Privacy now meetups, Privacy Guardians...
