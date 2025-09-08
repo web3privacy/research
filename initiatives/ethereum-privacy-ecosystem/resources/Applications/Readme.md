@@ -5,7 +5,7 @@ Welcome to the open research project exploring privacy projects built during Eth
 **Goals**
 
 - Map privacy-focused applications across Ethereum ecosystem.
-- Provide a taggable database of privacy projects
+- Provide a tangible database of privacy projects
 - Enable researchers, developers, community use, fork, promote existing applications
 
 **Data Overview**
