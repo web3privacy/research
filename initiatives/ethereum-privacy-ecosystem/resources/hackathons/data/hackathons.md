@@ -1,4 +1,5 @@
 > *Editor Notes:*
+>
 > - `devfolio`, `devpost`, `dorahacks`, and `taikai`
 > - **Next up:** ETHMunich, ETHNaples, ETHSofia, ETHTelAviv
 
@@ -37,7 +38,7 @@
 | [ETHWarsaw 2022](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 30.08.2022 | IRL | $6.000 | 106 | [31](https://ethwarsaw.devpost.com/project-gallery) | 1 |
 | [ETHWarsaw 2023](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 01.09.2023 | IRL | $6.000 | 127 | [44](https://ethwarsaw-2023.devpost.com/project-gallery) | 1 |
 | [ETHWarsaw 2024](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 06.09.2024 | IRL | $86.000 | ? | [48](https://ethwarsaw-hackathon-2024.devfolio.co/projects) | 2 |
-| [ETHWarsaw Spring Hack 2025](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 21.03.2025 | IRL | $4.000 | 33 | [8](https://taikai.network/en/ethwarsaw/hackathons/spring-hack-2025/projects) | 1 | 
+| [ETHWarsaw Spring Hack 2025](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 21.03.2025 | IRL | $4.000 | 33 | [8](https://taikai.network/en/ethwarsaw/hackathons/spring-hack-2025/projects) | 1 |
 | [ETHWarsaw 2025](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 05.09.2025 | IRL | $35.000 | 114 | [42](https://taikai.network/en/ethwarsaw/hackathons/ethwarsaw-2025/projects) | 1 |
 | [EthereumZuri.ch](https://2023.ethereumzuri.ch/) | Duct Tape, UZH Blockchain Center | 14.04.2023 | Online | $8.750 | ? | [16](https://ethereumzurich.devfolio.co/projects) | 1 |
 | [ETHPorto 2023](https://ethporto.org/) | ETHPorto | 16.03.2023 | IRL | $37.000 | 270 | [30](https://taikai.network/en/ethporto/hackathons/ethportohackathon2023/projects) | 3 |
@@ -46,4 +47,3 @@
 | [ETHBelgrade 2025](https://ethbelgrade.rs/) | ETHBelgrade | 03.06.2025 | IRL | $60.000 | 284 | [20](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects) | 3 |
 | [ETHTokyo 2025](https://ethtokyo.org/) | ETHTokyo | 15.09.2025 | IRL | $9.000 | 124 | [41](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects) | 9 |
 | [ETHSeoul 2022](https://2022.ethseoul.org/) | ETHSeoul | 05.08.2022 | IRL | $147.500 | ? | [23](https://ethseoul.devfolio.co/projects) | 3 |
-
