@@ -11,19 +11,17 @@
 | ------------- | ------------- |------------- |------------- |------------- |------------- | ------------- | ------------- |
 | Project name | Specific category (example: gaming) | Short description explaining project purpose ("Healthcare app allowing patients to own and share their medical data") | Privacy use-case description (format: short message, specific "what exactly is private". Example: "private messages: content, received & sender, identity) | Demo link | GitHub link | Hackathon link | tag 1, tag 2, tag 3 |
 
-
 _Example_
 
 | Project  | Category | Description | GitHub | Web | Process | Applied project | Privacy features |
 | ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |------------- |
 | ｗｈｉｓｐｅｒ | Fundraising | Private Cross-chain Quadratic Funding | [GitHub](https://github.com/ethdam24-quadratic/secret-repo) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea) | quadratic voting | secret network | private voting |
 
-
 # 2024
 
 ## EthCC
 
-| Project  | Category | Description | GitHub | Web | 
+| Project  | Category | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |------------- |
 | MegaAsk | Surveys | Anonymous questions to anyone onchain | [GitHub](https://github.com/everdimension/ask-fm-onchain-hackathon-jul-2024) | [web](https://ethglobal.com/showcase/megaask-70hqj)
 | Medcare | Healthcare | management of medical information  | [GitHub](https://github.com/garosan/ethbrussels-tests) | [web](https://ethglobal.com/showcase/medcare-qu56m)
@@ -62,7 +60,7 @@ _Example_
 
 ## ETHGLOBAL SYDNEY
 
-| Project  | Category | Description | GitHub | Web | 
+| Project  | Category | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |------------- |
 | 0xPoll | Voting | one citizen per vote platform allowing citizens to vote on legislation in Federal Parliament for gathering consensus and affecting political change | [GitHub](https://github.com/c4f3c0d3/0xpoll/) | [web](https://ethglobal.com/showcase/0xpoll-4j05w)
 | Roman Kyoto | DeFi | a MASP (multi asset shielded pool) that allows for users to deposit and transfer ERC20s privately | [GitHub](https://github.com/blockhackersio/roman-kyoto/) | [web](https://ethglobal.com/showcase/roman-kyoto-s3uio)
@@ -72,7 +70,7 @@ _Example_
 
 ## HACKFS
 
-| Project  | Category | Description | GitHub | Web | 
+| Project  | Category | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |------------- |
 | IDCV | Hiring | Next-gen resumes: private, owner-controlled, decentralized, IPFS stored and .cv domain linked on and off chain. | [GitHub](https://github.com/sksudharsanan/id.cv) | [web](https://ethglobal.com/showcase/idcv-hsc87)
 | Decast.Live | Streaming | a live casting platform that aims to build a privacy-first video infrastructure and services to web3 and traditional organisations. | [GitHub](https://github.com/VideoWiki/room) | [web](https://ethglobal.com/showcase/decast-live-me3az)
@@ -98,9 +96,9 @@ _Example_
 | Honorous | DID | a decentralized identity and reputation system | [GitHub](https://github.com/marssarthak/honorous) | [web](https://ethglobal.com/showcase/honorous-xxvp0)
 | DAOVerified | DID | Credentials are private. so the contributor's identity too. | [GitHub](https://github.com/deepshah9696/HackFS) | [web](https://ethglobal.com/showcase/daoverified-jb6m7)
 
-## ETHDam 
+## ETHDam
 
-| Project  | Description | GitHub | Web | 
+| Project  | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |
 | zk loyalty  | A GDPR compliant, anonymous loyalty program | [GitHub](https://github.com/ETHDam-Hackathon/zkLoyalty/) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxue9cx00s9vq01twk54w31/idea)
 | Whisper | platform for anonymized members to create privacy-preserved groups | [GitHub](https://github.com/gundeep/ethdam) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluz7whmw018nz301b1rrtbio/idea)
@@ -116,10 +114,9 @@ _Example_
 | AUDIT-TRAIL | immutable and permanent record storage | - | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluzaxmnf01h6vq01t9b5o7cd/idea)
 | ｗｈｉｓｐｅｒ | Private Cross-chain Quadratic Funding | [GitHub](https://github.com/ethdam24-quadratic/secret-repo) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea)
 
-
 ## SCALING ETHEREUM 2024
 
-| Project  | Description | Category | GitHub | Web | 
+| Project  | Description | Category | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |------------- |
 | Football  | on-chain football manager game that leverages the privacy that TEN Protocol provides to hide players' strategies from opponents | Gaming | [GitHub](https://github.com/Akhil-2310/Scaling-ethereum) | [web](https://ethglobal.com/showcase/football-gvaa8)
 | z0Wallet  | privacy focused multi sig wallet powered by the risc0 stack | Wallet | [GitHub](https://github.com/rahul0tripathi/z0wallet) | [web](https://ethglobal.com/showcase/z0wallet-8hj73)
@@ -139,17 +136,16 @@ _Example_
 | Thumper | structured zk setup ceremonies with trustless coordination, privacy, sybil-resistance, and zk-proven results | Trustless setup | [GitHub](https://github.com/justinfrevert/thumper) | [web](https://ethglobal.com/showcase/thumper-dbvy2)
 | Polar | web3 auth provider that privately stores user data in decentralized storage and selectively reveals it to the client app. | Auth | [GitHub](https://github.com/Complexia/polar) | [web](https://ethglobal.com/showcase/polar-p0f2b)
 
-## ETHBucharest 
+## ETHBucharest
 
-| Project  | Description | GitHub | Web | 
+| Project  | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |
 | zK-Vote | A decentralized voting platform | [GitHub](https://github.com/Akhil-2310/Eth-Bucharest) | [web](https://dorahacks.io/buidl/10887)
 | stray | The go-to extension for every website, providing chat functionality to ensure privacy, facilitate engaging conversations | [GitHub](https://github.com/Enrypase/stray) | [web](https://dorahacks.io/buidl/10859)
 
-
 ## ETHGLOBAL LONDON
 
-| Project  | Description | GitHub | Web | 
+| Project  | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |
 | ddMesh | A decentralized database market where anyone can rent or sell managed private cloud databases using the native orbit chain token DDM or cUSD. | [GitHub](https://github.com/ethlondon2024) | [web](https://ethglobal.com/showcase/ddmesh-92azb)
 | MediPortal | Healthcare app allowing patients to own and share their own medical data conveniently | [GitHub](https://github.com/aalaoui12/MediPortal) | [web](https://ethglobal.com/showcase/mediportal-jv4pd)
@@ -184,7 +180,7 @@ _Example_
 
 ## Circuit Breaker
 
-| Project  | Description | GitHub | Web | 
+| Project  | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |
 | Patient AnalyticsZKP | Analytical research using ZKP on Private Patient Healthcare Records potentially to be stored on the Blockchain. | [GitHub](https://github.com/biscuitdey/PatientAnalyticsZKP) | [web](https://ethglobal.com/showcase/patient-analyticszkp-4o1m2)
 | Inro | A privacy-first, decentralized ID verification system using Sindri.  | [GitHub](https://github.com/knocks-public/2024-CircuitBreaker) | [web](https://ethglobal.com/showcase/inro-rped8)
@@ -230,7 +226,7 @@ _Example_
 | ZKBiometrics | ZK powered Biometrics SDK and wallet that makes use of Zero knowledge proofs to grant absolute privacy to signatures and identity. | [GitHub](https://github.com/EddOliver/ZKBiometrics) | [web](https://ethglobal.com/showcase/zkbiometrics-7e0ef)
 | AnonFund | Platform for (1) anonymous (2) regulatory-friendly (3) cryptocurrency donations | [GitHub](https://github.com/imajus/anonfund) | [web](https://ethglobal.com/showcase/anonfund-diog1)
 | ZK BRM | Voting system deployed on Scroll ZK-EVM Blockchain in order to preserve the privacy of voters | - | [web](https://ethglobal.com/showcase/zk-brm-q6ifs)
-| Twister | Transfer tokens privately from 0.001 eth with no maximum limit to one or more accounts. | [GitHub](https://github.com/youtpout/twister) | [web](https://ethglobal.com/showcase/twister-hqgid) 
+| Twister | Transfer tokens privately from 0.001 eth with no maximum limit to one or more accounts. | [GitHub](https://github.com/youtpout/twister) | [web](https://ethglobal.com/showcase/twister-hqgid)
 | Blind Spot Auction | The Blind Auction of NFT Art on the Blockchain project is redefining standards in the NFT world | [GitHub](https://github.com/rezon99/Blind-Spot-use-ZK-proof-) | [web](https://ethglobal.com/showcase/blind-spot-auction-zeffz)
 | Zero to Hero | A trust-less system where peer to peer reviewing dynamics are introduced to give peace of mind to both employers and freelancers | [GitHub](https://github.com/chandrabosep/Circuit_Breaker-24) | [web](https://ethglobal.com/showcase/zero-to-hero-95y28)
 | Activis | A zk Dapp for individuals or groups to organize, collaborate, and advocate for social or political causes in a secure, censorship-resistant manner | [GitHub](https://github.com/Bleyle823/Activis) | [web](https://ethglobal.com/showcase/activis-rwkvx)
@@ -253,7 +249,7 @@ _Example_
 
 ## LFGHO
 
-| Project  | Description | GitHub | Web | 
+| Project  | Description | GitHub | Web |
 | ------------- | ------------- |------------- |------------- |
 | Degram2.0 | a decentralized social media platform. | [GitHub](https://github.com/ayush035/Degram-2.0) | [web](https://ethglobal.com/showcase/degram2-0-2z2f5)
 | Lord of the solvers | FHE and ML powered user intent solver, ensuring user privacy and facilitating web2 like experience. | [GitHub](https://github.com/Created-for-a-purpose/Lord-of-the-solvers) | [web](https://ethglobal.com/showcase/lord-of-the-solvers-w3oay)
@@ -456,8 +452,8 @@ _Example_
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
-| ZKRep | A way to track a user's reputation with an organization without disclosing it to others | [GitHub](https://github.com/JasperTimm/ZKRep) | [Web](https://ethglobal.com/showcase/zkrep-zjxpr) | 
-| zk-maia | Private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process | [GitHub](https://github.com/GigaHierz/zk-terabithia) | [Web](https://ethglobal.com/showcase/zk-maia-mq7et) | 
+| ZKRep | A way to track a user's reputation with an organization without disclosing it to others | [GitHub](https://github.com/JasperTimm/ZKRep) | [Web](https://ethglobal.com/showcase/zkrep-zjxpr) |
+| zk-maia | Private zk proof cross-chain bridge that allows user to transfer their assets at low cost and earn interest during the process | [GitHub](https://github.com/GigaHierz/zk-terabithia) | [Web](https://ethglobal.com/showcase/zk-maia-mq7et) |
 
 ## ETHNewYork (2022)
 
@@ -465,22 +461,22 @@ _Example_
 | ------- | ----------- | ------ | --- |
 | zkCommonGround by Hashchat | Solving the first-offer dilemma by allowing buyers and sellers to match without disclosing prices |[GitHub](https://github.com/hashchat-xyz/zkCommonGround) | [Web](https://ethglobal.com/showcase/zkcommonground-by-hashchat-cntfq) |
 | ZK KYC SBT | zero-knowledge know-your-customer and personhood proof soulbound token | [GitHub](https://github.com/ETHNYC-ZK-KYC-Soulbound) | [Web](https://ethglobal.com/showcase/zk-kyc-sbt-ozwb2) |
-| Cross Fader | A multi chain privacy mixer. Anonymize transactions on any L2. | [GitHub](https://github.com/johhonn/ETHNYC) | [Web](https://ethglobal.com/showcase/cross-fader-k2601) | 
-| AttributionX | Attribution for Advertisers : Facilitate sharing of data in a private way to get attribution calculated. | [GitHub](https://bitbucket.org/shreenam/ethnyc_privy/) | [Web](https://ethglobal.com/showcase/attributionx-ynucd) | 
+| Cross Fader | A multi chain privacy mixer. Anonymize transactions on any L2. | [GitHub](https://github.com/johhonn/ETHNYC) | [Web](https://ethglobal.com/showcase/cross-fader-k2601) |
+| AttributionX | Attribution for Advertisers : Facilitate sharing of data in a private way to get attribution calculated. | [GitHub](https://bitbucket.org/shreenam/ethnyc_privy/) | [Web](https://ethglobal.com/showcase/attributionx-ynucd) |
 
 ## HackFS 2022
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | Om - zkDAO | Uses zero-knowledge proofs to provide a decentralized and private data storage layer solution. | [GitHub](https://github.com/OmHackFS/om/) | [Web](https://ethglobal.com/showcase/om-zkdao-k94t2) |
-| Zero Party Data | Zero knowledge proof to verify eligibility for gifts & discount offers by Brands. Personal data is not stored on-chain. | [GitHub](https://github.com/mekhiya/zeroPartyData) | [Web](https://ethglobal.com/showcase/zero-party-data-jxdrv) | 
+| Zero Party Data | Zero knowledge proof to verify eligibility for gifts & discount offers by Brands. Personal data is not stored on-chain. | [GitHub](https://github.com/mekhiya/zeroPartyData) | [Web](https://ethglobal.com/showcase/zero-party-data-jxdrv) |
 
 ## ETHMexico (2022)
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | Zkredit | Mina ZkApp for secure, private and bias-free mortgage credit | [GitHub](https://github.com/Ferret-san/zkredit) | [Web](https://ethglobal.com/showcase/zkredit-p9ivq) |
-| DID | Online private and unique digital Identity profile where all official credentials can be safely and permanently stored allowing easier access to manage and allocate user identification. | [GitHub](https://github.com/DavidCBarbedillo/ETHGlobal-DID) | [Web](https://ethglobal.com/showcase/did-gmiic) | 
+| DID | Online private and unique digital Identity profile where all official credentials can be safely and permanently stored allowing easier access to manage and allocate user identification. | [GitHub](https://github.com/DavidCBarbedillo/ETHGlobal-DID) | [Web](https://ethglobal.com/showcase/did-gmiic) |
 
 ## ETHOnline (2022)
 
@@ -496,13 +492,13 @@ _Example_
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | A private trading ZK shielded pool on OP | Solving copy-trading via building a shielded OP pool and an onchain derivatives exchange. Uses MetaMask Snaps to generate proof. | [GitHub](https://github.com/Boyuan-Deng/p0xeidon-trading-platform) | [Web](https://ethglobal.com/showcase/a-private-trading-zk-shielded-pool-on-op-5c8hn) |
-| PrivateMultiSig | Multi Signature Wallet with private voting solution. | [GitHub](https://github.com/markolazic01/PrivateMultiSig) | [Web](https://ethglobal.com/showcase/privatemultisig-v59mq) | 
-| ZK-Nullifier Snap | Using MetaMask snaps to generate ZK nullifier in privacy-preserving way | [GitHub](https://github.com/piotr-roslaniec/ethbogota-2022) | [Web](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) | 
+| PrivateMultiSig | Multi Signature Wallet with private voting solution. | [GitHub](https://github.com/markolazic01/PrivateMultiSig) | [Web](https://ethglobal.com/showcase/privatemultisig-v59mq) |
+| ZK-Nullifier Snap | Using MetaMask snaps to generate ZK nullifier in privacy-preserving way | [GitHub](https://github.com/piotr-roslaniec/ethbogota-2022) | [Web](https://ethglobal.com/showcase/zk-nullifier-snap-6a9sq) |
 | ZK Vote | Privacy voting system using Zero-Knowledge Proofs via Polygon ID to ensure user anonymity and uniqueness of the vote. | [GitHub](https://github.com/luanpontolio/zk-voting-system) | [Web](https://ethglobal.com/showcase/zk-vote-9ipgt) |
 | I AM: Self Sovereign zk-ID | Mobile web3 Self-Sovereign NFT ID for LatAm | [GitHub](https://github.com/fabiola29298/ethbogota22) | [Web](https://ethglobal.com/showcase/i-am-self-sovereign-zk-id-q6cbr) |
 | zkZak | Anonymous social media platform that uses zero knowledge verifiable credentials to onboard creators to the platform. | [GitHub](https://github.com/KaiStryker/zkZak) | [Web](https://ethglobal.com/showcase/zkzak-tkbum) |
-| diZKreet | Zero Knowledge Privacy Layer for NFTs, using Aztec | [GitHub](https://github.com/meirbank/ETHBogota2022) | [Web](https://ethglobal.com/showcase/dizkreet-4rvz2) | 
-| PRIVO | Private voting zkApp on Mina to enable groups such as DAOs to vote on proposals anonymously. | [GitHub](https://github.com/e84145fd66c3c309188e0d440169d955/privo) | [Web](https://ethglobal.com/showcase/privo-agroc) | 
+| diZKreet | Zero Knowledge Privacy Layer for NFTs, using Aztec | [GitHub](https://github.com/meirbank/ETHBogota2022) | [Web](https://ethglobal.com/showcase/dizkreet-4rvz2) |
+| PRIVO | Private voting zkApp on Mina to enable groups such as DAOs to vote on proposals anonymously. | [GitHub](https://github.com/e84145fd66c3c309188e0d440169d955/privo) | [Web](https://ethglobal.com/showcase/privo-agroc) |
 
 ## ETHSanFrancisco (2022)
 
@@ -515,7 +511,7 @@ _Example_
 | Onchain ZK Shuffle Texas HoldEm | A zkSNARK based card shuffling and dealing scheme and a demo application of a fully on-chain Texas Hold’em game on Ethereum. Private shuffling due to MEV breaking gameplay otherwise. | [GitHub](https://github.com/p0xeidon-labs/zkPoker) | [Web](https://ethglobal.com/showcase/onchain-zk-shuffle-texas-holdem-wuc8u) |
 | ZKBlueBird | Prove their Twitter belongs to a real human. All users who have verified their account with a privacy-preserving proof of personhood will be shown with a checkmark. | [GitHub](https://github.com/Tonycrypto44/ZKBlueBird,%20https://github.com/nanaknihal/blue-check,%20https://github.com/nanaknihal/blue-check-db-server) | [Web](https://ethglobal.com/showcase/zkbluebird-c421b) |
 | Secret Weavers | Anonymous DAO voting and behaviour analysis | [GitHub](https://github.com/zara-gm/weave) | [Web](https://ethglobal.com/showcase/secret-weavers-q98on) |
- 
+
 ## Hack FEVM (2022)
 
 | Project | Description | GitHub | Web |
@@ -559,35 +555,32 @@ _Example_
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | PrivAccess | PrivAccess allows getting access to restricted resources without leaking your identity. You could prove you pay your Netflix subscription on-chain without leaking your entireer financial records. |  | [Web](https://devpost.com/software/privaccess) |
-| Proof Of Membership | An application that allows a user to prove that their address is found within a set of addresses that all fulfill arbitrary parameters, such as proof of minimum balance. | [GitHub](https://github.com/vicnaum/proof-of-membership) | [Web](https://devpost.com/software/proof-of-membership) | 
+| Proof Of Membership | An application that allows a user to prove that their address is found within a set of addresses that all fulfill arbitrary parameters, such as proof of minimum balance. | [GitHub](https://github.com/vicnaum/proof-of-membership) | [Web](https://devpost.com/software/proof-of-membership) |
 
 ## ETHOnline (2021)
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | Private Lossless Prediction Market | Open protocol providing private prediction markets | [GitHub](https://github.com/udayj/ppmarket) | [Web](https://ethglobal.com/showcase/private-lossless-prediction-market-q4az3) |
-| PassPet - Verifiable and Private Pet Records for International Travel | EU-compliant "Pet Passport" NFTs stored privately on-chain, and verifiable by anyone, to make international travel easier | [GitHub](https://github.com/belaguer/passPet) | [Web](https://ethglobal.com/showcase/passpet-verifiable-and-private-pet-records-for-international-travel-88g5z) | 
+| PassPet - Verifiable and Private Pet Records for International Travel | EU-compliant "Pet Passport" NFTs stored privately on-chain, and verifiable by anyone, to make international travel easier | [GitHub](https://github.com/belaguer/passPet) | [Web](https://ethglobal.com/showcase/passpet-verifiable-and-private-pet-records-for-international-travel-88g5z) |
 
 ## Scaling Ethereum (2021)
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | Shhh! | One-time-read messaging system that uses Secret Network to securely store messages and deliver secrets like passwords, private keys, credit card information, api keys, etc. It isn't like other secret data stores, though. Once a message is retrieved, it is burned and can't be retrieved again. | [GitHub](https://github.com/endowl/shhh.buzz) | [Web](https://ethglobal.com/showcase/shhh--6otiu) |
-| Secret Manufaktur | Privacy for NFT art. It allows artists and collectors to leverage secret networks privacy preserving smart contracts to enable on-chain unlockable content, hidden ownership and private transactions. | [GitHub](https://github.com/floAr/ScalingEth-Hack) | [Web](https://ethglobal.com/showcase/secret-manufaktur-kgc33) | 
+| Secret Manufaktur | Privacy for NFT art. It allows artists and collectors to leverage secret networks privacy preserving smart contracts to enable on-chain unlockable content, hidden ownership and private transactions. | [GitHub](https://github.com/floAr/ScalingEth-Hack) | [Web](https://ethglobal.com/showcase/secret-manufaktur-kgc33) |
 
 ## UniCode (2021)
 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 | reed | Verifiable tarot card pulls for private AZTEC & transparent Optimism uniswap trades in DAO governance and exit quits | [GitHub](https://github.com/moskalyk/reed) | [Web](https://ethglobal.com/showcase/reed-gwxz3) |
-| AzUniswap | Perform private and cheap swap on Uniswap through aztec bridge | [GitHub](https://github.com/Xuefeng-Zhu/private-swap) | [Web](https://ethglobal.com/showcase/azuniswap-v2ga3) | 
-| IncrediSwap | Swap app via Aztec rollup in order to reduce slippage on Uniswap v3 and have private swaps | [GitHub](https://github.com/IncrediSwap/IncrediSwap) | [Web](https://ethglobal.com/showcase/incrediswap-e0j4w) | 
-
-
+| AzUniswap | Perform private and cheap swap on Uniswap through aztec bridge | [GitHub](https://github.com/Xuefeng-Zhu/private-swap) | [Web](https://ethglobal.com/showcase/azuniswap-v2ga3) |
+| IncrediSwap | Swap app via Aztec rollup in order to reduce slippage on Uniswap v3 and have private swaps | [GitHub](https://github.com/IncrediSwap/IncrediSwap) | [Web](https://ethglobal.com/showcase/incrediswap-e0j4w) |
 
 <!-- 
 | Project | Description | GitHub | Web |
 | ------- | ----------- | ------ | --- |
 |  |  | [GitHub]() | [Web]() |
 -->
-
