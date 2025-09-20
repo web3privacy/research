@@ -1,3 +1,7 @@
+Part of Ethereum Privacy Ecosystem mapping [research](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/ethereum-privacy-ecosystem.md)
+
+_Fill existing knowledge gap: Create an actionable map structuring global players delivering privacy in Ethereum from L2s like Aztec to local Privacy LATAM communities._
+
 > *Editor Notes:*
 >
 > - `devfolio`, `devpost`, `dorahacks`, and `taikai`
