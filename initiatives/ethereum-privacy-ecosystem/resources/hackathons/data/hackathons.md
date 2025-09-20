@@ -2,7 +2,7 @@ Part of Ethereum Privacy Ecosystem mapping [research](https://github.com/web3pri
 
 _Fill existing knowledge gap: Create an actionable map structuring global players delivering privacy in Ethereum from L2s like Aztec to local Privacy LATAM communities._
 
-> *Editor Notes:*
+> _Editor Notes:_
 >
 > - `devfolio`, `devpost`, `dorahacks`, and `taikai`
 > - **Next up:** ETHMunich, ETHNaples, ETHSofia, ETHTelAviv
