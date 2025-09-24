@@ -12,7 +12,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | **event**     | **organizer**            | **date** | **type**     | **prize\_pool\_usd** | **total\_hackers** | **total\_submissions** | **privacy\_submissions** |
 | ------------- | ------------------------ | -------- | ------------ | -------------------- | ------------------ | ---------------------- | ------------------------ |
 | [ETHBerlin³](https://ethberlin.ooo/) | Department of Decentralization | 16.09.2022 | IRL | $56.000 | ? | [100](https://ethberlin.devfolio.co/projects) | 17 |
-| [ETHBerlin⁴](https://ethberlin.ooo/) | Department of Decentralization | 24.05.2025 | IRL | $23.000 | ? | [?](https://projects.ethberlin.org/) | ? |
+| [ETHBerlin⁴](https://ethberlin.ooo/) | Department of Decentralization | 24.05.2024 | IRL | $23.000 | ? | [?](https://projects.ethberlin.org/) | ? |
 | [ETHBrno²](https://ethbrno.cz/) | Gweicz | 11.11.2022 | IRL | $13.000 | ? | [13](https://ethbrno.devfolio.co/projects) | 2 |
 | [ETHPrague 2023](https://ethprague.com/) | DuctTape | 09.06.2023 | IRL | $128.400 | ? | [95](https://ethprague2023.devfolio.co/projects) | 7 |
 | [ETHPrague 2024](https://ethprague.com/) | DuctTape | 31.05.2024 | IRL | $86.500 | ? | [46](https://ethprague2024.devfolio.co/projects) | 1 |
@@ -44,7 +44,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHWarsaw 2024](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 06.09.2024 | IRL | $86.000 | ? | [48](https://ethwarsaw-hackathon-2024.devfolio.co/projects) | 2 |
 | [ETHWarsaw Spring Hack 2025](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 21.03.2025 | IRL | $4.000 | 33 | [8](https://taikai.network/en/ethwarsaw/hackathons/spring-hack-2025/projects) | 1 |
 | [ETHWarsaw 2025](https://www.ethwarsaw.dev/) | ETHWarsaw Foundation | 05.09.2025 | IRL | $35.000 | 114 | [42](https://taikai.network/en/ethwarsaw/hackathons/ethwarsaw-2025/projects) | 1 |
-| [EthereumZuri.ch](https://2023.ethereumzuri.ch/) | Duct Tape, UZH Blockchain Center | 14.04.2023 | Online | $8.750 | ? | [16](https://ethereumzurich.devfolio.co/projects) | 1 |
+| [EthereumZuri.ch](https://2023.ethereumzuri.ch/) | Duct Tape, UZH Blockchain Center | 14.04.2023 | IRL | $8.750 | ? | [16](https://ethereumzurich.devfolio.co/projects) | 1 |
 | [ETHPorto 2023](https://ethporto.org/) | ETHPorto | 16.03.2023 | IRL | $37.000 | 270 | [30](https://taikai.network/en/ethporto/hackathons/ethportohackathon2023/projects) | 3 |
 | [ETHBelgrade 2023](https://ethbelgrade.rs/) | ETHBelgrade | 05.06.2023 | IRL | $22.000 | 96 | [23](https://taikai.network/en/ethbelgrade/hackathons/hackathon-2023/projects) | 0 |
 | [ETHBelgrade 2024](https://ethbelgrade.rs/) | ETHBelgrade | 31.05.2024 | IRL | $40.000 | 194 | [34](https://taikai.network/en/ethbelgrade/hackathons/eth-belgrade-hackathon-2024/projects) | 0 |
