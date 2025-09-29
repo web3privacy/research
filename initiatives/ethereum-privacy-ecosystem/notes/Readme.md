@@ -143,7 +143,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
 
-![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/notes/Ethereum%20Privacy%20Ecosystem%20layout%20by%20Alisher%20x%20Logos.png)
+![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/assets/img/Ethereum%20Privacy%20Ecosystem%20mapping%20by%20Alisher%20v2.0.png)
 
 # Open questions
 
