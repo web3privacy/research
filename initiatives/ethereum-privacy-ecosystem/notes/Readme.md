@@ -4,8 +4,7 @@
 
 # Research note
 
-We apply human-centric approach to mapping putting applications as the starting point of Ethereum privacy activations. Only afterwards we follow up with tech layer from EIPs to SDKs.
-This helps to de-center privacy from inward-tech view without adoption & focus on projects, initiatives in need of privacy.
+We apply human-centric approach to mapping putting applications as the starting point of Ethereum privacy activations. Only afterwards we follow up with tech layer from EIPs to SDKs. This helps to de-center privacy from inward-tech view without adoption & focus on projects, initiatives in need of privacy.
 
 ![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/notes/Ethereum%20Privacy%20Ecosystem%20layering.png)
 
@@ -13,14 +12,16 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
-- **Stealth addresses**: Fluidkey, Umbra…
-- **Wallets**: Railway, Frame, Rabby, Brume, Hinkal, Terminal Wallet, Kohaku Wallet
+- **Wallets**: Railway, Frame, Rabby, Brume, [Hinkal](https://hinkal.pro), Terminal Wallet, Kohaku Wallet
 - **Transactions**: Railgun, 0xbow, Tornado Cash
-- **DID**: Rarime, ex-Holonym [Human.tech], PrivadoID
+- **DID**: Rarime, [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id)
+- **Stealth addresses**: Fluidkey, Umbra…
 - **Portfolio**: Rotki
+- **Storage**: Swarm, Codex
 - **VPN**: Nym, GnosisVPN
 - **Messengers**: Status
-- **Docs**: Fileverse
+- **Docs**: [ddocs](http://ddocs.new)
+- **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 
 ## [Funding (R&D)](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
@@ -34,68 +35,6 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 
 - **Agencies**: Serotonin...
 - **Indivuduals**: Naomi Brockwell, [90 seconds to crypto](https://www.youtube.com/@90secondscrypto), [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3)
-
-# Tech Layer
-
-## R&D
-
-- Papers
-- EIPs
-- [Proposals?]
-- **Working groups**
-  - WalletBeat
-  - Explorer
-
-**Tooling**:
-
-- Abstraction layers:
-  - Protocols: Semaphore, RLN, TLS Notary, Unirep...
-  - ZK Infra
-  - DSLs (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
-
-- **Research Labs**: Privacy & Scaling Explorations
-
-- **Dev shops**
-  - Distributed Labs
-  - FAT Solutions
-  - DeFi Wonderland
-
-- Individual Researchers
-
-## Funding (R&D)
-
-- EF grants
-- Aztec grants
-
-## Governance
-
-- **DAO-privacy**: Aragon x MACI, Vocdoni/Davinchi
-
-## Infra
-
-- **L2s**
-  - Aztec
-  - COTI
-- **RPC**
-- **Mixnets**: Nym, HOPR
-- **Nodes**
-  - Gnosis x HOPR
-  - Dappnode
-- **Private compute** (TEE, FHE...)
-
-## B2B
-
-- Confidential ERC20
-- **products**: ZKSync’s Validium
-- **companies**: Inco, Zama...
-
-## Sunset
-
-- Sismo
-- Nocturne
-- Unirep
-- Firn
-- Aztec Connect
 
 # Social layer
 
@@ -125,6 +64,73 @@ This helps to de-center privacy from inward-tech view without adoption & focus o
 
 - **Content**: Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis
 - **Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
+
+# Tech Layer
+
+## R&D
+
+- Papers
+- EIPs
+- [Proposals?]
+- **Working groups**
+  - WalletBeat
+  - Explorer
+
+**Tooling**:
+
+**Domains**
+- **Identity**: Human.Tech, Self, Rarimo
+- **Voting**: Vocdoni (Davinchi), MACI
+- **Governance**: AragonDAO x MACI
+- **Messeging**: Waku, RLN
+- **MEV**: Shutter
+
+- **Abstraction layers**:
+  - Protocols: Semaphore, RLN, TLS Notary, Unirep...
+  - ZK Infra
+  - **Dev tooling**:
+    - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
+    - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO
+    - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
+  - DSLs (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
+
+- **Research Labs**: Privacy & Scaling Explorations, 0xpark, =nil; Foundation
+
+- **Dev shops**
+  - Distributed Labs
+  - FAT Solutions
+  - DeFi Wonderland
+
+- **Individual Researchers**: Ying Tong, Oskarth, Riley Wong
+
+## Funding (R&D)
+
+- EF grants
+- Aztec grants
+- Web3Privacy now grants
+
+## Infra
+
+- **L2s**
+  - Aztec
+  - COTI
+  - Ten
+  - [Intmax](https://intmax.io)
+- **RPC**
+- **Mixnets**: Nym, HOPR
+- **Nodes**
+  - Dapphone x HOPR
+  - Dappnode
+- **Private compute** (TEE, FHE...): Inco, Zama...
+- **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/)
+
+## Sunset
+
+- Sismo
+- Nocturne
+- Unirep
+- Firn
+- Aztec Connect
 
 ## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
 
