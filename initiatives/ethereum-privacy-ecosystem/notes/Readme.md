@@ -1,6 +1,11 @@
 # Mapping Ethereum Privacy Ecosystem components
 
-part of Ethereum Privacy Ecosystem mapping [research](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/ethereum-privacy-ecosystem.md)
+part of Ethereum Privacy Ecosystem mapping [research](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/ethereum-privacy-ecosystem.md):
+
+**Key goals**
+- aggregate data on contributors to Ethereum Privacy Ecosystem
+- structure data into broader privacy stack beyond technology, but with inclusion of advocacy groups like Coin Center or privacy-focused hackathons
+- build "Awesome Ethereum Privacy" repo - source of truth on the state of Ethereum Privacy
 
 ![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/assets/img/ethereum-privacy-ecosystem-mapping.png)
 
