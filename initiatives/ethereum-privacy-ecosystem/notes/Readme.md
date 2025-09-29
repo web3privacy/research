@@ -90,7 +90,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - **Identity**: Human.Tech, Self, Rarimo
 - **Voting**: Vocdoni (Davinchi), MACI
-- **Governance**: AragonDAO x MACI
+- **Governance**: AragonDAO x MACI, Aragon x [Enclave](http://enclave.gg)
 - **Messeging**: Waku, RLN
 - **MEV**: Shutter
 
@@ -124,6 +124,7 @@ We apply human-centric approach to mapping putting applications as the starting 
   - COTI
   - Ten
   - [Intmax](https://intmax.io)
+- **Edge**: [Miden](https://miden.xyz)
 - **RPC**
 - **Mixnets**: Nym, HOPR
 - **Nodes**
