@@ -79,7 +79,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - Papers
 - EIPs
-- [Proposals?]
+- [Proposals]: [Optimism x MACI](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733)
 - **Working groups**
   - WalletBeat
   - Explorer
@@ -90,7 +90,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - **Identity**: Human.Tech, Self, Rarimo
 - **Voting**: Vocdoni (Davinchi), MACI
-- **Governance**: AragonDAO x MACI, Aragon x [Enclave](http://enclave.gg)
+- **Governance**: Aragon x MACI, Aragon x [Enclave](http://enclave.gg)
 - **Messeging**: Waku, RLN
 - **MEV**: Shutter
 
