@@ -23,13 +23,13 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 
-## [Funding (R&D)](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
+## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
-- **Public goods**: Gitcoin, Giveth...
+- **Public goods**: Gitcoin, Giveth, Namada's RFPG
 - **EF grants**
 - **VCs**:
-  - orgs: a16z crypto, Outlier Ventures
-  - individuals: Vitalik Buterin, Zac Williamson, Stefan George...
+  - orgs: a16z crypto, Outlier Ventures, Binance ventures...
+- **Individuals**: Vitalik Buterin, Zac Williamson, Stefan George...
 
 ## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
 
@@ -76,7 +76,7 @@ We apply human-centric approach to mapping putting applications as the starting 
   - WalletBeat
   - Explorer
 
-**Tooling**:
+## Tooling
 
 **Domains**
 
@@ -108,7 +108,6 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - EF grants
 - Aztec grants
-- Web3Privacy now grants
 
 ## Infra
 
