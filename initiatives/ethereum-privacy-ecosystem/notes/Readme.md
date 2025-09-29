@@ -79,6 +79,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 **Tooling**:
 
 **Domains**
+
 - **Identity**: Human.Tech, Self, Rarimo
 - **Voting**: Vocdoni (Davinchi), MACI
 - **Governance**: AragonDAO x MACI
