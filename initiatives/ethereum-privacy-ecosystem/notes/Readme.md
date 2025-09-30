@@ -62,6 +62,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 ## Events
 
 **[Hackathons](https://github.com/web3privacy/research/tree/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons)**:
+
 - offline: [ETHRome](http://ethrome.org), [ETHDam](http://ethdam.com), [ETHBerlin](http://ethberlin.org), [W3PN HACKS](http://hackathon.web3privacy.info)...
 
 - **Congresses**: [Ethereum Cypherpunk Congress](http://congress.web3privacy.info)
