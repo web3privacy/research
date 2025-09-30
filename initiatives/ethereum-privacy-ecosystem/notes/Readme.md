@@ -20,57 +20,56 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
-- **Wallets**: Railway, Frame, Rabby, Brume, [Hinkal](https://hinkal.pro), Terminal Wallet, Kohaku Wallet
-- **Transactions**: Railgun, 0xbow, Tornado Cash
+- **Wallets**: [Railway](http://railway.xyz), Frame, [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), Terminal Wallet, Kohaku Wallet
+- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://x.com/TornadoCash)
 - **DID**: Rarime, [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id)
-- **Stealth addresses**: Fluidkey, Umbra…
-- **Portfolio**: Rotki
-- **Storage**: Swarm, Codex
-- **VPN**: Nym, GnosisVPN
-- **Messengers**: Status
+- **Stealth addresses**: [Fluidkey](https://x.com/fluidkey), [Umbra](https://x.com/UmbraCash), [Night](https://x.com/NightProtocol)
+- **Portfolio**: [Rotki](http://rotki.com)
+- **Storage**: [Swarm](http://ethswarm.org), [Codex](http://codex.storage)
+- **VPN**: [Nym](http://nymvpn.com), [GnosisVPN](https://gnosisvpn.com)
+- **Messengers**: [Status](http://status.app)
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
-- **Public goods**: Gitcoin, Giveth, Namada's RFPG
+- **Public goods**: [Gitcoin](http://gitcoin.co), [Giveth](http://giveth.io), [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop)
 - **EF grants**
 - **VCs**:
-  - orgs: a16z crypto, Outlier Ventures, Binance ventures...
+  - orgs: a16z crypto, [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/), Binance ventures...
 - **Individuals**: Vitalik Buterin, Zac Williamson, Stefan George...
 
 ## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
 
-- **Agencies**: Serotonin...
-- **Indivuduals**: Naomi Brockwell, [90 seconds to crypto](https://www.youtube.com/@90secondscrypto), [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3)
+- **Agencies**: [Serotonin](http://serotonin.co)...
+- **Indivuduals**: [Naomi Brockwell](https://x.com/naomibrockwell), [90 seconds to crypto](https://www.youtube.com/@90secondscrypto), [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3)
 
 # Social layer
 
 ## Advocacy
 
-- Coin Center
-- Web3Privacy now
-- Privacy Guardians
-- WomenX in Privacy
-- EFF
+- [Coin Center](http://coincenter.org)
+- [Web3Privacy now](http://web3privacy.info)
+- [Privacy Guardians](https://x.com/privacyguardia)
+- [WomenX in Privacy](https://winprivacy.org)
+- [EFF](http://eff.org)
 
 ## Communities
 
 - Web3Privacy now
-- Privacy Latam
-- Cryptocanal x ETHDam privacy hackathon
-- ETHRome x Rome privacy hackathon
+- [Privacy Latam](https://x.com/latamzk)
 
 ## Events
 
-- **[Hackathons](https://github.com/web3privacy/research/tree/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons)**: offline - ETHRome, ETHDam, ETHBerlin, W3PN HACKS...
-- **Congresses**: Ethereum Cypherpunk Congress
-- **Summits**: Web3Privacy now, Encryption Days, Privacy Summit by Crecimiento...
+- **[Hackathons](https://github.com/web3privacy/research/tree/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons)**:
+-   offline: [ETHRome](http://ethrome.org), [ETHDam](http://ethdam.com), [ETHBerlin](http://ethberlin.org), [W3PN HACKS](http://hackathon.web3privacy.info)...
+- **Congresses**: [Ethereum Cypherpunk Congress](http://congress.web3privacy.info)
+- **Summits**: [Web3Privacy now](http://summit.web3privacy.info), Encryption Days, [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento...
 - **Meetups**: Web3Privacy now meetups, Privacy Guardians...
 
 ## Social, cultural sciences
 
-- **Content**: Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis
+- **Content**: [Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis](https://x.com/web3privacy/status/1855883006021648801)
 - **Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
 
 # Tech Layer
@@ -81,18 +80,18 @@ We apply human-centric approach to mapping putting applications as the starting 
 - EIPs
 - [Proposals]: [Optimism x MACI](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733)
 - **Working groups**
-  - WalletBeat
-  - Explorer
+  - [WalletBeat](http://beta.walletbeat.eth.limo)
+  - [Explorer](http://explorer.web3privacy.info)
 
 ## Tooling
 
 **Domains**
 
-- **Identity**: Human.Tech, Self, Rarimo
-- **Voting**: Vocdoni (Davinchi), MACI
-- **Governance**: Aragon x MACI, Aragon x [Enclave](http://enclave.gg)
-- **Messeging**: Waku, RLN
-- **MEV**: Shutter
+- **Identity**: [Human.Tech](http://human.tech), [Self](http://self.xyz), [Rarimo](http://rarimo.com)
+- **Voting**: Vocdoni ([Davinchi](http://davinci.vote)), [MACI](http://maci.pse.dev)
+- **Governance**: [Aragon x MACI](https://blog.aragon.org/private-onchain-voting-on-aragon-with-maci/), Aragon x [Enclave](http://enclave.gg)
+- **Messeging**: [Waku](http://waku.org), RLN
+- **MEV**: [Shutter](http://shutter.network)
 
 - **Abstraction layers**:
   - Protocols: Semaphore, RLN, TLS Notary, Unirep...
@@ -120,17 +119,17 @@ We apply human-centric approach to mapping putting applications as the starting 
 ## Infra
 
 - **L2s**
-  - Aztec
-  - COTI
+  - [Aztec](http://aztec.network)
+  - [COTI](http://coti.io)
   - Ten
   - [Intmax](https://intmax.io)
 - **Edge**: [Miden](https://miden.xyz)
 - **RPC**
-- **Mixnets**: Nym, HOPR
+- **Mixnets**: [Nym](http://nym.com), [HOPR](http://hoprnet.org)
 - **Nodes**
   - Dapphone x HOPR
-  - Dappnode
-- **Private compute** (TEE, FHE...): Inco, Zama...
+  - [Dappnode](http://dappnode.com)
+- **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai)...
 - **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/)
 
 ## Sunset
