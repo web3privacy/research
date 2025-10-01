@@ -22,7 +22,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - **Wallets**: [Railway](http://railway.xyz), Frame, [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), Terminal Wallet, Kohaku Wallet
 - **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://x.com/TornadoCash)
-- **DID**: Rarime, [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id)
+- **DID**: Rarime, [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org)
 - **Stealth addresses**: [Fluidkey](https://x.com/fluidkey), [Umbra](https://x.com/UmbraCash), [Night](https://x.com/NightProtocol), [STELS](https://x.com/StelsProtocol),[dstealth](https://dstealth.xyz), [Curvy](https://x.com/0xCurvy)
 - **Portfolio**: [Rotki](http://rotki.com)
 - **Storage**: [Swarm](http://ethswarm.org), [Codex](http://codex.storage)
