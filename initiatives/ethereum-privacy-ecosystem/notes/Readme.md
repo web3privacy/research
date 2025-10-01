@@ -30,6 +30,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Messengers**: [Status](http://status.app)
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
+- **Polls**: [Zupoll](https://zupoll.org)
 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
