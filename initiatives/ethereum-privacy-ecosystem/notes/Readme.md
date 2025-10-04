@@ -21,7 +21,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
 - **Wallets**: [Railway](http://railway.xyz), Frame, [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), Terminal Wallet, Kohaku Wallet
-- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://x.com/TornadoCash)
+- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://x.com/TornadoCash), [zkbob](https://www.zkbob.com)
 - **DID**: Rarime, [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org)
 - **Stealth addresses**: [Fluidkey](https://x.com/fluidkey), [Umbra](https://x.com/UmbraCash), [Night](https://x.com/NightProtocol), [STELS](https://x.com/StelsProtocol),[dstealth](https://dstealth.xyz), [Curvy](https://x.com/0xCurvy)
 - **Portfolio**: [Rotki](http://rotki.com)
@@ -31,6 +31,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 - **Polls**: [Zupoll](https://zupoll.org)
+- **Other**: [Worm](https://worm.cx)
 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
@@ -132,6 +133,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - **Governance**: [Aragon x MACI](https://blog.aragon.org/private-onchain-voting-on-aragon-with-maci/), Aragon x [Enclave](http://enclave.gg)
 - **Messeging**: [Waku](http://waku.org)
 - **MEV**: [Shutter](http://shutter.network)
+- **RPC**: [spook](https://github.com/EdenBlockVC/spook)
 
 - **Abstraction layers**:
   - Protocols: [Semaphore](https://semaphore.pse.dev), [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), Unirep...
@@ -178,7 +180,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - Nocturne
 - Unirep
 - Firn
-- Aztec Connect
+- Aztec Connect aka [Zkmoney](https://github.com/AztecProtocol/zk-money)
 
 ## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
 
