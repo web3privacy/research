@@ -136,7 +136,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - **RPC**: [spook](https://github.com/EdenBlockVC/spook)
 
 - **Abstraction layers**:
-  - Protocols: [Semaphore](https://semaphore.pse.dev), [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), Unirep...
+  - Protocols: [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity, [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol, [Unirep](https://developer.unirep.io) - user data & reputation management...
   - ZK Infra
   - **Dev tooling**:
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
