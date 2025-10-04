@@ -34,7 +34,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
-- **Public goods**: [Gitcoin](http://gitcoin.co), [Giveth](http://giveth.io), [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop)
+- **Public goods**: [Gitcoin](http://gitcoin.co), [Giveth](http://giveth.io), [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop), [MACI x Gitcoin](https://gov.gitcoin.co/t/the-case-for-privacy-gg24-maci-allo-capital/22491)
 - **EF grants**
 - **VCs**:
   - orgs: a16z crypto, [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/), Binance ventures...
