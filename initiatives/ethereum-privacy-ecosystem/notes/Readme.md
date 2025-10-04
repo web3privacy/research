@@ -57,7 +57,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## Communities
 
-- Web3Privacy now
+- [Web3Privacy now](https://web3privacy.info)
 - [Privacy Latam](https://x.com/latamzk)
 
 ## Events
@@ -72,14 +72,14 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## Social, cultural sciences
 
-- **Content**: [Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis](https://x.com/web3privacy/status/1855883006021648801)
+- **Content**: [Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis](https://x.com/web3privacy/status/1855883006021648801) etc
 - **Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
 
 # Tech Layer
 
 ## R&D
 
-- Papers
+**Papers**
 
 list to be reviewed
 
@@ -101,7 +101,7 @@ list to be reviewed
 | **Beyond the Blockchain Address: Zero-Knowledge Address Abstraction** | Sanghyeon Park, Seoul National University; Jeong Hyuk Lee, Hanyang University; Seunghwa Lee, Kookmin University; Jung Hyun Chun, Hanyang University; Hyeonmyeong Cho, Ulsan National Institute of Science and Technology; MinGi Kim, Sungkyunkwan University; Hyun Ki Cho, Sogang University; Soo-Mook Moon, Seoul National University | [link](https://eprint.iacr.org/2023/191) |
 | **Practical Security Analysis of Zero-Knowledge Proof Circuits** | Hongbo Wen, University of California, Santa Barbara; Jon Stephens, The University of Texas at Austin; Yanju Chen, University of California, Santa Barbara; Kostas Ferles, Veridise; Shankara Pailoor, The University of Texas at Austin; Kyle Charbonnet, Ethereum Foundation; Isil Dillig, University of Texas Austin, Veridise; Yu Feng, University of California, Santa Barbara, Veridise | [link](https://eprint.iacr.org/2023/190) |
 
-- EIPs
+**EIPs**
 
 sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 
@@ -127,14 +127,14 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 
 **Domains**
 
-- **Identity**: [Human.Tech](http://human.tech), [Self](http://self.xyz), [Rarimo](http://rarimo.com)
-- **Voting**: Vocdoni ([Davinchi](http://davinci.vote)), [MACI](http://maci.pse.dev)
+- **Identity**: [Human.Tech](http://human.tech), [Self](http://self.xyz), [Rarimo](http://rarimo.com), [zkemail](https://zk.email)
+- **Voting**: Vocdoni ([Davinchi](http://davinci.vote)), [MACI](http://maci.pse.dev), [Privote](https://privote.live), [plume](https://github.com/plume-sig)
 - **Governance**: [Aragon x MACI](https://blog.aragon.org/private-onchain-voting-on-aragon-with-maci/), Aragon x [Enclave](http://enclave.gg)
-- **Messeging**: [Waku](http://waku.org), RLN
+- **Messeging**: [Waku](http://waku.org)
 - **MEV**: [Shutter](http://shutter.network)
 
 - **Abstraction layers**:
-  - Protocols: Semaphore, RLN, TLS Notary, Unirep...
+  - Protocols: [Semaphore](https://semaphore.pse.dev), [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), Unirep...
   - ZK Infra
   - **Dev tooling**:
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
@@ -142,12 +142,12 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
   - DSLs (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
 
-- **Research Labs**: Privacy & Scaling Explorations, 0xpark, =nil; Foundation
+- **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), =nil; Foundation
 
 - **Dev shops**
   - Distributed Labs
-  - FAT Solutions
-  - DeFi Wonderland
+  - [FAT Solutions](https://fatsolutions.xyz)
+  - [DeFi Wonderland](https://wonderland.xyz)
 
 - **Individual Researchers**: Ying Tong, Oskarth, Riley Wong
 
