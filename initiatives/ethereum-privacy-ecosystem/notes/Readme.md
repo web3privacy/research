@@ -150,7 +150,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
   - DSLs (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
 
-- **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), =nil; Foundation
+- **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), =nil; Foundation, [Silent Laboratories](https://silencelaboratories.com)
 
 - **Dev shops**
   - Distributed Labs
