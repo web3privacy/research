@@ -73,8 +73,13 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## Social, cultural sciences
 
-- **Content**: [Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis](https://x.com/web3privacy/status/1855883006021648801) etc
-- **Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
+**Content**:
+- [Ethereum Cypherpunk Starter Kit by Dr Paul Dylan-Ennis](https://x.com/web3privacy/status/1855883006021648801)
+- [Ethereum Privacy: The Road to Self-Sovereignty](https://hackmd.io/@pcaversaccio/ethereum-privacy-the-road-to-self-sovereignty) by pcaversaccio
+- [The Ethereum Cypherpunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto) by pcaversaccio
+- [A maximally simple L1 privacy roadmap](https://ethereum-magicians.org/t/a-maximally-simple-l1-privacy-roadmap/23459/20) by Vitalik Buterin
+
+**Concepts**: [Shapphirepunk](https://sapphirepunk.com) by Wassim Z. Alsindi, Naomiii, Watelander & others
 
 # Tech Layer
 
