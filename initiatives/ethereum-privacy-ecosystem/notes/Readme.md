@@ -125,7 +125,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 | [EIP-1108: Reduce alt_bn128 precompile gas costs](https://eips.ethereum.org/EIPS/eip-1108) | The elliptic curve arithmetic precompiles are currently overpriced. Re-pricing the precompiles would greatly assist a number of privacy solutions. | 2018-05-21 |
 | [EIP-1102: Opt-in account exposure](https://eips.ethereum.org/EIPS/eip-1102) | a communication protocol between dapps and Ethereum-enabled DOM environments | 2018-05-04 |
 
-- [Proposals]: [Optimism x MACI](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733)
+- **Proposals**: [Optimism x MACI](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733)
 - **Working groups**
   - [WalletBeat](http://beta.walletbeat.eth.limo)
   - [Explorer](http://explorer.web3privacy.info)
@@ -142,13 +142,13 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - **RPC**: [spook](https://github.com/EdenBlockVC/spook)
 
 - **Abstraction layers**:
-  - Protocols: [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity, [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol, [Unirep](https://developer.unirep.io) - user data & reputation management...
-  - ZK Infra
+  - **Protocols**: [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity, [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol, [Unirep](https://developer.unirep.io) - user data & reputation management...
+  - **ZK Infra**
   - **Dev tooling**:
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
     - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
-  - DSLs (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
+  - **DSLs** (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
 
 - **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), =nil; Foundation, [Silent Laboratories](https://silencelaboratories.com)
 
@@ -178,6 +178,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - Dapphone x HOPR
   - [Dappnode](http://dappnode.com)
 - **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai)...
+- **MPC**: [Silent Shard](https://silencelaboratories.com/silent-shard-snap)
 - **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/)
 
 ## Sunset
