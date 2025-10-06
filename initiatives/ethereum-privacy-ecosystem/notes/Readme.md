@@ -179,7 +179,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - [Dappnode](http://dappnode.com)
 - **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai)...
 - **MPC**: [Silent Shard](https://silencelaboratories.com/silent-shard-snap)
-- **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/)
+- **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/), [warptoad](https://github.com/warptoad/warp-toad)
 
 ## Sunset
 
