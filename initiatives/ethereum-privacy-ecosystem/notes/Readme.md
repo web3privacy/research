@@ -20,7 +20,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
-- **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/), 
+- **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/),
 - **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com)
 - **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/)
 - **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](curvy.box)
@@ -31,7 +31,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 - **Polls**: [Zupoll](https://zupoll.org)
-- **Other**: [Worm](https://worm.cx)
+- **Private-Proof-of-Burn mining**: [WORM](https://worm.cx)
 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
@@ -39,12 +39,13 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **EF grants**
 - **VCs**:
   - orgs: [a16z crypto](https://a16zcrypto.com/), [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/), Binance ventures...
- 
+
 |Project   |  Round | Date  |  Raised |  Links |
 |----------|--------|-------|---------|-------|
 | Taceo  | Seed  |  Jul 2025 | $5.50M | [Link](https://taceo.io/)  |
 | Zama  |  Series B |  Jun 2025  | $57M   | [Link](https://www.zama.ai/)   |
 |  NuConstruct | Seed  | Jun 2025  | $6M | [Link](https://nuconstruct.xyz/)   |
+
 - **Individuals**: [Vitalik Buterin](https://x.com/VitalikButerin), [Zac Williamson](https://x.com/Zac_Aztec), [Stefan George](https://x.com/StefanDGeorge)
 
 ## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
@@ -185,7 +186,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - [Dappnode](http://dappnode.com)
 - **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai), [NuConstrtuct](https://nuconstruct.xyz/)
 - **MPC**: [Silent Shard](https://silencelaboratories.com/silent-shard-snap)
-- **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/)
+- **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/), [warptoad](https://github.com/warptoad/warp-toad)
 
 ## Sunset
 
