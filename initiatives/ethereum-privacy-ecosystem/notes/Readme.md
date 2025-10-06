@@ -31,7 +31,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 - **Polls**: [Zupoll](https://zupoll.org)
-- **Other**: [Worm](https://worm.cx)
+- **Private-Proof-of-Burn mining**: [WORM](https://worm.cx)
 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
