@@ -20,12 +20,12 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
-- **Wallets**: [Railway](http://railway.xyz), Frame, [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), Terminal Wallet, Kohaku Wallet
-- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://x.com/TornadoCash), [zkbob](https://www.zkbob.com)
-- **DID**: Rarime, [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org)
-- **Stealth addresses**: [Fluidkey](https://x.com/fluidkey), [Umbra](https://x.com/UmbraCash), [Night](https://x.com/NightProtocol), [STELS](https://x.com/StelsProtocol),[dstealth](https://dstealth.xyz), [Curvy](https://x.com/0xCurvy)
+- **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/),
+- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com)
+- **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/)
+- **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](curvy.box)
 - **Portfolio**: [Rotki](http://rotki.com)
-- **Storage**: [Swarm](http://ethswarm.org), [Codex](http://codex.storage)
+- **Storage**: [Swarm](http://ethswarm.org), [Codex](http://codex.storage), [Arcana](https://arcana.network/)
 - **VPN**: [Nym](http://nymvpn.com), [GnosisVPN](https://gnosisvpn.com)
 - **Messengers**: [Status](http://status.app)
 - **Docs**: [ddocs](http://ddocs.new)
@@ -38,8 +38,15 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Public goods**: [Gitcoin](http://gitcoin.co), [Giveth](http://giveth.io), [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop), [MACI x Gitcoin](https://gov.gitcoin.co/t/the-case-for-privacy-gg24-maci-allo-capital/22491)
 - **EF grants**
 - **VCs**:
-  - orgs: a16z crypto, [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/), Binance ventures...
-- **Individuals**: Vitalik Buterin, Zac Williamson, Stefan George...
+  - orgs: [a16z crypto](https://a16zcrypto.com/), [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/), Binance ventures...
+
+|Project   |  Round | Date  |  Raised |  Links |
+|----------|--------|-------|---------|-------|
+| Taceo  | Seed  |  Jul 2025 | $5.50M | [Link](https://taceo.io/)  |
+| Zama  |  Series B |  Jun 2025  | $57M   | [Link](https://www.zama.ai/)   |
+|  NuConstruct | Seed  | Jun 2025  | $6M | [Link](https://nuconstruct.xyz/)   |
+
+- **Individuals**: [Vitalik Buterin](https://x.com/VitalikButerin), [Zac Williamson](https://x.com/Zac_Aztec), [Stefan George](https://x.com/StefanDGeorge)
 
 ## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
 
@@ -69,7 +76,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - **Congresses**: [Ethereum Cypherpunk Congress](http://congress.web3privacy.info)
 - **Summits**: [Web3Privacy now](http://summit.web3privacy.info), Encryption Days, [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento...
-- **Meetups**: Web3Privacy now meetups, Privacy Guardians...
+- **Meetups**: [Web3Privacy.now](https://web3privacy.info/), [Privacy Guardians](https://x.com/privacyguardia)...
 
 ## Social, cultural sciences
 
@@ -177,7 +184,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - **Nodes**
   - Dapphone x HOPR
   - [Dappnode](http://dappnode.com)
-- **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai)...
+- **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai), [NuConstrtuct](https://nuconstruct.xyz/)
 - **MPC**: [Silent Shard](https://silencelaboratories.com/silent-shard-snap)
 - **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/), [warptoad](https://github.com/warptoad/warp-toad)
 
