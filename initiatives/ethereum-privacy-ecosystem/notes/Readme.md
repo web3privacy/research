@@ -161,7 +161,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
     - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
-    
+
   - **DSLs** (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
 
 - **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), =nil; Foundation, [Silent Laboratories](https://silencelaboratories.com)
@@ -193,7 +193,8 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - Dapphone x HOPR
   - [Dappnode](http://dappnode.com)
   
-**Private compute** (TEE, FHE...): 
+**Private compute** (TEE, FHE...):
+
 - [Inco](http://inco.org)
 - [Zama](http://zama.ai)
 - [NuConstrtuct](https://nuconstruct.xyz/)
