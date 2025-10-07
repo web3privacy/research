@@ -27,7 +27,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 - **Portfolio**: [Rotki](http://rotki.com)
 - **Storage**: [Swarm](http://ethswarm.org), [Codex](http://codex.storage), [Arcana](https://arcana.network/)
 - **VPN**: [Nym](http://nymvpn.com), [GnosisVPN](https://gnosisvpn.com), [MASQ dMeshVPN](https://www.masqbrowser.com/consume)
-- **Messengers**: [Status](http://status.app), 
+- **Messengers**: [Status](http://status.app),
 - **Docs**: [ddocs](http://ddocs.new)
 - **P2P offramp**: [ZKP2P](https://www.zkp2p.xyz)
 - **Private-Proof-of-Burn mining**: [WORM](https://worm.cx)
@@ -119,7 +119,6 @@ list to be reviewed
 | **Blockchain-based Economic Voting with Posterior Security from Lattices**  | Navid Abapour, Amir Goharshady, Catalin Dragan, Mahdi Mahdavi  | [link](https://eprint.iacr.org/2025/1725) |
 | **Efficient Aggregate Anonymous Credentials for Decentralized Identity** | Rebekah Mercer, Kaoutar El Khiyaoui, Angelo De Caro, Elli Androulaki | [link](https://eprint.iacr.org/2025/1724)  |
 
-
 **EIPs**
 
 sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
@@ -137,7 +136,6 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 | [ERC-1775: App Keys, application specific wallet accounts](https://eips.ethereum.org/EIPS/eip-1775) | - | 2019-02-20 |
 | [EIP-1108: Reduce alt_bn128 precompile gas costs](https://eips.ethereum.org/EIPS/eip-1108) | The elliptic curve arithmetic precompiles are currently overpriced. Re-pricing the precompiles would greatly assist a number of privacy solutions. | 2018-05-21 |
 | [EIP-1102: Opt-in account exposure](https://eips.ethereum.org/EIPS/eip-1102) | a communication protocol between dapps and Ethereum-enabled DOM environments | 2018-05-04 |
-
 
 - **Proposals**: [Optimism x MACI](https://gov.optimism.io/t/building-a-private-on-chain-implementation-for-retropgf/7733)
 - **Working groups**
@@ -182,6 +180,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - **Individual Researchers**: [Ying Tong](https://x.com/therealyingtong), [Oskarth](https://x.com/oskarth), [Riley Wong](https://www.rileynwong.com/)
 
 ## Funding (R&D)
+
 - [Ethereum Foundation grants](https://ethereum.org/community/grants)
 - [Aztec grants](aztec.network)
 
