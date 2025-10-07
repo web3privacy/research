@@ -148,13 +148,20 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - **MEV**: [Shutter](http://shutter.network)
 - **RPC**: [spook](https://github.com/EdenBlockVC/spook)
 
-- **Abstraction layers**:
-  - **Protocols**: [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity, [RLN](https://github.com/Rate-Limiting-Nullifier), [TLS Notary](https://tlsnotary.org), [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol, [Unirep](https://developer.unirep.io) - user data & reputation management...
+**Abstraction layers**:
+
+- **Protocols**: [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity
+- [RLN](https://github.com/Rate-Limiting-Nullifier)
+- [TLS Notary](https://tlsnotary.org)
+- [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol
+- [Unirep](https://developer.unirep.io) - user data & reputation management...
+
   - **ZK Infra**
   - **Dev tooling**:
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
     - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
+    
   - **DSLs** (low level libraries): Circom, halo2, noir, Nova Scotia, solidity
 
 - **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), =nil; Foundation, [Silent Laboratories](https://silencelaboratories.com)
@@ -178,22 +185,27 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - [COTI](http://coti.io)
   - Ten
   - [Intmax](https://intmax.io)
+  
 - **Edge**: [Miden](https://miden.xyz)
 - **RPC**
 - **Mixnets**: [Nym](http://nym.com), [HOPR](http://hoprnet.org)
 - **Nodes**
   - Dapphone x HOPR
   - [Dappnode](http://dappnode.com)
-- **Private compute** (TEE, FHE...): [Inco](http://inco.org), [Zama](http://zama.ai), [NuConstrtuct](https://nuconstruct.xyz/)
+  
+**Private compute** (TEE, FHE...): 
+- [Inco](http://inco.org)
+- [Zama](http://zama.ai)
+- [NuConstrtuct](https://nuconstruct.xyz/)
+
 - **MPC**: [Silent Shard](https://silencelaboratories.com/silent-shard-snap)
 - **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/), [warptoad](https://github.com/warptoad/warp-toad)
 
 ## Sunset
 
-- Sismo
-- Nocturne
-- Unirep
-- Firn
+- [Sismo](https://github.com/sismo-core)
+- [Nocturne](https://nocturne-xyz.gitbook.io/nocturne)
+- [Firn](https://github.com/firnprotocol)
 - Aztec Connect aka [Zkmoney](https://github.com/AztecProtocol/zk-money)
 
 ## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
