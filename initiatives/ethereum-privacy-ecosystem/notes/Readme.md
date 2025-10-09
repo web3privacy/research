@@ -35,10 +35,11 @@ We apply human-centric approach to mapping putting applications as the starting 
 ## [Funding](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/funding/data/funding.md)
 
 - **Public goods**:
-  - [Gitcoin](http://gitcoin.co)
-  - [Giveth](http://giveth.io)
-  - [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop)
-  - [MACI x Gitcoin](https://gov.gitcoin.co/t/the-case-for-privacy-gg24-maci-allo-capital/22491)
+  - [Gitcoin](http://gitcoin.co) - funds Ethereum projects using fair donation voting
+  - [Giveth](http://giveth.io) - easy, transparent donations on Ethereum supporting causes
+  - [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop) - testnet game securing private transactions on Ethereum
+  - [MACI x Gitcoin](https://gov.gitcoin.co/t/the-case-for-privacy-gg24-maci-allo-capital/22491) - privacy tech ensuring fair voting on Ethereum grants
+    
 - **Market overview of Ethereum privacy founding**
   
 ### Giveth
@@ -100,49 +101,58 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
 | Beoble | a Web3 messaging and social platform | Social | [web](https://www.beoble.io/) | [Git](https://github.com/Inco-fhevm) | Feb 2024 | $5M |
 
 - **EF grants**
-  - [Ethereum Foundation](https://esp.ethereum.foundation/)
+  - [Ethereum Foundation](https://esp.ethereum.foundation/) - supports Ethereum development, including privacy research
+  - 
 - **VCs**:
   - orgs:
-    - [a16z crypto](https://a16zcrypto.com/)
-    - [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/)
-    - [Binance](https://www.binance.com/en/)
+    - [a16z crypto](https://a16zcrypto.com/) - invests in crypto projects, including Ethereum privacy
+    - [Outlier Ventures](https://outlierventures.io/article/pets-accelerator-web3-outlier-midnight/) - funds and accelerates Web3, privacy-focused startups
+    - [Binance](https://www.binance.com/en/) - crypto exchange supporting Ethereum and privacy tools
 
-|Project   |  Round | Date  |  Raised |  Links |
-|----------|--------|-------|---------|-------|
-| Taceo  | Seed  |  Jul 2025 | $5.50M | [Link](https://taceo.io/)  |
-| Zama  |  Series B |  Jun 2025  | $57M   | [Link](https://www.zama.ai/)   |
-|  NuConstruct | Seed  | Jun 2025  | $6M | [Link](https://nuconstruct.xyz/)   |
-| Utilla | Series B | Sep 2025 | $22M | [Link](https://utila.io/) |
-| Fhenix | Unknown | Mar 2025 | TBD | [Link](https://www.fhenix.io/) |
-| Hinkal | Strategic | Apr 2024 | $1.40M | [Link](https://hinkal.pro/) |
+| Project            | Round / Grant            | Date      | Raised / Grant Amount | Links                                                                                   |
+|--------------------|--------------------------|-----------|------------------------|------------------------------------------------------------------------------------------|
+| Utila             | Series B                 | Sep 2025  | $22M                   | [Link](https://utila.io/)                                                                |
+| Taceo              | Seed                     | Jul 2025  | $5.50M                 | [Link](https://taceo.io/)                                                                |
+| Zama               | Series B                 | Jun 2025  | $57M                   | [Link](https://www.zama.ai/)                                                             |
+| NuConstruct        | Seed                     | Jun 2025  | $6M                    | [Link](https://nuconstruct.xyz/)                                                         |
+| Train protocol     | Grant                    | Mar 2025  | Part of $150K grant    | [Link](https://www.train.tech/) |
+| Fhenix             | Unknown                  | Mar 2025  | TBD                    | [Link](https://www.fhenix.io/)                                                           |
+| Kryha Labs         | Grant                    | Jun 2024  | Up to $100K            | [Link](https://kryha.io/)                                                                |
+| Hinkal             | Strategic                | Apr 2024  | $1.40M                 | [Link](https://hinkal.pro/)                                                              |
+| Ten                | Unknown                  | Mar 2024  | TBD                    | [Link](https://www.ten.xyz/)                                                             |
+| Hermez Network     | Ecosystem Growth Fund    | Jan 2024  | $2M+                   | [Link](https://hermez.io/)                                                               |
+| GMX                | Arbitrum Grant           | Oct 2023  | $6M                    | [Link](https://gmx.io/#/)                                                                |
 
 - **Individuals**:
-  - [Vitalik Buterin](https://x.com/VitalikButerin)
-  - [Zac Williamson](https://x.com/Zac_Aztec)
-  - [Stefan George](https://x.com/StefanDGeorge)
+  - [Vitalik Buterin](https://x.com/VitalikButerin) - Ethereum co-founder and blockchain technology pioneer
+  - [Zac Williamson](https://x.com/Zac_Aztec) - privacy researcher and lead at Aztec Protocol
+  - [Stefan George](https://x.com/StefanDGeorge) - co-founder of Gnosis, Ethereum developer and innovator
+  - [Joseph Lubin](https://x.com/ethereumJoseph) - co-founder of Ethereum and founder of ConsenSys
+  - [Gavin Wood](https://x.com/gavofyork) - creator of Polkadot and Ethereum co-founder
+  - [Stani Kulechov](https://x.com/StaniKulechov) - founder of Aave, a major Ethereum lending protocol
 
 ## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
 
-- **Agencies**: [Serotonin](http://serotonin.co)...
+- **Agencies**: [Serotonin](http://serotonin.co) - builds privacy-focused marketing for Ethereum projects
 - **Indivuduals**:
-  - [Naomi Brockwell](https://x.com/naomibrockwell)
-  - [90 seconds to crypto](https://www.youtube.com/@90secondscrypto)
-  - [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3)
+  - [Naomi Brockwell](https://x.com/naomibrockwell) - educates about crypto privacy and blockchain tech
+  - [90 seconds to crypto](https://www.youtube.com/@90secondscrypto) - explains crypto concepts quickly, including privacy basics
+  - [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3) - shares updates and tips on Web3 privacy tools
 
 # Social layer
 
 ## Advocacy
 
-- [Coin Center](http://coincenter.org)
-- [Web3Privacy now](http://web3privacy.info)
-- [Privacy Guardians](https://x.com/privacyguardia)
-- [WomenX in Privacy](https://winprivacy.org)
-- [EFF](http://eff.org)
+- [Coin Center](http://coincenter.org) - advocates for smart crypto and privacy laws
+- [Web3Privacy now](http://web3privacy.info) - promotes privacy tools for Web3 users
+- [Privacy Guardians](https://x.com/privacyguardia) - shares updates on digital privacy and rights
+- [WomenX in Privacy](https://winprivacy.org) - supports women leaders in privacy technology
+- [EFF](http://eff.org) - defends digital privacy and free speech rights
 
 ## Communities
 
-- [Web3Privacy now](https://web3privacy.info)
-- [Privacy Latam](https://x.com/latamzk)
+- [Web3Privacy now](https://web3privacy.info) - builds community around Web3 privacy tools & education
+- [Privacy Latam](https://x.com/latamzk) - Latin American community promoting Web3 privacy tools
 
 ## Events
 
@@ -151,8 +161,13 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
 - offline: [ETHRome](http://ethrome.org), [ETHDam](http://ethdam.com), [ETHBerlin](http://ethberlin.org), [W3PN HACKS](http://hackathon.web3privacy.info)...
 
 - **Congresses**: [Ethereum Cypherpunk Congress](http://congress.web3privacy.info)
-- **Summits**: [Web3Privacy now](http://summit.web3privacy.info), Encryption Days, [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento...
-- **Meetups**: [Web3Privacy.now](https://web3privacy.info/), [Privacy Guardians](https://x.com/privacyguardia)...
+- **Summits**:
+   - [Web3Privacy now](http://summit.web3privacy.info)
+   - [Global Encryption Day 2025 - 21st Oct](https://www.internetsociety.org/events/global-encryption-day-2025/?utm_source=chatgpt.com)
+   - [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento
+- **Meetups**:
+   - [Web3Privacy.now](https://web3privacy.info/)
+   - [Privacy Guardians](https://x.com/privacyguardia)
 
 ## Social, cultural sciences
 
