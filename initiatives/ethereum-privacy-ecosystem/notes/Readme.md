@@ -21,7 +21,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
 - **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/), [Starshell](https://starshell.net/)
-- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com)
+- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com), [Veil Cash](https://www.veil.cash/)
 - **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/)
 - **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](curvy.box)
 - **Portfolio**: [Rotki](http://rotki.com)
