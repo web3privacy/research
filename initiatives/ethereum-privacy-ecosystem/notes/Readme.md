@@ -260,23 +260,23 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO - enables MPC + ZK in the Noir language for privacy‑preserving compute
 
   - **DSLs** (low level libraries):
-   - [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
-   - [halo2](https://github.com/adria0/awesome-halo2) - library ecosystem around zk proving (Rust / zk circuits)
-   - [noir](https://noir-lang.org/) - high‑level language for writing zero‑knowledge applications
-   - [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia?utm_source=chatgpt.com) - project linking circom (a ZK DSL) with Nova proofs, acting as a bridge / toolchain
-   - [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
+  - [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
+  - [halo2](https://github.com/adria0/awesome-halo2) - library ecosystem around zk proving (Rust / zk circuits)
+  - [noir](https://noir-lang.org/) - high‑level language for writing zero‑knowledge applications
+  - [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia?utm_source=chatgpt.com) - project linking circom (a ZK DSL) with Nova proofs, acting as a bridge / toolchain
+  - [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
 
 - **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), [=nil; Foundation](https://nil.foundation/), [Silent Laboratories](https://silencelaboratories.com), [Aztec Labs](https://www.aztec-labs.com/), [Encrypt Labs](https://www.encryptlabs.org)
 
 - **Dev shops**
-  - [Distributed Labs](https://github.com/distributed-lab) - builds privacy‑focused tools for Web3 and Ethereum apps 
+  - [Distributed Labs](https://github.com/distributed-lab) - builds privacy‑focused tools for Web3 and Ethereum apps
   - [FAT Solutions](https://fatsolutions.xyz) - designs and develops decentralized/privacy‑aware smart contracts
   - [DeFi Wonderland](https://wonderland.xyz) - creates DeFi products & infrastructure, sometimes privacy‑linked
-    
+
 - **Individual Researchers**:
-   - [Ying Tong](https://x.com/therealyingtong) - researcher studying crypto privacy & zero‑knowledge proofs
-   - [Oskarth](https://x.com/oskarth) - focuses on blockchain security, privacy, and trust systems
-   - [Riley Wong](https://www.rileynwong.com/) -  Web3, identity, and privacy engineering
+  - [Ying Tong](https://x.com/therealyingtong) - researcher studying crypto privacy & zero‑knowledge proofs
+  - [Oskarth](https://x.com/oskarth) - focuses on blockchain security, privacy, and trust systems
+  - [Riley Wong](https://www.rileynwong.com/) -  Web3, identity, and privacy engineering
 
 ## Funding (R&D)
 
@@ -293,12 +293,12 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   
 - **Edge**: [Miden](https://miden.xyz) - STARK-based zkVM enabling private execution on Ethereum
 - **RPC**
-   - [1RPC](https://rpch.net) - No-tracking RPC for Ethereum with privacy protection
-   - [RPCh](rpch.net) - private Ethereum RPC relayed through mixnets (HOPR)
-   - [SecureRPC](https://www.securerpc.com/) - MEV-protected Ethereum RPC for safer transactions
+  - [1RPC](https://rpch.net) - No-tracking RPC for Ethereum with privacy protection
+  - [RPCh](rpch.net) - private Ethereum RPC relayed through mixnets (HOPR)
+  - [SecureRPC](https://www.securerpc.com/) - MEV-protected Ethereum RPC for safer transactions
 - **Mixnets**:
-   - [Nym](http://nym.com) - mixnet protecting metadata across Web3 and Ethereum apps
-   - [HOPR](http://hoprnet.org) - decentralized mixnet offering network-layer privacy for dApps
+  - [Nym](http://nym.com) - mixnet protecting metadata across Web3 and Ethereum apps
+  - [HOPR](http://hoprnet.org) - decentralized mixnet offering network-layer privacy for dApps
 - **Nodes**
   - Dapphone x HOPR - runs private relay and node services using HOPR mixnet
   - [Dappnode](http://dappnode.com) - plug-and-play Ethereum node with privacy and decentralization support
