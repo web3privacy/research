@@ -21,7 +21,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
 - **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/), [Starshell](https://starshell.net/)
-- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com)
+- **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com), [Veil Cash](https://www.veil.cash/)
 - **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/)
 - **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](curvy.box)
 - **Portfolio**: [Rotki](http://rotki.com)
@@ -39,7 +39,7 @@ We apply human-centric approach to mapping putting applications as the starting 
   - [Giveth](http://giveth.io) - easy, transparent donations on Ethereum supporting causes
   - [Namada's RPG](https://namada.net/blog/namada-pgf-introducing-the-worlds-first-donor-drop) - testnet game securing private transactions on Ethereum
   - [MACI x Gitcoin](https://gov.gitcoin.co/t/the-case-for-privacy-gg24-maci-allo-capital/22491) - privacy tech ensuring fair voting on Ethereum grants
-    
+
 - **Market overview of Ethereum privacy founding**
   
 ### Giveth
@@ -102,7 +102,7 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
 
 - **EF grants**
   - [Ethereum Foundation](https://esp.ethereum.foundation/) - supports Ethereum development, including privacy research
-  - 
+  -
 - **VCs**:
   - orgs:
     - [a16z crypto](https://a16zcrypto.com/) - invests in crypto projects, including Ethereum privacy
@@ -162,12 +162,12 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
 
 - **Congresses**: [Ethereum Cypherpunk Congress](http://congress.web3privacy.info)
 - **Summits**:
-   - [Web3Privacy now](http://summit.web3privacy.info)
-   - [Global Encryption Day 2025 - 21st Oct](https://www.internetsociety.org/events/global-encryption-day-2025/?utm_source=chatgpt.com)
-   - [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento
+  - [Web3Privacy now](http://summit.web3privacy.info)
+  - [Global Encryption Day 2025 - 21st Oct](https://www.internetsociety.org/events/global-encryption-day-2025/?utm_source=chatgpt.com)
+  - [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento
 - **Meetups**:
-   - [Web3Privacy.now](https://web3privacy.info/)
-   - [Privacy Guardians](https://x.com/privacyguardia)
+  - [Web3Privacy.now](https://web3privacy.info/)
+  - [Privacy Guardians](https://x.com/privacyguardia)
 
 ## Social, cultural sciences
 
