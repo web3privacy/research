@@ -248,65 +248,84 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 
 - **Protocols**:
 - [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity
-- [RLN](https://github.com/Rate-Limiting-Nullifier)
-- [TLS Notary](https://tlsnotary.org)
+- [RLN](https://github.com/Rate-Limiting-Nullifier) - lets anonymous users act but limits spam/flooding
+- [TLS Notary](https://tlsnotary.org) - lets you prove what a website sent, without revealing everything
 - [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol
-- [Unirep](https://developer.unirep.io) - user data & reputation management...
+- [Unirep](https://developer.unirep.io) - user data & reputation management
 
-  - **ZK Infra**
+  - **Zero-Knowledge Infrastructure**
   - **Dev tooling**:
-    - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO
-    - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO
-    - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO
+    - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO - lets multiple parties jointly prove circuits without revealing inputs; works with snarkjs / circom artifacts
+    - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO - outsources proof generation securely via MPC so privacy is preserved
+    - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO - enables MPC + ZK in the Noir language for privacy‑preserving compute
 
-  - **DSLs** (low level libraries): [Circom](https://github.com/iden3/circomlib), [halo2](https://github.com/adria0/awesome-halo2), [noir](https://noir-lang.org/), Nova Scotia, [Solidity](https://www.soliditylang.org/)
+  - **DSLs** (low level libraries):
+  - [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
+  - [halo2](https://github.com/adria0/awesome-halo2) - library ecosystem around zk proving (Rust / zk circuits)
+  - [noir](https://noir-lang.org/) - high‑level language for writing zero‑knowledge applications
+  - [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia?utm_source=chatgpt.com) - project linking circom (a ZK DSL) with Nova proofs, acting as a bridge / toolchain
+  - [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
 
 - **Research Labs**: [Privacy & Scaling Explorations](https://pse.dev), [0xpark](https://0xparc.org), [=nil; Foundation](https://nil.foundation/), [Silent Laboratories](https://silencelaboratories.com), [Aztec Labs](https://www.aztec-labs.com/), [Encrypt Labs](https://www.encryptlabs.org)
 
 - **Dev shops**
-  - Distributed Labs
-  - [FAT Solutions](https://fatsolutions.xyz)
-  - [DeFi Wonderland](https://wonderland.xyz)
+  - [Distributed Labs](https://github.com/distributed-lab) - builds privacy‑focused tools for Web3 and Ethereum apps
+  - [FAT Solutions](https://fatsolutions.xyz) - designs and develops decentralized/privacy‑aware smart contracts
+  - [DeFi Wonderland](https://wonderland.xyz) - creates DeFi products & infrastructure, sometimes privacy‑linked
 
-- **Individual Researchers**: [Ying Tong](https://x.com/therealyingtong), [Oskarth](https://x.com/oskarth), [Riley Wong](https://www.rileynwong.com/)
+- **Individual Researchers**:
+  - [Ying Tong](https://x.com/therealyingtong) - researcher studying crypto privacy & zero‑knowledge proofs
+  - [Oskarth](https://x.com/oskarth) - focuses on blockchain security, privacy, and trust systems
+  - [Riley Wong](https://www.rileynwong.com/) -  Web3, identity, and privacy engineering
 
 ## Funding (R&D)
 
-- [Ethereum Foundation grants](https://ethereum.org/community/grants)
-- [Aztec grants](aztec.network)
+- [Ethereum Foundation grants](https://ethereum.org/community/grants) - funds Ethereum ecosystem R&D including privacy & scaling
+- [Aztec grants](aztec.network) - supports projects building zero‑knowledge / private contracts
 
-## Infra
+## Infrastruction
 
 - **L2s**
-  - [Aztec](http://aztec.network)
-  - [COTI](http://coti.io)
-  - [Ten](https://ten.xyz/faq)
-  - [Intmax](https://intmax.io)
+  - [Aztec](http://aztec.network) - private Ethereum Layer 2 using zero-knowledge proofs.
+  - [COTI](http://coti.io) - privacy-preserving payment network integrating Ethereum compatibility
+  - [Ten](https://ten.xyz/faq) - encrypted Ethereum Layer 2 using trusted execution (TEE)
+  - [Intmax](https://intmax.io) - stateless zkRollup focused on privacy and scalability
   
-- **Edge**: [Miden](https://miden.xyz)
+- **Edge**: [Miden](https://miden.xyz) - STARK-based zkVM enabling private execution on Ethereum
 - **RPC**
-- **Mixnets**: [Nym](http://nym.com), [HOPR](http://hoprnet.org)
+  - [1RPC](https://rpch.net) - No-tracking RPC for Ethereum with privacy protection
+  - [RPCh](rpch.net) - private Ethereum RPC relayed through mixnets (HOPR)
+  - [SecureRPC](https://www.securerpc.com/) - MEV-protected Ethereum RPC for safer transactions
+- **Mixnets**:
+  - [Nym](http://nym.com) - mixnet protecting metadata across Web3 and Ethereum apps
+  - [HOPR](http://hoprnet.org) - decentralized mixnet offering network-layer privacy for dApps
 - **Nodes**
-  - Dapphone x HOPR
-  - [Dappnode](http://dappnode.com)
+  - Dapphone x HOPR - runs private relay and node services using HOPR mixnet
+  - [Dappnode](http://dappnode.com) - plug-and-play Ethereum node with privacy and decentralization support
   
 **Private compute** (TEE, FHE...):
 
-- [Inco](http://inco.org)
-- [Zama](http://zama.ai)
-- [NuConstrtuct](https://nuconstruct.xyz/)
-- [Oasis](oasis.net)
+- [Inco](http://inco.org) - lets smart contracts operate on encrypted data, so data stays private
+- [Zama](http://zama.ai) - enables operations on encrypted data, useful for private dApps
+- [NuConstrtuct](https://nuconstruct.xyz/) - slices blocks into micro‑rounds to reduce front‑running, secure operations
+- [Oasis](oasis.net) - allows apps to process data privately within trusted execution environments
+- [Fhenix](fhenix.net) -Ethereum L2 using FHE to run encrypted smart contracts
+- [Ten](ten.xyz) - L2 using trusted enclaves (TEEs) for private contracts
+- [Mind Network](mindnetwork.xyz) - FHE infrastructure for encrypted data & AI use
 
 - **MPC**: [Silent Shard](https://silencelaboratories.com/silent-shard-snap)
 - **Cross-chain**: [Panther](https://docs.pantherprotocol.io/docs/), [warptoad](https://github.com/warptoad/warp-toad)
 
 ## Sunset
 
-- [Sismo](https://github.com/sismo-core)
-- [Nocturne](https://nocturne-xyz.gitbook.io/nocturne)
-- [Firn](https://github.com/firnprotocol)
-- Aztec Connect aka [Zkmoney](https://github.com/AztecProtocol/zk-money)
-
+- [Sismo](https://github.com/sismo-core) - proves identity privately using Ethereum credentials.
+- [Nocturne](https://nocturne-xyz.gitbook.io/nocturne) - enables private Ethereum accounts and stealth payments
+- [Firn](https://github.com/firnprotocol) - builds private, on-chain payments using zero-knowledge tech
+- Aztec Connect aka [Zkmoney](https://github.com/AztecProtocol/zk-money) - Ethereum bridge enabling shielded, private DeFi
+- [Zkitter](https://www.zkitter.com/explore/) - decentralized social network prioritizing privacy and anonymity
+- [Discreetly](app.discreetly.chat/) - an anonymous, federated, chat application using zero knowledge
+- [UniRep Protocol](https://developer.unirep.io/docs/welcome) - zero-knowledge Protocol built to handle anonymous user data
+  
 ## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
 
 ![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/assets/img/Ethereum%20Privacy%20Ecosystem%20mapping%20by%20Alisher%20v2.0.png)
