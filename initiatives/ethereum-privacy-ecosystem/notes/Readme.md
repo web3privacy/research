@@ -160,10 +160,10 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
 **[Hackathons](https://github.com/web3privacy/research/tree/main/initiatives/ethereum-privacy-ecosystem/resources/hackathons)**:
 
 - offline:
-   - [ETHRome](http://ethrome.org) - Ethereum hackathon in rome with zk/privacy tracks
-   - [ETHDam](http://ethdam.com) - Amsterdam-based conference & hackathon focused on zk and privacy
-   - [ETHBerlin](http://ethberlin.org) - Ethereum hackathon in berlin, includes cypherpunk and zero-knowledge projects
-   - [W3PN HACKS](http://hackathon.web3privacy.info) - Frivacy-focused hackathon by Web3Privacy.Now community
+  - [ETHRome](http://ethrome.org) - Ethereum hackathon in rome with zk/privacy tracks
+  - [ETHDam](http://ethdam.com) - Amsterdam-based conference & hackathon focused on zk and privacy
+  - [ETHBerlin](http://ethberlin.org) - Ethereum hackathon in berlin, includes cypherpunk and zero-knowledge projects
+  - [W3PN HACKS](http://hackathon.web3privacy.info) - Frivacy-focused hackathon by Web3Privacy.Now community
 
 - **Congresses**: [Ethereum Cypherpunk Congress](http://congress.web3privacy.info) - gathering for ethereum privacy devs, cypherpunks & researchers
   
@@ -171,7 +171,7 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
   - [Web3Privacy now](http://summit.web3privacy.info) - annual summit focused on web3 privacy tools and research for Web3Privacy.Now community
   - [Global Encryption Day 2025 - 21st Oct](https://www.internetsociety.org/events/global-encryption-day-2025) - global campaign to defend encryption rights and awareness
   - [Privacy Summit](https://x.com/crecimientoar/status/1954929825547784467) by Crecimiento - latin america–based summit by crecimiento, focused on privacy in web3
-    
+
 - **Meetups**:
   - [Web3Privacy.now](https://web3privacy.info/) - community hosting local meetups for privacy builders and researchers
   - [Privacy Guardians](https://x.com/privacyguardia) - online community sharing web3 privacy events and resources
@@ -275,12 +275,12 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
 
 - **Research Labs**:
-   - [Privacy & Scaling Explorations](https://pse.dev) - Ethereum Foundation team researching zero-knowledge tools, privacy protocols, and scalability
-   - [0xpark](https://0xparc.org) - nonprofit supporting foundational zero-knowledge research and public goods for the Ethereum ecosystem
-   - [=nil; Foundation](https://nil.foundation/) - builds zero-knowledge infrastructure, including proof systems and database integration for Ethereum
-   - [Silent Laboratories](https://silencelaboratories.com) - develops secure multi-party computation (MPC) and privacy-preserving authentication protocols
-   - [Aztec Labs](https://www.aztec-labs.com/) - team behind aztec network, building private, programmable smart contracts using zero-knowledge
-   - [Encrypt Labs](https://www.encryptlabs.org) - research organization building infrastructure for encrypted, private blockchain computation
+  - [Privacy & Scaling Explorations](https://pse.dev) - Ethereum Foundation team researching zero-knowledge tools, privacy protocols, and scalability
+  - [0xpark](https://0xparc.org) - nonprofit supporting foundational zero-knowledge research and public goods for the Ethereum ecosystem
+  - [=nil; Foundation](https://nil.foundation/) - builds zero-knowledge infrastructure, including proof systems and database integration for Ethereum
+  - [Silent Laboratories](https://silencelaboratories.com) - develops secure multi-party computation (MPC) and privacy-preserving authentication protocols
+  - [Aztec Labs](https://www.aztec-labs.com/) - team behind aztec network, building private, programmable smart contracts using zero-knowledge
+  - [Encrypt Labs](https://www.encryptlabs.org) - research organization building infrastructure for encrypted, private blockchain computation
 
 - **Dev shops**
   - [Distributed Labs](https://github.com/distributed-lab) - builds privacy‑focused tools for Web3 and Ethereum apps
@@ -328,10 +328,10 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - [Mind Network](mindnetwork.xyz) - FHE infrastructure for encrypted data & AI use
 
 - **MPC (Multi-Party Computation)**:
-   - [Silent Shard](https://silencelaboratories.com/silent-shard-snap) - secure wallet key-sharing system using MPC to split private keys across devices, reducing risk of theft or loss
+  - [Silent Shard](https://silencelaboratories.com/silent-shard-snap) - secure wallet key-sharing system using MPC to split private keys across devices, reducing risk of theft or loss
 - **Cross-chain**:
-   - [Panther](https://docs.pantherprotocol.io/docs/) - enables private, cross-chain DeFi transactions using zero-knowledge proofs and shielded assets
-   - [warptoad](https://github.com/warptoad/warp-toad) - experimental tool for private cross-chain messaging using zk and threshold encryption
+  - [Panther](https://docs.pantherprotocol.io/docs/) - enables private, cross-chain DeFi transactions using zero-knowledge proofs and shielded assets
+  - [warptoad](https://github.com/warptoad/warp-toad) - experimental tool for private cross-chain messaging using zk and threshold encryption
 
 ## Sunset
 
