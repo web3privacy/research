@@ -263,7 +263,6 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - [ZKProtocol](https://zkprotocol.xyz/) - Next-Generation Privacy Infrastructure Based on Zero-Knowledge Proofs
 - [zkETHer](https://x.com/zketherProtocol) -  holds zero custody so user has complete control till end
 
-
   - **Zero-Knowledge Infrastructure**
   - **Dev tooling**:
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO - lets multiple parties jointly prove circuits without revealing inputs; works with snarkjs / circom artifacts
