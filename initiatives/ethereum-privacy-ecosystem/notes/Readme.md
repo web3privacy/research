@@ -102,7 +102,6 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
 
 - **EF grants**
   - [Ethereum Foundation](https://esp.ethereum.foundation/) - supports Ethereum development, including privacy research
-  -
 - **VCs**:
   - orgs:
     - [a16z crypto](https://a16zcrypto.com/) - invests in crypto projects, including Ethereum privacy
@@ -256,6 +255,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 
 - **Protocols**:
 - [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity
+- [Bandada](https://bandada.pse.dev) - plug-and-play infrastructure that empowers anyone to create and manage privacy-preserving groups of anonymous individuals
 - [RLN](https://github.com/Rate-Limiting-Nullifier) - lets anonymous users act but limits spam/flooding
 - [TLS Notary](https://tlsnotary.org) - lets you prove what a website sent, without revealing everything
 - [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol
@@ -350,6 +350,8 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - [Zkitter](https://www.zkitter.com/explore/) - decentralized social network prioritizing privacy and anonymity
 - [Discreetly](app.discreetly.chat/) - an anonymous, federated, chat application using zero knowledge
 - [UniRep Protocol](https://developer.unirep.io/docs/welcome) - zero-knowledge Protocol built to handle anonymous user data
+- [Chiquito](https://docs.pecadorplonkish.xyz/landing_page.html) - modern ZKP language and compiler for plonkish and AIR arithmetizations
+- [Interep](https://github.com/interep-project) - An identity bridge from web2 to web3  
   
 ## Ethereum Privacy Landscape mapping by Alisher x Logos (for the reference)
 
