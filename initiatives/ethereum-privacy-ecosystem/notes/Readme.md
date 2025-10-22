@@ -253,7 +253,8 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 
 **Abstraction layers**:
 
-- **Protocols**:
+_**Protocols**_
+
 - [Semaphore](https://semaphore.pse.dev) - prove their group membership and send signals such as votes or endorsements without revealing original identity
 - [Bandada](https://bandada.pse.dev) - plug-and-play infrastructure that empowers anyone to create and manage privacy-preserving groups of anonymous individuals
 - [RLN](https://github.com/Rate-Limiting-Nullifier) - lets anonymous users act but limits spam/flooding
@@ -263,22 +264,23 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - [ZKProtocol](https://zkprotocol.xyz/) - Next-Generation Privacy Infrastructure Based on Zero-Knowledge Proofs
 - [zkETHer](https://x.com/zketherProtocol) -  holds zero custody so user has complete control till end
 
-  - **Zero-Knowledge Infrastructure**
-  - **Dev tooling**:
+_**Zero-Knowledge Infrastructure**_
+
+**Dev tooling**
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO - lets multiple parties jointly prove circuits without revealing inputs; works with snarkjs / circom artifacts
     - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO - outsources proof generation securely via MPC so privacy is preserved
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO - enables MPC + ZK in the Noir language for privacy‑preserving compute
     - [zkFOCIL](https://github.com/shreyas-londhe/zkFOCIL-impl/tree/sb/ipa)
     - [Fairblock](https://www.fairblock.network/) - developer tooling and applications for Ethereum ecosystem builders so they can add privacy without reinventing the cryptography
 
-  - **DSLs** (low level libraries):
+**DSLs** (low level libraries):
   - [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
   - [halo2](https://github.com/adria0/awesome-halo2) - library ecosystem around zk proving (Rust / zk circuits)
   - [noir](https://noir-lang.org/) - high‑level language for writing zero‑knowledge applications
   - [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia?utm_source=chatgpt.com) - project linking circom (a ZK DSL) with Nova proofs, acting as a bridge / toolchain
   - [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
 
-- **Research Labs**:
+**Research Labs**:
   - [Privacy & Scaling Explorations](https://pse.dev) - Ethereum Foundation team researching zero-knowledge tools, privacy protocols, and scalability
   - [0xpark](https://0xparc.org) - nonprofit supporting foundational zero-knowledge research and public goods for the Ethereum ecosystem
   - [=nil; Foundation](https://nil.foundation/) - builds zero-knowledge infrastructure, including proof systems and database integration for Ethereum
