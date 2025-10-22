@@ -244,7 +244,7 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 
 **Domains**
 
-- **Identity**: [Human.Tech](http://human.tech), [Self](http://self.xyz), [Rarimo](http://rarimo.com), [zkemail](https://zk.email), [Anon Aadhaar](https://anon-aadhaar.pse.dev/)
+- **Identity**: [Human.Tech](http://human.tech), [Self](http://self.xyz), [Rarimo](http://rarimo.com), [zkemail](https://zk.email), [PrivID](https://prividapp.com)
 - **Voting**: Vocdoni ([Davinchi](http://davinci.vote)), [MACI](http://maci.pse.dev), [Privote](https://privote.live), [plume](https://github.com/plume-sig), [Zupoll](https://zupoll.org)
 - **Governance**: [Aragon x MACI](https://blog.aragon.org/private-onchain-voting-on-aragon-with-maci/), Aragon x [Enclave](http://enclave.gg)
 - **Messaging**: [Waku](http://waku.org)
@@ -260,12 +260,16 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
 - [TLS Notary](https://tlsnotary.org) - lets you prove what a website sent, without revealing everything
 - [Bermuda](https://www.bermudabay.xyz) - private DeFi protocol
 - [Unirep](https://developer.unirep.io) - user data & reputation management
+- [ZKProtocol](https://zkprotocol.xyz/) - Next-Generation Privacy Infrastructure Based on Zero-Knowledge Proofs
+- [zkETHer](https://x.com/zketherProtocol) -  holds zero custody so user has complete control till end
 
   - **Zero-Knowledge Infrastructure**
   - **Dev tooling**:
     - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO - lets multiple parties jointly prove circuits without revealing inputs; works with snarkjs / circom artifacts
     - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO - outsources proof generation securely via MPC so privacy is preserved
     - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO - enables MPC + ZK in the Noir language for privacy‑preserving compute
+    - [zkFOCIL](https://github.com/shreyas-londhe/zkFOCIL-impl/tree/sb/ipa)
+    - [Fairblock](https://www.fairblock.network/) - developer tooling and applications for Ethereum ecosystem builders so they can add privacy without reinventing the cryptography
 
   - **DSLs** (low level libraries):
   - [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
@@ -304,6 +308,10 @@ sourced: [Ethereum Improvement Proposals](https://eips.ethereum.org)
   - [COTI](http://coti.io) - privacy-preserving payment network integrating Ethereum compatibility
   - [Ten](https://ten.xyz/faq) - encrypted Ethereum Layer 2 using trusted execution (TEE)
   - [Intmax](https://intmax.io) - stateless zkRollup focused on privacy and scalability
+  - [Blanksquare](https://blanksquare.io/) - plug-and-play privacy infrastructure for wallets and apps
+  - [shinobi.cash](https://github.com/shinobi-cash) - cross-chain privacy protocol enabling ntent-based private fund transfers
+  - [HIBR - Have I Been Rekt](https://beenrekt.com/) - open-source toolkit for verifying truth, tracing scams, and protecting people
+  - [Privacy Pool Master](https://github.com/KannuSingh/privacy-pool-paymasters) - paymaster for enabling gas-efficient withdrawals without relying on centralized relayer services
   
 - **Edge**: [Miden](https://miden.xyz) - STARK-based zkVM enabling private execution on Ethereum
 - **RPC**
