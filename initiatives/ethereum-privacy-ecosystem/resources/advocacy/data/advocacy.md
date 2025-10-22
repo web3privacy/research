@@ -14,9 +14,9 @@
   
 **Crypto-lobbying organisations**:
 - **[Coin Center](https://www.coincenter.org)** — Leading US non-profit focused on cryptocurrency policy and civil liberties. Opposes warrantless surveillance of blockchain transactions and IRS reporting requirements that compel disclosure of peer-to-peer crypto data without judicial oversight. Advocates for the use of zero-knowledge proofs and privacy-preserving compliance mechanisms as alternatives to surveillance-based regulation.
-- **[European Crypto Initiative (EUCI)](https://www.europeancrypto.eu)** — Brussels-based advocacy organisation engaging with EU institutions on crypto and privacy regulation. Works to prevent restrictions on privacy-preserving tokens and anonymous wallets proposed under the EU’s AML framework. 
+- **[European Crypto Initiative (EUCI)](https://eu.ci/)** — Brussels-based advocacy organisation engaging with EU institutions on crypto and privacy regulation. Works to prevent restrictions on privacy-preserving tokens and anonymous wallets proposed under the EU’s AML framework. 
 - **[DeFi Education Fund](https://www.defieducationfund.org)** — Non-profit organisation defending decentralised finance and user privacy rights through litigation and policy engagement. Opposes warrantless government access to cryptocurrency transaction records and supports privacy-preserving DeFi compliance frameworks.
 
 **Communities**:
 - **[Web3Privacy Now](https://web3privacy.info)** — Global collective supported by the Ethereum Foundation that advances privacy education, coordination, and advocacy across the Ethereum ecosystem.
-- **[Privacy Guardians](https://t.me/privacyguardians)** — Grassroots Web3 community advocating for privacy-preserving tools and user sovereignty. Runs online discussions, workshops, and awareness campaigns addressing metadata exposure, surveillance risks, and privacy practices for individuals, DAOs, and decentralised projects.
+- **[Privacy Guardians](https://x.com/privacyguardia)** — Grassroots Web3 community advocating for privacy-preserving tools and user sovereignty. Runs online discussions, workshops, and awareness campaigns addressing metadata exposure, surveillance risks, and privacy practices for individuals, DAOs, and decentralised projects.
