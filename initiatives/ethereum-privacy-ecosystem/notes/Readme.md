@@ -274,19 +274,21 @@ _**Zero-Knowledge Infrastructure**_
     - [Fairblock](https://www.fairblock.network/) - developer tooling and applications for Ethereum ecosystem builders so they can add privacy without reinventing the cryptography
 
 **DSLs** (low level libraries):
-  - [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
-  - [halo2](https://github.com/adria0/awesome-halo2) - library ecosystem around zk proving (Rust / zk circuits)
-  - [noir](https://noir-lang.org/) - high‑level language for writing zero‑knowledge applications
-  - [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia?utm_source=chatgpt.com) - project linking circom (a ZK DSL) with Nova proofs, acting as a bridge / toolchain
-  - [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
+
+- [Circom](https://github.com/iden3/circomlib) - domain‑specific language for writing zero‑knowledge circuits on Ethereum
+- [halo2](https://github.com/adria0/awesome-halo2) - library ecosystem around zk proving (Rust / zk circuits)
+- [noir](https://noir-lang.org/) - high‑level language for writing zero‑knowledge applications
+- [Nova Scotia](https://github.com/nalinbhardwaj/Nova-Scotia?utm_source=chatgpt.com) - project linking circom (a ZK DSL) with Nova proofs, acting as a bridge / toolchain
+- [Solidity](https://www.soliditylang.org/) - Ethereum’s smart contract language, used to verify proofs / implement logic
 
 **Research Labs**:
-  - [Privacy & Scaling Explorations](https://pse.dev) - Ethereum Foundation team researching zero-knowledge tools, privacy protocols, and scalability
-  - [0xpark](https://0xparc.org) - nonprofit supporting foundational zero-knowledge research and public goods for the Ethereum ecosystem
-  - [=nil; Foundation](https://nil.foundation/) - builds zero-knowledge infrastructure, including proof systems and database integration for Ethereum
-  - [Silent Laboratories](https://silencelaboratories.com) - develops secure multi-party computation (MPC) and privacy-preserving authentication protocols
-  - [Aztec Labs](https://www.aztec-labs.com/) - team behind aztec network, building private, programmable smart contracts using zero-knowledge
-  - [Encrypt Labs](https://www.encryptlabs.org) - research organization building infrastructure for encrypted, private blockchain computation
+
+- [Privacy & Scaling Explorations](https://pse.dev) - Ethereum Foundation team researching zero-knowledge tools, privacy protocols, and scalability
+- [0xpark](https://0xparc.org) - nonprofit supporting foundational zero-knowledge research and public goods for the Ethereum ecosystem
+- [=nil; Foundation](https://nil.foundation/) - builds zero-knowledge infrastructure, including proof systems and database integration for Ethereum
+- [Silent Laboratories](https://silencelaboratories.com) - develops secure multi-party computation (MPC) and privacy-preserving authentication protocols
+- [Aztec Labs](https://www.aztec-labs.com/) - team behind aztec network, building private, programmable smart contracts using zero-knowledge
+- [Encrypt Labs](https://www.encryptlabs.org) - research organization building infrastructure for encrypted, private blockchain computation
 
 - **Dev shops**
   - [Distributed Labs](https://github.com/distributed-lab) - builds privacy‑focused tools for Web3 and Ethereum apps
