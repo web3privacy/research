@@ -335,8 +335,8 @@ _**Zero-Knowledge Infrastructure**_
 - [Inco](http://inco.org) - lets smart contracts operate on encrypted data, so data stays private
 - [Zama](http://zama.ai) - enables operations on encrypted data, useful for private dApps
 - [NuConstrtuct](https://nuconstruct.xyz/) - slices blocks into micro‑rounds to reduce front‑running, secure operations
-- [Oasis](oasis.net) - allows apps to process data privately within trusted execution environments
-- [Fhenix](fhenix.net) -Ethereum L2 using FHE to run encrypted smart contracts
+- [Oasis](https://oasis.net/) - allows apps to process data privately within trusted execution environments
+- [Fhenix](fhenix.io) -Ethereum L2 using FHE to run encrypted smart contracts
 - [Ten](ten.xyz) - L2 using trusted enclaves (TEEs) for private contracts
 - [Mind Network](mindnetwork.xyz) - FHE infrastructure for encrypted data & AI use
 
