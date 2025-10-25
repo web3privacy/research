@@ -267,11 +267,12 @@ _**Protocols**_
 _**Zero-Knowledge Infrastructure**_
 
 **Dev tooling**
-    - "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO - lets multiple parties jointly prove circuits without revealing inputs; works with snarkjs / circom artifacts
-    - "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO - outsources proof generation securely via MPC so privacy is preserved
-    - "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO - enables MPC + ZK in the Noir language for privacy‑preserving compute
-    - [zkFOCIL](https://github.com/shreyas-londhe/zkFOCIL-impl/tree/sb/ipa)
-    - [Fairblock](https://www.fairblock.network/) - developer tooling and applications for Ethereum ecosystem builders so they can add privacy without reinventing the cryptography
+
+- "[CoCircom Collaborative SNARKs for Circom](https://docs.taceo.io/docs/co-circom/)" by TACEO - lets multiple parties jointly prove circuits without revealing inputs; works with snarkjs / circom artifacts
+- "[Proof CoSNARK network for private proof delegation](https://core.taceo.io/articles/taceo-proof-prod/)" by TACEO - outsources proof generation securely via MPC so privacy is preserved
+- "[CoNoir Collaborative SNARKs for Noir](https://docs.taceo.io/docs/co-noir/)" by TACEO - enables MPC + ZK in the Noir language for privacy‑preserving compute
+- [zkFOCIL](https://github.com/shreyas-londhe/zkFOCIL-impl/tree/sb/ipa)
+- [Fairblock](https://www.fairblock.network/) - developer tooling and applications for Ethereum ecosystem builders so they can add privacy without reinventing the cryptography
 
 **DSLs** (low level libraries):
 
