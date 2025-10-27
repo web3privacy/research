@@ -44,7 +44,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHUruguay](https://www.ethereumuruguay.org/) | ETH Uruguay | 11.09.2025 | IRL | $5.000 | 47 | [8](https://taikai.network/en/ethuruguay/hackathons/hackathon-2025/projects) | 0 |
 | [ETHTokyo](https://ethtokyo.org/) | ETHTokyo | 15.09.2025 | IRL | $9.000 | 124 | [41](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects) | 9 |
 | [ETHGlobal New Delhi](https://ethglobal.com/events/newdelhi) | ETHGlobal | 26.09.2025 | IRL | $200.000 | 800 | [633](https://ethglobal.com/showcase?events=newdelhi) | 43 |
-| [ETHRome](https://www.ethrome.org/) | Urbe.eth | 17.10.2025 | IRL | $50.000 | 128 | [65](https://taikai.network/ethrome/hackathons/2025/projects) | 27 |
+| [ETHRome](https://www.ethrome.org/) | Urbe.eth | 17.10.2025 | IRL | $50.000 | 128 | [65](https://taikai.network/ethrome/hackathons/2025/projects) | 23 |
 | [ETHBishkek](https://www.ethbishkek.xyz/) | ETH Bishkek | 24.10.2025 | IRL | $22.000 | 123 | [38](https://taikai.network/en/ethbishkek/hackathons/ethbishkek-2025/projects) | 3 |
 
 ---
