@@ -5,7 +5,7 @@ part of Ethereum Privacy Ecosystem mapping [research](https://github.com/web3pri
 **Key goals**
 
 - aggregate data on contributors to Ethereum Privacy Ecosystem
-- structure data into broader privacy stack beyond technology, but with inclusion of advocacy groups like Coin Center or privacy-focused hackathons
+- structure data into broader privacy stack beyond technology, but with inclusion of advocacy groups like Coin Center or privacy-focused hackaithons
 - build "Awesome Ethereum Privacy" repo - source of truth on the state of Ethereum Privacy
 
 ![alt text](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/assets/img/ethereum-privacy-ecosystem-mapping.png)
@@ -129,6 +129,8 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
   - [Joseph Lubin](https://x.com/ethereumJoseph) - co-founder of Ethereum and founder of ConsenSys
   - [Gavin Wood](https://x.com/gavofyork) - creator of Polkadot and Ethereum co-founder
   - [Stani Kulechov](https://x.com/StaniKulechov) - founder of Aave, a major Ethereum lending protocol
+  - [Imogen Heap](https://x.com/imogenheap) - has been involved in Ethereum-related projects, particularly in the realm of music rights and blockchain technology
+  - [Hsiao-Wei Wang](https://x.com/hwwonx) - core researcher at the Ethereum Foundation, participating in research of Ethereum L1
 
 ## [Marketing](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/marketing/data/marketing.md)
 
