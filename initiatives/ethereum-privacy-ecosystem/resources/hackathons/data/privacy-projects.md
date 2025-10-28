@@ -25,15 +25,15 @@ _Example_
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| PersonalMedicalCard (MedCard NFT) | Decentralized Healthcare | Patient‑owned medical records stored as encrypted IPFS data and controlled via an ERC‑721 token. | [GitHub](https://github.com/ZeroNewLife/finalProject) | — |
-| Proofy | Zero‑Knowledge Verification | Lets users prove skills or achievements as private Soulbound Tokens using ZK proofs. | [GitHub](https://github.com/EmiriowQw/ETHBishkek-Proofy) | — |
+| PersonalMedicalCard | Decentralized Healthcare | Patient‑owned medical records stored as encrypted IPFS data and controlled via an ERC‑721 token. | [GitHub](https://github.com/ZeroNewLife/finalProject) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh7arh9g031f4oy8wjk7xbci/idea) |
+| Proofy | Zero‑Knowledge Verification | Lets users prove skills or achievements as private Soulbound Tokens using ZK proofs. | [GitHub](https://github.com/EmiriowQw/ETHBishkek-Proofy) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh6al3y8028g5yva0vtr0656/idea) |
 | Whisp | Anonymous Social Signalling | Enables verified, anonymous voting or feedback with Semaphore proofs on the Status Network. | [GitHub](https://github.com/Akhil-2310/whisp) | [web](https://whisp-mu.vercel.app/) |
 
 ## ETHRome
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Autark | DevSecOps | A crypto-anarchic DevSecOps framework enforcing immutable, decentralized, multi-party verified frontend governance (SAFE, ENS, IPFS). | [GitHub](https://github.com/MihRazvan/ETHRome_hackathon) | - |
+| Autark | Security | A crypto-anarchic DevSecOps framework enforcing immutable, decentralized, multi-party verified frontend governance (SAFE, ENS, IPFS). | [GitHub](https://github.com/MihRazvan/ETHRome_hackathon) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx4r1we02d112kkxt8y1sxi/idea) |
 | Cibon | Carbon Credits | Trustless carbon-credit distribution platform that verifies carbon footprints via encrypted computation while preserving privacy. | [GitHub](https://github.com/SwineCoder101/cibon) | [web](https://cibon-nextjs.vercel.app/) |
 | DebtShield | Finance | Confidential debt-collection dApp that uses Zama’s fhEVM to keep debt amounts encrypted and uses Civic for signing. | [GitHub](https://github.com/DaniDeggio/ETH_2025.git) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxc9srb022s86976xor1eb9/idea)
 | faceblock | Moderation | Encrypt photos and posts on social media so the servers and public only see decoys. You real friends can decrypt them with keys if they register the pubkeys on ENS. | - | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxbvmvu021q8697j9tjtgc9/idea) |
@@ -104,6 +104,67 @@ _Example_
 | EthicData | AI | EthicData: Earn ETH by sharing anonymized browsing data via AI-powered, privacy-first platform. | [GitHub](https://github.com/ETH-Global/ETH-Global-2025) | [web](https://ethglobal.com/showcase/ethicdata-srp1i) |
 
 ## ETHTokyo
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Cyclone Cash | Finance | Gas optimized tornado cash using Hash chain + Nova folding scheme. | [GitHub](https://github.com/TornadoOpt) | [web](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects/cmfjuja4d048lgq917zxpqzoq/idea) |
+| EncryptedAutoMerge | Storage | Encrypted-AutoMerge enables real-time collaborative text editing with E2EE, ensuring privacy. | [GitHub](https://github.com/Monas-project/encrypted-AutoMerge) | [web](https://main.d2j8ah53rb3srk.amplifyapp.com/) |
+| JPYC zkPay | Finance | Shielded pools and zk-KYC allow KYC-verified users to transfer anonymously while complying with AML/CFT, and enable instant, low-fee payments in Japan. | [GitHub](https://github.com/ou-junya/zkPay) | [web](https://zk-pay.vercel.app/) |
+| Luft Deck | Social | A privacy-preserving, proximity-based business card sharing app built with zero-knowledge proofs and P2P networking. | [GitHub](https://github.com/kidneyweakx/Luft-Deck) | [web](https://testflight.apple.com/join/X1bwDXqD) |
+| Mamizu Cash | Finance | Shielded pool for B2B payments: unlinkable transfers via zkSNARKs, KYB/KYC enforced with ZK Email (UNTI/ERC-6268) and Mizuhiki. | [GitHub](https://github.com/Mamizu-Cash/Mamizu-Cash) | [web](https://mamizu-cash.pages.dev/) |
+| MPay | Finance | Every transaction generates a unique one-time address, breaking the link between your identity and your funds. | [GitHub](https://github.com/goodyanki/ethtokyo2025) | [web](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects/cmfjcezjw04cl137dy6la1dyk/idea) |
+| Selective-Decryption-Distributed-Key-Management | Communication | Privacy-preserving selective decryption of on-chain ciphertexts using MPC and coSNARKs, with on-chain proof verification. | [GitHub](https://github.com/pepetoma/Selective-Decryption-Distributed-Key-Management-Scheme) | [web](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects/cmfkethfs04hfgq91jgkgztb8/idea) |
+| ShinoBee | Finance | Private trading strategies into verifiable DeFi vaults. | [GitHub](https://github.com/HiveFi-Labs/ShinoBee) | [web](https://shinobee-frontend.vercel.app/) |
+| TEE Edge Market | Finance | TEE Edge Market offers a decentralized marketplace for TEE edge nodes. | [GitHub](https://github.com/wasabijiro/TEE_market) | [web](https://tee-market.vercel.app/) |
+| Toku Kaigan | AI | Empowering accessible mental wellness with a gamified anime style AI psychiatrist. | [GitHub](https://github.com/derek2403/ethtokyo) | [web](https://d4c7da0089f4822cbf26ce287f6334247f58e04d-3000.dstack-prod8.phala.network/) |
+| VSR - Verifiable Social Recommendation | Social | A revolutionary recommendation system that puts you in control. | [GitHub](https://github.com/TideQuest/vsr) | [web](http://vsr-demo.tidequest.net/) |
+| Wrapped Monero | Finance | Wrapped Monero protocol for EVM privacy and DeFi for Monero. | [GitHub](https://github.com/madschristensen99/wrappedMonero) | [web](https://wrapped-monero.netlify.app/) |
+| zero-knowledge Pay | Finance | Enables email-only onboarding and opens the door to mass adoption. | [GitHub](https://github.com/uooooo/zk-email-pay) | [web](https://zk-email-pay.vercel.app/) |
+| zkens | Social | Private ENS achieve via disassociation of your main address and your receiving address. | [GitHub](https://github.com/cwkang1998/zkens) | [web](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects/cmfjsq3i104fe137dwv1mcybp/idea) |
+| zkIoT | Auth | Enable IoT devices to prove compliance with rules or thresholds without revealing raw sensor data. | [GitHub](https://github.com/Jun0908/zkiot) | [web](https://zkiot-frontend-intro.vercel.app/) |
+| ZK-Location Proof | Social | Securely verify your location in a designated area without exposing your exact location. | [GitHub](https://github.com/Shunsuke0205/zk-location) | [web](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects/cmfkcobkr04lspo3l8fuvuzre/idea) |
+| ZKPerks | Social | A privacy-preserving marketplace where users claim verified rewards using zero-knowledge proofs of email authenticity without revealing personal information. | [GitHub](https://github.com/labsterx/zkperks) | [web](https://zkperks.vercel.app/) |
+| zkVC | Identity | A privacy-preserving digital identity system that enables trust verification through DIDs and VCs with zero-knowledge proofs. | [GitHub](https://github.com/nabe33/zkVC) | [web](https://note.com/nabe33/m/ma5c67b992a6c) |
+
+## ETHIstanbul
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Cellow | Finance | Zk-based, privacy-preserving Lightning Network built on top of the Yellow Nitrolite standard (ERC-7824). | [GitHub](https://github.com/UYUYANMARUL/cellow) | [web](https://taikai.network/ethistanbul/hackathons/ethistanbul-2025/projects/cmf950bdf01j3gq9189t23wik/idea) |
+| DecentralAI | AI | Decentralized LLM marketplace trained on confidential datasets. | [GitHub](https://github.com/itublockchain/DecentralAI) | [web](https://taikai.network/ethistanbul/hackathons/ethistanbul-2025/projects/cmf8s0i3i01cpgq918l3og2oh/idea) |
+| Intercepta | Security | Intercept high‑risk Ethereum wallet operations and augmenting user decisions with real‑time, AI‑powered analysis. | [GitHub](https://github.com/Eth-Istanbul) | [web](https://taikai.network/ethistanbul/hackathons/ethistanbul-2025/projects/cmf8qez7001efpo3l2d8ql7v9/idea) |
+| ZKP-Estate | Finance | Agent-free renting with Noir ZK proofs and on-chain escrow. | [GitHub](https://github.com/y4hyya/ZKP-Estate) | [web](https://taikai.network/ethistanbul/hackathons/ethistanbul-2025/projects/cmf8s055f01fdpo3lolbueyd3/idea) |
+
+## ETHWarsaw
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Base OS | Security | USB-bootable operating system that enables users to securely sign Ethereum transactions in high-risk or compromised environments. | [GitHub](https://github.com/kacperkozi/base-os) | [web](https://baseos-sigma.vercel.app/) |
+| Blackhole Labs | Finance | Enable any dapp to easily set up multichain integrations, including swaps and bridges, directly through the Blackhole API. | [GitHub](https://github.com/orgs/Black-Hole-Labs) | [web](https://blackhole.build/) |
+| DoxxMe | Social | Securely prove Web2 credentials, activities, or memberships and link them directly to a Base App wallet. | [GitHub](https://github.com/Chmarusso/doxx-me) | [web](https://doxx-me.vercel.app) |
+| HumanID | Identity | Decentralized verification system that binds your crypto wallet to a DNA-backed proof created on a portable realtime DNA sequencer. | [GitHub](https://github.com/rahimunlu/humanID) | [web](https://biometrics.biokami.com/) |
+| RektRadar | Security | Predictive crypto project incident risk scoring engine. | [GitHub](https://github.com/Srakai/web3-risk-assessment) | [web](https://srakai.github.io/web3-risk-assessment/) |
+| Scaffold-ETH Confidential | Infra | A template that supports confidential contracts that follows the Scaffold-ETH template outline. | [GitHub](https://github.com/poppyseedDev/scaffold-eth-zama-template) | [web](https://taikai.network/ethwarsaw/hackathons/ethwarsaw-2025/projects/cmf9d3xhd01rc9gzukbdeepbh/idea) |
+| ShadowBet | Finance | ShadowBet is a decentralized betting platform powered by RedStone oracles. | [GitHub](https://github.com/ivaaaan/shadowbet) | [web](https://shadowbet-74il.vercel.app/) |
+| zk-block-lock | Infra | Cryptographically securing symbiotic crypto-economic model while utilising golemDB for ZKP storage and retrivial. | [GitHub](https://github.com/Kirol54/zk-symbiotic) | [web](https://taikai.network/ethwarsaw/hackathons/ethwarsaw-2025/projects/cmf8szllg01gbpo3l8z0htgdb/idea) |
+
+## ETHAccra
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ERI | Auth | ERI is a decentralized platform that enables ANYONE to verify the authenticity and ownership of physical and digital products. | [GitHub](https://github.com/intelliDean/ERI) | [web](https://taikai.network/ethaccra/hackathons/Hackathon2025/projects/cmf81w33u00y1137drt2ioxg8/idea) |
+| KYWE | Identity | KYC With Eth is a secure, private way to prove who you are across anywhere with your ENS name without sharing your personal data. | [GitHub](https://github.com/PatrickKish1/ethkyc) / [GitHub](https://github.com/PatrickKish1/unikyc) | [web](https://unikyc.vercel.app/) |
+| ProofOnBase | Identity | A Zero-Knowledge Proof (ZKP) enabled decentralized identity management system built on Base. | [GitHub](https://github.com/Mrwicks00/ProofOnBase) | [web](https://proof-on-base.vercel.app/) |
+| RPS-Onchain | Gaming | Blockchain Rock Paper Scissors game on Sepolia with ETH betting. | [GitHub](https://github.com/Delvin233/rps-onchain ) | [web](https://rps-onchain-nextjs.vercel.app/ ) |
+| ZK-Protected Aid Distribution with ENS Identity | Social | Enable secure, private aid distribution and payments for refugees and unbanked people. | - | [web](https://taikai.network/ethaccra/hackathons/Hackathon2025/projects/cmf84cb7s013opo3l6154a6at/idea) |
+
+## ETHJaguar
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| REDE | Social | Safe and open space for students to express their experiences and advice within the university. | [GitHub](https://github.com/pamelagiselle8/Hackathon_ETH_Jaguar) | [web](https://taikai.network/ethereumTGU/hackathons/eth-jaguar/projects/cmez77imw030kq4tsfzx3i9r4/idea) |
+
+## ETHGlobal New York
 
 TBC
 
