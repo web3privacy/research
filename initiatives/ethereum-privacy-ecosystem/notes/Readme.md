@@ -336,6 +336,7 @@ _**Zero-Knowledge Infrastructure**_
 
 - [Inco](http://inco.org) - lets smart contracts operate on encrypted data, so data stays private
 - [Zama](http://zama.ai) - enables operations on encrypted data, useful for private dApps
+- [Soda Labs](http://sodalabs.xyz) - Garbled circuit based MPC protocol for general purpose computation, offered as either L2 or a Co-processor on any chain.
 - [NuConstrtuct](https://nuconstruct.xyz/) - slices blocks into micro‑rounds to reduce front‑running, secure operations
 - [Oasis](https://oasis.net/) - allows apps to process data privately within trusted execution environments
 - [Fhenix](fhenix.io) -Ethereum L2 using FHE to run encrypted smart contracts
