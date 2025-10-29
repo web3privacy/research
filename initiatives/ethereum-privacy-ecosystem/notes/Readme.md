@@ -140,6 +140,7 @@ We are analyzing Gitcoin-related funding for privacy projects: <https://explorer
   - [Naomi Brockwell](https://x.com/naomibrockwell) - educates about crypto privacy and blockchain tech
   - [90 seconds to crypto](https://www.youtube.com/@90secondscrypto) - explains crypto concepts quickly, including privacy basics
   - [Privacy Now](https://www.youtube.com/@PrivacyNowWeb3) - shares updates and tips on Web3 privacy tools
+  - [Privacy on Ethereum newsletter](https://paragraph.com/@privacyonethereum) - weekly newsletter about the latest developments and updates on privacy on Ethereum
 
 # Social layer
 
