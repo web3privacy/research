@@ -29,9 +29,9 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHDam](https://www.ethdam.com/hackathon) | CryptoCanal | 09.05.2025 | IRL | $40.000 | 276 | [33](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects) | 15 |
 | [ETHBratislava](https://ethbratislava.com/) | ETH Bratislava | 23.05.2025 | IRL | $4.500 | 54 | [11](https://dorahacks.io/hackathon/ethbratislava/buidl) | 0 |
 | [ETHDublin](https://www.ethdublin.io/) | ETHIreland | 23.05.2025 | IRL | `?` | `?` | `?` | `?` |
-| [ETHGlobal Prague](https://ethglobal.com/events/prague) | ETHGlobal | 30.05.2025 | IRL | $150.000 | 800 | [223](https://ethglobal.com/showcase?events=prague) | 14 |
-| [ETHBelgrade](https://ethbelgrade.rs/) | ETHBelgrade | 03.06.2025 | IRL | $60.000 | 284 | [20](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects) | 3 |
-| [ETHKyiv](https://ethkyiv.com/) | ETHKyiv | 21.06.2025 | IRL | $100.000 | 143 | [23](https://taikai.network/en/ethkyiv/hackathons/ethkyiv/projects) | 0 |
+| [ETHGlobal Prague](https://ethglobal.com/events/prague) | ETHGlobal | 30.05.2025 | IRL | $150.000 | 800 | [223](https://ethglobal.com/showcase?events=prague) | 29 |
+| [ETHBelgrade](https://ethbelgrade.rs/) | ETHBelgrade | 03.06.2025 | IRL | $60.000 | 284 | [20](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects) | 10 |
+| [ETHKyiv](https://ethkyiv.com/) | ETHKyiv | 21.06.2025 | IRL | $100.000 | 143 | [23](https://taikai.network/en/ethkyiv/hackathons/ethkyiv/projects) | 1 |
 | [ETHGlobal Cannes](https://ethglobal.com/events/cannes) | ETHGlobal | 04.07.2025 | IRL | $275.000 | 800 | [343](https://ethglobal.com/showcase?events=cannes) | 35 |
 | [NapulETH](https://www.napuleth.org/) | NapulETH | 15.07.2025 | IRL | $10.000 | 28 | [11](https://taikai.network/en/napulETH/hackathons/napuleth2025/projects) | 1 |
 | [Unite Defi](https://ethglobal.com/events/unite) | ETHGlobal | 25.07.2025 | Vitual | $550.000 | `?` | [412](https://ethglobal.com/showcase?events=unite) | 9 |
