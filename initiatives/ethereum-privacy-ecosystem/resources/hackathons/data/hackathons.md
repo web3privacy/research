@@ -32,7 +32,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHGlobal Prague](https://ethglobal.com/events/prague) | ETHGlobal | 30.05.2025 | IRL | $150.000 | 800 | [223](https://ethglobal.com/showcase?events=prague) | 14 |
 | [ETHBelgrade](https://ethbelgrade.rs/) | ETHBelgrade | 03.06.2025 | IRL | $60.000 | 284 | [20](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects) | 3 |
 | [ETHKyiv](https://ethkyiv.com/) | ETHKyiv | 21.06.2025 | IRL | $100.000 | 143 | [23](https://taikai.network/en/ethkyiv/hackathons/ethkyiv/projects) | 0 |
-| [ETHGlobal Cannes](https://ethglobal.com/events/cannes) | ETHGlobal | 04.07.2025 | IRL | $275.000 | 800 | [343](https://ethglobal.com/showcase?events=cannes) | 23 |
+| [ETHGlobal Cannes](https://ethglobal.com/events/cannes) | ETHGlobal | 04.07.2025 | IRL | $275.000 | 800 | [343](https://ethglobal.com/showcase?events=cannes) | 35 |
 | [NapulETH](https://www.napuleth.org/) | NapulETH | 15.07.2025 | IRL | $10.000 | 28 | [11](https://taikai.network/en/napulETH/hackathons/napuleth2025/projects) | 1 |
 | [Unite Defi](https://ethglobal.com/events/unite) | ETHGlobal | 25.07.2025 | Vitual | $550.000 | `?` | [412](https://ethglobal.com/showcase?events=unite) | 9 |
 | [ETHBolivia](https://ethbolivia.com/) | ETH Bolivia | 01.08.2025 | IRL | $2.000 | 162 | [26](https://taikai.network/en/ethbolivia/hackathons/EthBolivia2025/projects) | 0 |
