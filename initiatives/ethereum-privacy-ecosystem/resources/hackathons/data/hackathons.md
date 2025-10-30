@@ -34,7 +34,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHKyiv](https://ethkyiv.com/) | ETHKyiv | 21.06.2025 | IRL | $100.000 | 143 | [23](https://taikai.network/en/ethkyiv/hackathons/ethkyiv/projects) | 0 |
 | [ETHGlobal Cannes](https://ethglobal.com/events/cannes) | ETHGlobal | 04.07.2025 | IRL | $275.000 | 800 | [343](https://ethglobal.com/showcase?events=cannes) | 23 |
 | [NapulETH](https://www.napuleth.org/) | NapulETH | 15.07.2025 | IRL | $10.000 | 28 | [11](https://taikai.network/en/napulETH/hackathons/napuleth2025/projects) | 1 |
-| [Unite Defi](https://ethglobal.com/events/unite) | ETHGlobal | 25.07.2025 | Vitual | $550.000 | `?` | [412](https://ethglobal.com/showcase?events=unite) | 13 |
+| [Unite Defi](https://ethglobal.com/events/unite) | ETHGlobal | 25.07.2025 | Vitual | $550.000 | `?` | [412](https://ethglobal.com/showcase?events=unite) | 9 |
 | [ETHBolivia](https://ethbolivia.com/) | ETH Bolivia | 01.08.2025 | IRL | $2.000 | 162 | [26](https://taikai.network/en/ethbolivia/hackathons/EthBolivia2025/projects) | 0 |
 | [ETHGlobal New York](https://ethglobal.com/events/newyork2025) | ETHGlobal | 15.08.2025 | IRL | $275.000 | 800 | [283](https://ethglobal.com/showcase?events=newyork2025) | 14 |
 | [ETHJaguar](https://taikai.network/ethereumTGU/hackathons/eth-jaguar) | Ethereum TGU | 29.08.2025 | IRL | `?` | 101 | [12](https://taikai.network/en/ethereumTGU/hackathons/eth-jaguar/projects) | 1 |
