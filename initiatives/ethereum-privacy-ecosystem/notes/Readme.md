@@ -22,8 +22,8 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 - **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/), [Starshell](https://starshell.net/)
 - **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com), [Veil Cash](https://www.veil.cash/)
-- **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/)
-- **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](https://www.curvy.box/)
+- **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/), [QuarkID](https://x.com/QuarkIDok), [Self Protocol](https://x.com/SelfProtocol), [Opacity Network](x.com/OpacityNetwork), [Reclaim Protocol](https://reclaimprotocol.org/)
+- **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](https://www.curvy.box/), 
 - **Portfolio**: [Rotki](http://rotki.com)
 - **Storage**: [Swarm](http://ethswarm.org), [Codex](http://codex.storage), [Arcana](https://arcana.network/)
 - **VPN**: [Nym](http://nymvpn.com), [GnosisVPN](https://gnosisvpn.com), [MASQ dMeshVPN](https://www.masqbrowser.com/consume)
@@ -292,6 +292,8 @@ _**Zero-Knowledge Infrastructure**_
 - [Silent Laboratories](https://silencelaboratories.com) - develops secure multi-party computation (MPC) and privacy-preserving authentication protocols
 - [Aztec Labs](https://www.aztec-labs.com/) - team behind aztec network, building private, programmable smart contracts using zero-knowledge
 - [Encrypt Labs](https://www.encryptlabs.org) - research organization building infrastructure for encrypted, private blockchain computation
+- [Primus Labs](primuslabs.xyz) - verifying and computing any data in web3 with zkTLS & zkFHE to validate web data and utilize it in an encrypted form
+
 
 - **Dev shops**
   - [Distributed Labs](https://github.com/distributed-lab) - builds privacy‑focused tools for Web3 and Ethereum apps
@@ -348,6 +350,7 @@ _**Zero-Knowledge Infrastructure**_
 - **Cross-chain**:
   - [Panther](https://docs.pantherprotocol.io/docs/) - enables private, cross-chain DeFi transactions using zero-knowledge proofs and shielded assets
   - [warptoad](https://github.com/warptoad/warp-toad) - experimental tool for private cross-chain messaging using zk and threshold encryption
+  - [Chainlink](https://x.com/chainlink) - enables cross-chain compliance infrastructure for digital assets
 
 ## Sunset
 
