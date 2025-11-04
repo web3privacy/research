@@ -28,7 +28,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETH Cinco de Mayo](https://ethcincodemayo.com) | ETH Cinco de Mayo | 01.05.2025 | IRL | $65.000 | 230 | [62](https://taikai.network/en/ethcdm/hackathons/ethcdm-2/projects) | 1 |
 | [ETHDam](https://www.ethdam.com/hackathon) | CryptoCanal | 09.05.2025 | IRL | $40.000 | 276 | [33](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects) | 15 |
 | [ETHBratislava](https://ethbratislava.com/) | ETH Bratislava | 23.05.2025 | IRL | $4.500 | 54 | [11](https://dorahacks.io/hackathon/ethbratislava/buidl) | 0 |
-| [ETHDublin](https://www.ethdublin.io/) | ETHIreland | 23.05.2025 | IRL | `?` | `?` | `?` | `?` |
+| [ETHDublin](https://www.ethdublin.io/) | ETHIreland | 23.05.2025 | IRL | $12.000 | 84 | [31](https://dorahacks.io/hackathon/ethdublin2025/buidl) | 3 |
 | [ETHGlobal Prague](https://ethglobal.com/events/prague) | ETHGlobal | 30.05.2025 | IRL | $150.000 | 800 | [223](https://ethglobal.com/showcase?events=prague) | 29 |
 | [ETHBelgrade](https://ethbelgrade.rs/) | ETHBelgrade | 03.06.2025 | IRL | $60.000 | 284 | [20](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects) | 10 |
 | [ETHKyiv](https://ethkyiv.com/) | ETHKyiv | 21.06.2025 | IRL | $100.000 | 143 | [23](https://taikai.network/en/ethkyiv/hackathons/ethkyiv/projects) | 1 |
