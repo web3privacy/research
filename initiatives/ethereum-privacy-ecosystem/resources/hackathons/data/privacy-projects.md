@@ -52,6 +52,62 @@ _Example_
 | Split3 | Finance | Splitwise meets Web3. | [GitHub](https://github.com/ilge-ustun/splitwise) | [web](https://split3-ethrome.vercel.app/) |
 | SteganoPhaser | Communication | Hiding messages in the flow of transaction, ecdh based stealth address communication tool. | [GitHub](https://github.com/SolidityDrone/SteganoPhaser.git) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx1i27w01tv86975acfkjne/idea) |
 
+## ETHGlobal ETHOnline
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| AgentNexus | Finance | DeFi yield optimizer with AI agents, ZK safety, and one‑click bridge‑and‑execute. | [GitHub](https://github.com/irajgill/AgentNexus) | [web](https://ethglobal.com/showcase/agentnexus-5jcq5) |
+| Credence | Social | Universal, private, renewable skill proof via NFTs: encrypted data, auto-renew by test. | [GitHub](https://github.com/Om-Thanage/ETH-Online) | [web](https://eth-online-nine.vercel.app/) |
+| MyDID | Identity | Privacy-preserving decentralized identity solution. | [GitHub](https://github.com/AdityaBirangal/MyDID) | [web](https://ethglobal.com/showcase/mydid-49h4z) |
+| Ztomic-Swap | Finance | A ZKCP based Zk Atomic Swap solution with cross-chain capabilities. | [GitHub](https://github.com/zTomic-Swap/Ztomic-Swap) | [web](https://client-ztomic.vercel.app/) |
+| Disburse | AI | Autonomous agent-to-agent payments with yield, privacy, and chain abstraction in one SDK. | [GitHub](https://github.com/Abhi270303/Disburse-) | [web](https://disburse-ai.vercel.app/) |
+| Inheritance Switch | Finance | Decentralized dead man’s switch for $PYUSD$ and encrypted messages. | [GitHub](https://github.com/eth-online-2025/eth-online-2025) | [web](https://ethglobal.com/showcase/inheritance-switch-huke9) |
+| INRfolio | Social | Privacy-first, self-hosted crypto portfolio and tax tracker tailored for Indian users. | [GitHub](https://github.com/robin11110000/INRfolio) | [web](https://inrfolio.vercel.app/) |
+| zkOrderBook | Finance | zkProof based anonymous order book DEX trading with AMM fallback. | [GitHub](https://github.com/arturo-clavero/zk-orderbook) | [web](https://ethglobal.com/showcase/zkorderbook-f0sqg) |
+| AnonAid | Social | Privacy-preserving donation platform using PYUSD stablecoin for sensitive humanitarian causes. | [GitHub](https://github.com/Shreyash-Thakur/AnonAid) | [web](https://ethglobal.com/showcase/anonaid-zpt4u) |
+| ZEX-P2P | Finance | ZEX is a confidential Peer-to-peer decentralized exchange where you can trade with privacy. | [GitHub](https://github.com/agrawalx/private-stablecoin) | [web](https://ethglobal.com/showcase/zex-p2p-eiofn) |
+| CiFHErTradeArena | Finance | The first encrypted battleground for DeFi strategy where traders compete privately using FHE. | [GitHub](https://github.com/Nilay27/CifherTradeArena) | [web](https://cifhertradearena.vercel.app/) |
+| Kryptos | Gaming | Prove your hand, conceal your truth, Interrogate, accuse. ZK card game of deduction & strategy. | [GitHub](https://github.com/groverInnovate/Kryptos) | [web](https://ethglobal.com/showcase/kryptos-3wkxc) |
+| 3Zi0 | Finance | Private, unlinkable, confidential fund transfers using zero-knowledge proofs. | [GitHub](https://github.com/IMPERIAL-X7/3zio) | [web](https://ethglobal.com/showcase/3zi0-ymr9q) |
+| nilHAK | AI | nilHAK let's you use HederaAgentKit without openAI seeing what you are doing. | [GitHub](https://github.com/Davetbutler/nillion-private-hedera-agent-kit) | [web](https://ethglobal.com/showcase/nilhak-msba7) |
+| disphorea | Social | Pseudonymous, NFT-gated Discord discussions using Semaphore proofs. | [GitHub](https://github.com/tomosaigon/disphorea) | [web](https://ethglobal.com/showcase/disphorea-ouxeo) |
+| SealEncrypt | Storage | Decentralized encrypted document storage and permission based sharing platform. | [GitHub](https://github.com/blockvished/SealEncrypt) | [web](https://seal-encrypt.vercel.app/) |
+| Trust Vault | Auth | On-chain proof of authenticity for creative work with privacy-preserving verification. | [GitHub](https://github.com/Prince-PT/Trustvault) | [web](https://trust-vault-proof.lovable.app/) |
+| CredentialsZK | Auth | Instant, privacy-preserving credential verification using blockchain and Zero-Knowledge Proofs. | [GitHub](https://github.com/Ankur2606/CredentialsZk) | [web](https://credentials-zk-protocol.vercel.app/) |
+| PAYLOAD | Finance | Private payroll system using Railgun's ZKPs for compliant PYUSD/USDC salary payments on Ethereum. | [GitHub](https://github.com/mohammed7s/payload) | [web](https://ethglobal.com/showcase/payload-brtgd) |
+| B-Drive | Storage | Decentralized storage app built on Ethereum for secure, private, and user-owned data. | [GitHub](https://github.com/Shivang14d04/B-Drive) | [GitHub](https://github.com/Shivang14d04/B-Drive) | [web](https://b-drive-igti8v2rw-shivangs-projects-b9773cd1.vercel.app/) |
+| Obscura | Finance | Zero-Knowledge Privacy Mixer for Ethereum - ZK-SNARKs ensure private ETH transfers. | [GitHub](https://github.com/abdulsaheel/obscura) | [web](https://ethglobal.com/showcase/obscura-v67xi) |
+| zk-intent-fusion | AI | AI parses natural language DeFi intent into verifiable private cross-L2 ops via ZK-proofs. | [GitHub](https://github.com/fromtaoyuanhsinchuuuu/zk-intent-fusion) | [web](https://ethglobal.com/showcase/zk-intent-fusion-cizrr) |
+| Eclipse | Social | Private data marketplace where AI verifies encrypted content so you can buy with confidence. | [GitHub](https://github.com/oceans404/eclipse) | [web](https://eclipse-pm.vercel.app/) |
+| BlockMessenger | Social | Simple, Private, Offline messaging using P2P network. | [GitHub](https://github.com/AbJ-1729/BlockMessenger) | [web](https://ethglobal.com/showcase/blockmessenger-dw9qi) |
+| Chainless | Wallet | Privacy-first multi-chain wallet with stealth addresses and unified balances across 13+ blockchains. | [GitHub](https://github.com/YASH-ai-bit/Chainless) | [web](https://ethglobal.com/showcase/chainless-0kdet) |
+| PriStox | Finance | Privately buy tokenized assets using ZKPs, without revealing balance and wallet address. | [GitHub](https://github.com/iitianpushkar/PriStox) | [web](https://ethglobal.com/showcase/pristox-na4zv) |
+| zkFilebox | Storage | P2P Data Exchange using Poseidon Encryption and ECDH and ZK-SNARK. | [GitHub](https://github.com/Wertusser/zk-filebox) | [web](https://zk-filebox-web.vercel.app/) |
+| MedSynapse | AI | Decentralized AI platform that securely shares anonymized health data for research. | [GitHub](https://github.com/AkakpoErnest/MedSynapse) | [web](https://glistening-cocada-b13831.netlify.app/) |
+| Fig Search | Social | Browsing network better than Tor with zero data discovery by any middleman. | [GitHub](https://github.com/Philotheephilix/fig-app) | [web](https://figsearch.app/) |
+| Shadow Nox | Finance | Privacy-preserving parallel DeFi on Arcology with 10k+ TPS, powered by EVVM Fisher bots. | [GitHub](https://github.com/SamsShow/ShadowNox) | [web](https://shadow-nox-frontend.vercel.app/) |
+| Sentinel Oracle | AI | Sentinel Oracle is a privacy-preserving, AI-powered DeFi oracle system. | [GitHub](https://github.com/yourdevkalki/Sentinel-Oracle) | [web](https://sentinel-oracle.vercel.app/) |
+| GhostWallet | Wallet | Privacy-first burner wallets with zero on-chain linkability, automated wallet creation. | [GitHub](https://github.com/Jenniscott/Ghost-Wallet) | [web](https://ghost-wallet-seven.vercel.app/) |
+| ALLXDefi | Social | ZK-based portfolio proofs + adaptive ASI risk engine for safer DeFi decisions. | [GitHub](https://github.com/Shivfun99/ALLXDefi) | [web](https://ethglobal.com/showcase/allxdefi-tb2wg) |
+| ChronoVault | Wallet | Web3 wallet with TOTP 2 factor authentication and zero-knowledge proofs. | [GitHub](https://github.com/WhyAsh5114/ethonline-2025) | [web](https://chronovault-ethonline.vercel.app/) |
+| Shielded Ledger | Finance | Confidential token launchpad with minting functionality. | [GitHub](https://github.com/SiddharthManjul/Shielded-Ledger) | [web](https://ethglobal.com/showcase/shielded-ledger-ydn70) |
+| SignDAO | Social | AI translates sign language for DAO voting with ZK privacy, empowering 70M+ deaf users. | [GitHub](https://github.com/ayush585/SignDAO-ETHOnline2025) | [web](https://ethglobal.com/showcase/signdao-dmrjm) |
+| LitGhost | Finance | Make anon PyUSD payments to Telegram users. | [GitHub](https://github.com/HarryR/LitGhost) | [web](https://harryr.github.io/LitGhost/) |
+| GreenChain | Finance | Track emissions, auto-buy & retire carbon tokens via PYUSD with private, auditable ESG data. | [GitHub](https://github.com/EthOnline-GreenChain/Greenchain-Frontend) | [web](https://eth-online-frontend-ajl8.vercel.app/) |
+| Karaage | Finance | A cross-chain lending protocol secured through Zero-Knowledge proofs. | [GitHub](https://github.com/uttkarzsh/karaage) | [web](https://ethglobal.com/showcase/karaage-etgtp) |
+| Loopr | Social | Confidential document signing & verification for global teams. | [GitHub](https://github.com/panugothrakesh/loopr) | [web](https://ethglobal.com/showcase/loopr-8401a) |
+| EthMem | AI | A private, portable, on-chain memory for any AI. | [GitHub](https://github.com/ekas-7/EthMem) | [web](https://ethmem.vercel.app/) |
+| Siphon Protocol | Finance | Enabling untraceable, hyper-liquid, and institutional-grade DeFi privacy. | [GitHub](https://github.com/undefinedlab/siphon_eth) | [web](https://siphon-eth.vercel.app/) |
+| Incendia (Auction) | Finance | A fully on-chain, anonymous auction protocol using Proof-of-Burn and zk-SNARKs. | [GitHub](https://github.com/incendia-tech/ethglobal-incendia-auction) | [web](https://ethglobal.com/showcase/incendia-auction-nsgci) |
+| Anonymous News Forum | Social | Anonymous, censor-resistant news powered by World ID, Lit Protocol, and IPFS. | [GitHub](https://github.com/88subarno88/Anonymous-Forum) | [web](https://ethglobal.com/showcase/anonymous-news-forum-kmacz) |
+| ChainMate | Gaming | Chess wagering with zero-knowledge proofs. Play, prove your wins, claim rewards trustlessly. | [GitHub](https://github.com/ivedmohan/ChainMate) | [web](https://chainmatee.vercel.app/) |
+| PetPet | Social | Verifiable events in an on-chain explorer and dashoard. | [GitHub](https://github.com/derek2403/pet-pet) | [web](https://pet-pet2.vercel.app/) |
+| Secret Vaults | Social | Exploring privacy vaults and automated unit test generation for Solidity smart contracts. | [GitHub](https://github.com/jsmaxi/private-vaults) | [web](https://secret-vaults.vercel.app/) |
+| iDarkPool | Finance | Privacy-preserving confidential decentralized exchange, MEV-resistant powered by Exec. | [GitHub](https://github.com/mariocana/idarkpool) | [web](https://ethglobal.com/showcase/idarkpool-cbgzz) |
+| Rahu Protocol | AI | Self-Piloting ZK-L2: AI agents optimize the blockchain in real-time with ZK-Proofs. | [GitHub](https://github.com/suyash242004/rahu-protocol) | [web](https://rahu-protocol-frontend.vercel.app/) |
+| BugChan | Social | Trustless bug bounties powered by smart contracts, encryption, and reputation. | [GitHub](https://github.com/swarooppatilx/bug-chan) | [web](https://bugchan.xyz/) |
+| zkEnc | Auth | Witness encryption made practical: encrypt with statements, decrypt with proofs—using Circom. | [GitHub](https://github.com/flyinglimao/zkenc) | [web](https://zkenc.limaois.me/) |
+
 ## ETHGlobal New Delhi
 
 | Project | Category | Description | GitHub | Web |
@@ -294,6 +350,78 @@ _Example_
 | Proofs of Inference | AI | Zero-knowledge ML proofs marketplace: request, verify, and pay for private, auditable AI inference. | [GitHub](https://github.com/markhovs/proofs-of-inference) | [web](https://ethglobal.com/showcase/proofs-of-inference-6rug4) |
 
 ## ETHDublin
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| KinChain | Social | Securing Generations, Connecting the Irish Diaspora. | [GitHub](https://github.com/Karlitoyo/EthHack2025/tree/updateBackend) | [web](https://dorahacks.io/buidl/26538) |
+| Yadam MCP | AI | Providing data sovereignty and monetization for data providers in a data-led economy. | [GitHub](https://github.com/tharindupr/yadam-mcp) | [web](https://dorahacks.io/buidl/26522) |
+| CoNav | Social | A Decentralized, Privacy-Preserving Alternative to Waze. | [GitHub](https://github.com/RegisGraptin/CoNav) | [web](https://dorahacks.io/buidl/26493) |
+
+## ETHDam
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Activist Toolkit | Infra | Privacy-preserving infra offering proof-of-protest, dead man's switch, and secure tools to protect activists, verify presence, and resist authoritarian erasure. | [GitHub](https://github.com/Tranquil-Flow/activist-privacy-handbook) | [web](https://v0-create-protest-feature-blue.vercel.app/) |
+| Batlleship Goes Private | Gaming | A private spin on a standard game. | [GitHub](https://github.com/bakoushin/battleship) | [web](https://battleship-d0q.pages.dev/) |
+| Farea | Social | Private Animal Health Records on Oasis that rewards good owners with Circles. | [GitHub](https://github.com/armsves/animalsHealthandRewards/) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaivfkl601h710wsuqkj0x3d/idea) |
+| HealthTrust | Healthcare | Privatized health data monetization. Help real people solve real problems without risking exposure. | [GitHub](https://github.com/LeonardoRyuta/HealthTrust) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaj53mzs01jui8o9hnlkttxy/idea) |
+| MonCraft | Gaming | Catch monsters in a Pokémon-style game powered by on-chain randomness, privacy, and ROFL. | [GitHub](https://github.com/epintos/oasis-moncraft-game) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaikn82p011a3pl1fpe6ntfm/idea) |
+| OnyxGuard | AI | Intelligent crypto risk engine that analyzes wallet activity in real time. | [GitHub](https://github.com/AkramChakrouni/eth-wallet-risk-analysis.git) / [GitHub](https://github.com/AkramChakrouni/onyxguard-risk-pulse-ui.git) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaj6jbek01l310wsxxk0yodf/idea) |
+| P.I.M.P. | Finance | Privacy Infused Market Predictions Invisible bets. Visible victories. | [GitHub](https://github.com/MadCoder39/EthDam2025) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaij42g5014710wse3lt7e80/idea) |
+| PrivaMail | Social | Fully end-to-end encrypted, cross-chain messaging client and protocol built for privacy. | [GitHub](https://github.com/CJ42/hackathon-ethdam-2025) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaieqspp010b10wspabt4lo5/idea) |
+| ROFL Swap | Finance | Privacy-preserving darkpool exchange. | [GitHub](https://github.com/tricodex/ethdam-2025) | [web](https://roflswap-ethdam.vercel.app/) |
+| Testament | Social | Last will and testament for crypto holders. | [GitHub](https://github.com/jasny/ethdam3) | [web](https://testament.jasny.net/) |
+| ZK-Pal | Finance | On-ramps/Off-ramps system using Paypal. | [GitHub](https://github.com/RegisGraptin/zk-pal) | [web](https://zk-pal.vercel.app/) |
+| ZK Will | Social | System for cryptocurrency to allow owners to give money to their heirs. | [GitHub](https://github.com/OfficeRon/zkwill) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmagvd5wp0003jv2vsn3gxdi1/idea) |
+| RØPE | Finance | Trust-minimized on/offramp solution deployed as an MCP server. | [GitHub](https://github.com/itublockchain/ethdam-rope) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects/cmaix7zwt01hli8o9fr4ycpub/idea) |
+
+## ETH Cinco de Mayo
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CheckMate | Finance | Create, claim, split and withdraw private checks with zk-SNARKs on multiple EVM networks. | [GitHub](https://github.com/Efrainq07/check_app) | [web](https://taikai.network/ethcdm/hackathons/ethcdm-2/projects/cma9q6dro0g4ine4uj5vgkeqe/idea) |
+
+## ETHGlobal Taipei
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Zhat's Me | Auth | Prove ETHGlobal ticket ownership without revealing your ID documents. | [GitHub](https://github.com/moven0831/Zhats-Me) | [web](https://ethglobal.com/showcase/zhats-me-vioyt) |
+| BENS | Wallet | ENS-based resolver for private, deterministic B2B wallet addresses. | [GitHub](https://github.com/jianwei2102/BENS) | [web](https://ethglobal.com/showcase/bens-j8mak) |
+| TaskVault_AI | AI | Privacy-preserving ID, AI evaluation & on-chain rewards. Effortless, instant, and transparent. | [GitHub](https://github.com/cheng-chun-yuan/TaskVault_AI) | [web](https://ethglobal.com/showcase/taskvault-ai-ypts7) |
+| HypBTC | Finance | A privacy-preserving cross-chain token transfer protocol powered by MPC. | [GitHub](https://github.com/armanthepythonguy/HypBTC-ETHTaipei) | [web](https://ethglobal.com/showcase/hypbtc-226zv) |
+| Crowdera | Social | Donate anonymously, just silent impact. | [GitHub](https://github.com/thachawit/Crowdera) | [web](https://ethglobal.com/showcase/crowdera-s48f9) |
+| Chaince | Finance | Web3 giveaways with 0% fees, provable fairness, and user privacy. Trust the draw! | [GitHub](https://github.com/Chloeweidepei/vibe-to-win) | [web](https://ethglobal.com/showcase/chaince-dwn22) |
+| SelfSphere | Social | Web3 discussions with ZK identity and Sybil resistance via Self protocol. | [GitHub](https://github.com/kevinsslin/SelfSphere) | [web](https://self-sphere.vercel.app/) |
+| TornadoCash-Zircuit | Finance | Simplify Tornado Cash's setup so that it uses `Foundry instead of Truffle. | [GitHub](https://github.com/luksgrin/ethglobal-taipei) | [web](https://ethglobal.com/showcase/tornadocash-zircuit-64bd8) |
+| staySafe | Social | Book hostels globally with ZK passport proofs — private, secure. | [GitHub](https://github.com/Nith567/staySelfContracts) | [web](https://ethglobal.com/showcase/staysafe-3us5w) |
+| Breeze | Social | Breeze is a real-time anonymous chat on World App, connecting you with random people securely. | [GitHub](https://github.com/yeeetai/breeze) | [web](https://ethglobal.com/showcase/breeze-cqbpu) |
+| DeepTruth | Auth | Tamperproof videos via steganography.WorldID,ENS&Self Protocol ensure authenticity across platforms. | [GitHub](https://github.com/RomarioKavin1/DeepTruth) | [web](https://deep-truth.vercel.app/demo) |
+| How Doxxed Am I? | Social | "Chainalysis for privacy hygiene." What is your public on-chain behavior revealing? | [GitHub](https://github.com/kaizau/how-doxxed) | [web](https://howdoxxed.xyz/) |
+| Club Frenguin | Gaming | A 2D social garden world with ZK identity, age-gated spaces, and on-chain ENS subdomains. | [GitHub](https://github.com/d33p-x/TaipeiProject) | [web](https://ethglobal.com/showcase/club-frenguin-z39n4) |
+| zkOTP Wallet | Wallet | A seedless wallet secured by zk-proofs and Google Authenticator TOTP standard. | [GitHub](https://github.com/NuttakitDW/ethglobal-taipei) | [web](https://v0-zkotp-wallet-design-dkbyin.vercel.app/) |
+| Cubix Markonium | Infra | A 3D blockchain leveraging geometric determinism, zk-SNARKs, and quantum-resistant cryptography. | [GitHub](https://github.com/34r7h/cubix) | [web](https://ethglobal.com/showcase/cubix-markonium-esynm) |
+
+## ETHBucharest
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Envote | DAO | Secure, Confidential On-Chain Voting. | [GitHub](https://github.com/alien1403/ETH-Bucharest-2025) | [web](https://dorahacks.io/buidl/25580) |
+
+## ETHDenver
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Ultra Anon | Finance | An experimental privacy token with maximum plausible deniability and anonymity set where we blur the lines of public and private state. | [GitHub](https://github.com/jimjimvalkema/ultra-anon) | [web](https://ultraanon.jimjim.dev/) |
+| SwarmOPS | Finance | Execute your trades . Stay hidden. Be the ghost in Blockchain. | [GitHub](https://github.com/Dev1-teewan/swarmOPS) | [web](https://swarm-ops.vercel.app/) |
+| Cranberry | AI | Private Inference Pipelines. | [GitHub](https://github.com/Arthur-Jacobina/cran) | [web](https://devfolio.co/projects/cranberry-bd29) |
+| Capable ZK Agents | AI | A ZK marketplace of Tokenised capabilities for ai agents built with agentkits that use Eliza and Langchain. | [GitHub](https://github.com/roshanbvadassery/avail-express.git) | [web](https://devfolio.co/projects/capable-zk-agents-5b69) |
+| GhostPad | Finance | Anonymous Token Launchpad for Ethereum. | [GitHub](https://github.com/psycho-virtual/ghostpad-launcher) | [web](https://devfolio.co/projects/ghostpad-7a6d) |
+| Refactor2FActor | Auth | 2-Factor authentication for your wallet. | [GitHub](https://github.com/dmbond007/Web3-2FA) | [web](https://devfolio.co/projects/refactorfactor-0262) |
+
+## ETHiopia
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 
 TBC
 
