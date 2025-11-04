@@ -26,7 +26,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHBucharest](https://ethbucharest.ro/) | Dots N' Bits | 03.04.2025 | IRL | $40.850 | 109 | [35](https://dorahacks.io/hackathon/ethbucharest2025/buidl) | 2 |
 | [ETHGlobal Taipei](https://ethglobal.com/events/taipei) | ETHGlobal | 04.04.2025 | IRL | $200.00 | 800 | [233](https://ethglobal.com/showcase?events=taipei) | 6 |
 | [ETH Cinco de Mayo](https://ethcincodemayo.com) | ETH Cinco de Mayo | 01.05.2025 | IRL | $65.000 | 230 | [62](https://taikai.network/en/ethcdm/hackathons/ethcdm-2/projects) | 1 |
-| [ETHDam](https://www.ethdam.com/hackathon) | CryptoCanal | 09.05.2025 | IRL | $40.000 | 276 | [33](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects) | 15 |
+| [ETHDam](https://www.ethdam.com/hackathon) | CryptoCanal | 09.05.2025 | IRL | $40.000 | 276 | [33](https://taikai.network/cryptocanal/hackathons/ethdam2025/projects) | 14 |
 | [ETHBratislava](https://ethbratislava.com/) | ETH Bratislava | 23.05.2025 | IRL | $4.500 | 54 | [11](https://dorahacks.io/hackathon/ethbratislava/buidl) | 0 |
 | [ETHDublin](https://www.ethdublin.io/) | ETHIreland | 23.05.2025 | IRL | $12.000 | 84 | [31](https://dorahacks.io/hackathon/ethdublin2025/buidl) | 3 |
 | [ETHGlobal Prague](https://ethglobal.com/events/prague) | ETHGlobal | 30.05.2025 | IRL | $150.000 | 800 | [223](https://ethglobal.com/showcase?events=prague) | 29 |
