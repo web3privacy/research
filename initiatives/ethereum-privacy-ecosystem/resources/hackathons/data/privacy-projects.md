@@ -20,17 +20,17 @@ _Example_
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| PersonalMedicalCard | Decentralized Healthcare | Patient‑owned medical records stored as encrypted IPFS data and controlled via an ERC‑721 token. | [GitHub](https://github.com/ZeroNewLife/finalProject) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh7arh9g031f4oy8wjk7xbci/idea) |
-| Proofy | Zero‑Knowledge Verification | Lets users prove skills or achievements as private Soulbound Tokens using ZK proofs. | [GitHub](https://github.com/EmiriowQw/ETHBishkek-Proofy) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh6al3y8028g5yva0vtr0656/idea) |
-| Whisp | Anonymous Social Signalling | Enables verified, anonymous voting or feedback with Semaphore proofs on the Status Network. | [GitHub](https://github.com/Akhil-2310/whisp) | [web](https://whisp-mu.vercel.app/) |
+| PersonalMedicalCard | Healthcare | Patient‑owned medical records stored as encrypted IPFS data and controlled via an ERC‑721 token. | [GitHub](https://github.com/ZeroNewLife/finalProject) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh7arh9g031f4oy8wjk7xbci/idea) |
+| Proofy | Auth | Lets users prove skills or achievements as private Soulbound Tokens using ZK proofs. | [GitHub](https://github.com/EmiriowQw/ETHBishkek-Proofy) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh6al3y8028g5yva0vtr0656/idea) |
+| Whisp | DAO | Enables verified, anonymous voting or feedback with Semaphore proofs on the Status Network. | [GitHub](https://github.com/Akhil-2310/whisp) | [web](https://whisp-mu.vercel.app/) |
 
 ## ETHRome
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Autark | Security | A crypto-anarchic DevSecOps framework enforcing immutable, decentralized, multi-party verified frontend governance (SAFE, ENS, IPFS). | [GitHub](https://github.com/MihRazvan/ETHRome_hackathon) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx4r1we02d112kkxt8y1sxi/idea) |
-| Cibon | Carbon Credits | Trustless carbon-credit distribution platform that verifies carbon footprints via encrypted computation while preserving privacy. | [GitHub](https://github.com/SwineCoder101/cibon) | [web](https://cibon-nextjs.vercel.app/) |
-| DebtShield | Finance | Confidential debt-collection dApp that uses Zama’s fhEVM to keep debt amounts encrypted and uses Civic for signing. | [GitHub](https://github.com/DaniDeggio/ETH_2025.git) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxc9srb022s86976xor1eb9/idea)
+| Cibon | Finance | Trustless carbon-credit distribution platform that verifies carbon footprints via encrypted computation while preserving privacy. | [GitHub](https://github.com/SwineCoder101/cibon) | [web](https://cibon-nextjs.vercel.app/) |
+| DebtShield | Finance | Confidential debt-collection dApp that uses Zama’s fhEVM to keep debt amounts encrypted and uses Civic for signing. | [GitHub](https://github.com/DaniDeggio/ETH_2025.git) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxc9srb022s86976xor1eb9/idea) |
 | faceblock | Moderation | Encrypt photos and posts on social media so the servers and public only see decoys. You real friends can decrypt them with keys if they register the pubkeys on ENS. | - | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxbvmvu021q8697j9tjtgc9/idea) |
 | FHESplit | Finance | Confidential payment/split primitive demonstrating FH EVM contracts and verified Sepolia deployments. | [GitHub](https://github.com/Wagalidoom/ethrome) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx06c9x01t1869716pd7hld/idea) |
 | Gridfall | Gaming | Gamified capital pool powered by confidential computing. | [GitHub](https://github.com/Wagalidoom/ethrome) | [web](https://gridfall-v1-git-fron-34bec5-learn2earnsocial-gmailcoms-projects.vercel.app/) |
@@ -418,12 +418,26 @@ _Example_
 | GhostPad | Finance | Anonymous Token Launchpad for Ethereum. | [GitHub](https://github.com/psycho-virtual/ghostpad-launcher) | [web](https://devfolio.co/projects/ghostpad-7a6d) |
 | Refactor2FActor | Auth | 2-Factor authentication for your wallet. | [GitHub](https://github.com/dmbond007/Web3-2FA) | [web](https://devfolio.co/projects/refactorfactor-0262) |
 
-## ETHiopia
+## ETHGlobal Agentic Ethereum
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-
-TBC
+| AutonomousYield | Finance | A decentralized application for optimizing yield farming strategies. | [GitHub](https://github.com/hridyacp/AUtonomousYieldArchitects) | [web](https://ethglobal.com/showcase/autonomousyield-n4xu4) |
+| Medichain | Healthcare | AI-powered health management platform designed to provide secure, personalized wellness insights. | [GitHub](https://github.com/krsmer/aha-metublockhain) | [web](https://ethglobal.com/showcase/medichain-w99k5) |
+| blindbird.ai | AI | A privacy preserving, decentralised and community federated AI inference service leveraging p2p and progcrypto. | [GitHub](https://github.com/hackyguru/blindbird.ai) | [web](https://ethglobal.com/showcase/blindbird-ai-1ifkk) |
+| Fomo Wallet | Gaming | Blockchain-powered number guessing game where privacy meets fun. | [GitHub](https://github.com/DevSwayam/fomo-wallet-docs) | [web](https://fomo-wallet-frontend.vercel.app/) |
+| GuardianScope | AI | Automated, unbiased, and privacy-preserving moderation for Web3 platforms. | [GitHub](https://github.com/SpencerWell/GuardianScope2) | [web](https://ethglobal.com/showcase/guardianscope-m78gg) |
+| AVS Scout | AI | Create your own personal DeFAI agent with privacy secured by AVS! | [GitHub](https://github.com/hiiambrocklee/scout-eth-agentic) | [web](https://ethglobal.com/showcase/avs-scout-xvx8y) |
+| PelicanTrade | Finance | The ultimate AI Hedge Fund, driven by Super Trading Agents. | [GitHub](https://github.com/sushmitsarmah/ethglobal_agents) | [web](https://pelicanbot-45f39.web.app/) |
+| TruthValidatorAgent | Social | Decentralized truth validation using blockchain, AI & community voting. | [GitHub](https://github.com/IceFireLabs/TruthValidatorSentientNet-Protocol) | [web](https://www.truthvalidator.xyz/) |
+| StealthFi | AI | Your AI defi advisor with zkproofs and private decentralised data storage. | [GitHub](https://github.com/hrishi0102/StealthFi) | [web](https://ethglobal.com/showcase/stealthfi-yxioi) |
+| Blind Notary | AI | Enable in-band identity, communication, analysis, and signing between the signatories of confidential documents. | [GitHub](https://github.com/a3s7p/blind-notary) | [web](https://blind-notary.vercel.app/) |
+| Zegent | Finance | A zero knowledge based protocol for undercollaterized loans integrated with an verifiable AI-agent. | [GitHub](https://github.com/pranjal12-web/AgenticEthereum-Zegent) | [web](https://ethglobal.com/showcase/zegent-ift0e) |
+| KOVA | AI | AI-driven platform that connects users—investors, traders, and beyond. | [GitHub](https://github.com/shadmau/ETHGlobal-Agentic) | [web](https://eth-global-agentic-two.vercel.app/) |
+| Keyring | AI | Secure, decentralized Key Management System for AI agents. | [GitHub](https://github.com/allemanfredi/ethglobal-keyring) | [web](https://ethglobal.com/showcase/keyring-q3av9) |
+| AI DAO Managers | DAO | An AI team manager for DAOs that nudges, reminds & tracks task performance. | [GitHub](https://github.com/arthurp1/aidaomanager) | [web](https://ethglobal.com/showcase/ai-dao-managers-kvoeo) |
+| Mediate | AI | Mediate is an onchain agentic mediation protocol. | [GitHub](https://github.com/PDiTO/mediate) | [web](https://mediate.pdito.com/) |
+| Thaink Tank | Social | Decentralized, anonymous and incentivized AI powered collaboration for ideas, stories, and solutions. | [GitHub](https://github.com/guy-do-or-die/thaink) | [web](http://thaink.in/) |
 
 ---
 
