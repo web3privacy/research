@@ -18,7 +18,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | ------------- | ------------------------ | -------- | ------------ | -------------------- | ------------------ | ---------------------- | ------------------------ |
 | [Agentic Ethereum](https://ethglobal.com/events/agents) | ETHGlobal | 31.01.2025 | Virtual | $175.000 | `?` | [530](https://ethglobal.com/showcase?events=agents) | 10 |
 | [ETHKyiv Impulse](https://dorahacks.io/hackathon/ethkyivimpulse4) | ETHKyiv | 01.02.2025 | IRL | $24.000 | 50 | [26](https://dorahacks.io/hackathon/ethkyivimpulse4/buidl) | 0 |
-| [ETHOxford](https://ethoxford.io/) | ETH Oxford | 07.02.2025 | IRL | $100.000 | 318 | [142](https://dorahacks.io/hackathon/eth-oxford-2025/buidl) | `?` |
+| [ETHOxford](https://ethoxford.io/) | ETH Oxford | 07.02.2025 | IRL | $100.000 | 318 | [142](https://dorahacks.io/hackathon/eth-oxford-2025/buidl) | `private` |
 | [ETHiopia](https://dorahacks.io/hackathon/ethiopiabamhackathon) | BAM | 10.02.2025 | IRL | $3.500 | 108 | [38](https://dorahacks.io/hackathon/ethiopiabamhackathon/buidl) | 0 |
 | [ETHDenver](https://www.ethdenver.com/) | ETHDenver LLC. | 23.02.2025 | IRL | $1.029.833 | `?` | [227](https://ethdenver2025.devfolio.co/projects) | 6 |
 | [ETHHangzhou](https://dorahacks.io/hackathon/ethhangzhou2025) | ETH Hangzhou | 29.03.2025 | IRL | $20.000 | 25 | [0](https://dorahacks.io/hackathon/ethhangzhou2025/buidl) | 0 |
