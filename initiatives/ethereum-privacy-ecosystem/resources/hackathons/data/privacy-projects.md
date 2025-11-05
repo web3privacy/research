@@ -418,12 +418,26 @@ _Example_
 | GhostPad | Finance | Anonymous Token Launchpad for Ethereum. | [GitHub](https://github.com/psycho-virtual/ghostpad-launcher) | [web](https://devfolio.co/projects/ghostpad-7a6d) |
 | Refactor2FActor | Auth | 2-Factor authentication for your wallet. | [GitHub](https://github.com/dmbond007/Web3-2FA) | [web](https://devfolio.co/projects/refactorfactor-0262) |
 
-## ETHiopia
+## ETHGlobal Agentic Ethereum
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-
-TBC
+| AutonomousYield | Finance | A decentralized application for optimizing yield farming strategies. | [GitHub](https://github.com/hridyacp/AUtonomousYieldArchitects) | [web](https://ethglobal.com/showcase/autonomousyield-n4xu4) |
+| Medichain | Healthcare | AI-powered health management platform designed to provide secure, personalized wellness insights. | [GitHub](https://github.com/krsmer/aha-metublockhain) | [web](https://ethglobal.com/showcase/medichain-w99k5) |
+| blindbird.ai | AI | A privacy preserving, decentralised and community federated AI inference service leveraging p2p and progcrypto. | [GitHub](https://github.com/hackyguru/blindbird.ai) | [web](https://ethglobal.com/showcase/blindbird-ai-1ifkk) |
+| Fomo Wallet | Gaming | Blockchain-powered number guessing game where privacy meets fun. | [GitHub](https://github.com/DevSwayam/fomo-wallet-docs) | [web](https://fomo-wallet-frontend.vercel.app/) |
+| GuardianScope | AI | Automated, unbiased, and privacy-preserving moderation for Web3 platforms. | [GitHub](https://github.com/SpencerWell/GuardianScope2) | [web](https://ethglobal.com/showcase/guardianscope-m78gg) |
+| AVS Scout | AI | Create your own personal DeFAI agent with privacy secured by AVS! | [GitHub](https://github.com/hiiambrocklee/scout-eth-agentic) | [web](https://ethglobal.com/showcase/avs-scout-xvx8y) |
+| PelicanTrade | Finance | The ultimate AI Hedge Fund, driven by Super Trading Agents. | [GitHub](https://github.com/sushmitsarmah/ethglobal_agents) | [web](https://pelicanbot-45f39.web.app/) |
+| TruthValidatorAgent | Social | Decentralized truth validation using blockchain, AI & community voting. | [GitHub](https://github.com/IceFireLabs/TruthValidatorSentientNet-Protocol) | [web](https://www.truthvalidator.xyz/) |
+| StealthFi | AI | Your AI defi advisor with zkproofs and private decentralised data storage. | [GitHub](https://github.com/hrishi0102/StealthFi) | [web](https://ethglobal.com/showcase/stealthfi-yxioi) |
+| Blind Notary | AI | Enable in-band identity, communication, analysis, and signing between the signatories of confidential documents. | [GitHub](https://github.com/a3s7p/blind-notary) | [web](https://blind-notary.vercel.app/) |
+| Zegent | Finance | A zero knowledge based protocol for undercollaterized loans integrated with an verifiable AI-agent. | [GitHub](https://github.com/pranjal12-web/AgenticEthereum-Zegent) | [web](https://ethglobal.com/showcase/zegent-ift0e) |
+| KOVA | AI | AI-driven platform that connects users—investors, traders, and beyond. | [GitHub](https://github.com/shadmau/ETHGlobal-Agentic) | [web](https://eth-global-agentic-two.vercel.app/) |
+| Keyring | AI | Secure, decentralized Key Management System for AI agents. | [GitHub](https://github.com/allemanfredi/ethglobal-keyring) | [web](https://ethglobal.com/showcase/keyring-q3av9) |
+| AI DAO Managers | DAO | An AI team manager for DAOs that nudges, reminds & tracks task performance. | [GitHub](https://github.com/arthurp1/aidaomanager) | [web](https://ethglobal.com/showcase/ai-dao-managers-kvoeo) |
+| Mediate | AI | Mediate is an onchain agentic mediation protocol. | [GitHub](https://github.com/PDiTO/mediate) | [web](https://mediate.pdito.com/) |
+| Thaink Tank | Social | Decentralized, anonymous and incentivized AI powered collaboration for ideas, stories, and solutions. | [GitHub](https://github.com/guy-do-or-die/thaink) | [web](http://thaink.in/) |
 
 ---
 
