@@ -16,7 +16,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 
 | **Event**     | **Organizer**            | **Date** | **Type**     | **Prize Pool ($USD)** | **Total Hackers** | **Total Submissions** | **Privacy Submissions** |
 | ------------- | ------------------------ | -------- | ------------ | -------------------- | ------------------ | ---------------------- | ------------------------ |
-| [Agentic Ethereum](https://ethglobal.com/events/agents) | ETHGlobal | 31.01.2025 | Virtual | $175.000 | `?` | [530](https://ethglobal.com/showcase?events=agents) | 16 |
+| [Agentic Ethereum](https://ethglobal.com/events/agents) | ETHGlobal | 31.01.2025 | Virtual | $175.000 | 1710 | [530](https://ethglobal.com/showcase?events=agents) | 16 |
 | [ETHKyiv Impulse](https://dorahacks.io/hackathon/ethkyivimpulse4) | ETHKyiv | 01.02.2025 | IRL | $24.000 | 50 | [26](https://dorahacks.io/hackathon/ethkyivimpulse4/buidl) | 0 |
 | [ETHOxford](https://ethoxford.io/) | ETH Oxford | 07.02.2025 | IRL | $100.000 | 318 | [142](https://dorahacks.io/hackathon/eth-oxford-2025/buidl) | `private` |
 | [ETHiopia](https://dorahacks.io/hackathon/ethiopiabamhackathon) | BAM | 10.02.2025 | IRL | $3.500 | 108 | [38](https://dorahacks.io/hackathon/ethiopiabamhackathon/buidl) | 0 |
