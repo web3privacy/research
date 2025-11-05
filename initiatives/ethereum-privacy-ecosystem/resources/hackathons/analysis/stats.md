@@ -45,10 +45,6 @@
 | Urbe.eth             | 65                    | 1                        | 65                                    |
 | ETH Bishkek          | 38                    | 1                        | 38                                    |
 
-## Ethereum Ecosystem: Hackathon Organizer Privacy Submissions
-
-TBC
-
 ## Ethereum Ecosystem: Hackathon Prize Distribution
 
 | Metric                      | Value      |
@@ -80,4 +76,6 @@ TBC
 | Browser    | X     | Y%                  |
 | Identity   | X     | Y%                  |
 
-## TBC
+## Ethereum Privacy Ecosystem: Hackathon Organizer Privacy Submissions
+
+TBC
