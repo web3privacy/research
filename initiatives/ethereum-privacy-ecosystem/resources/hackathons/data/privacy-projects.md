@@ -20,16 +20,16 @@ _Example_
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| PersonalMedicalCard | Decentralized Healthcare | Patient‑owned medical records stored as encrypted IPFS data and controlled via an ERC‑721 token. | [GitHub](https://github.com/ZeroNewLife/finalProject) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh7arh9g031f4oy8wjk7xbci/idea) |
-| Proofy | Zero‑Knowledge Verification | Lets users prove skills or achievements as private Soulbound Tokens using ZK proofs. | [GitHub](https://github.com/EmiriowQw/ETHBishkek-Proofy) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh6al3y8028g5yva0vtr0656/idea) |
-| Whisp | Anonymous Social Signalling | Enables verified, anonymous voting or feedback with Semaphore proofs on the Status Network. | [GitHub](https://github.com/Akhil-2310/whisp) | [web](https://whisp-mu.vercel.app/) |
+| PersonalMedicalCard | Healthcare | Patient‑owned medical records stored as encrypted IPFS data and controlled via an ERC‑721 token. | [GitHub](https://github.com/ZeroNewLife/finalProject) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh7arh9g031f4oy8wjk7xbci/idea) |
+| Proofy | Auth | Lets users prove skills or achievements as private Soulbound Tokens using ZK proofs. | [GitHub](https://github.com/EmiriowQw/ETHBishkek-Proofy) | [web](https://taikai.network/ethbishkek/hackathons/ethbishkek-2025/projects/cmh6al3y8028g5yva0vtr0656/idea) |
+| Whisp | DAO | Enables verified, anonymous voting or feedback with Semaphore proofs on the Status Network. | [GitHub](https://github.com/Akhil-2310/whisp) | [web](https://whisp-mu.vercel.app/) |
 
 ## ETHRome
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Autark | Security | A crypto-anarchic DevSecOps framework enforcing immutable, decentralized, multi-party verified frontend governance (SAFE, ENS, IPFS). | [GitHub](https://github.com/MihRazvan/ETHRome_hackathon) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx4r1we02d112kkxt8y1sxi/idea) |
-| Cibon | Carbon Credits | Trustless carbon-credit distribution platform that verifies carbon footprints via encrypted computation while preserving privacy. | [GitHub](https://github.com/SwineCoder101/cibon) | [web](https://cibon-nextjs.vercel.app/) |
+| Cibon | Finance | Trustless carbon-credit distribution platform that verifies carbon footprints via encrypted computation while preserving privacy. | [GitHub](https://github.com/SwineCoder101/cibon) | [web](https://cibon-nextjs.vercel.app/) |
 | DebtShield | Finance | Confidential debt-collection dApp that uses Zama’s fhEVM to keep debt amounts encrypted and uses Civic for signing. | [GitHub](https://github.com/DaniDeggio/ETH_2025.git) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxc9srb022s86976xor1eb9/idea) |
 | faceblock | Moderation | Encrypt photos and posts on social media so the servers and public only see decoys. You real friends can decrypt them with keys if they register the pubkeys on ENS. | - | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgxbvmvu021q8697j9tjtgc9/idea) |
 | FHESplit | Finance | Confidential payment/split primitive demonstrating FH EVM contracts and verified Sepolia deployments. | [GitHub](https://github.com/Wagalidoom/ethrome) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx06c9x01t1869716pd7hld/idea) |
