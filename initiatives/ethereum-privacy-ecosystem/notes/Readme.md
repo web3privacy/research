@@ -20,7 +20,7 @@ We apply human-centric approach to mapping putting applications as the starting 
 
 ## [Apps](https://github.com/web3privacy/research/blob/main/initiatives/ethereum-privacy-ecosystem/resources/Applications/data/applications.md)
 
-- **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/), [Starshell](https://starshell.net/)
+- **Wallets**: [Railway](http://railway.xyz), [Frame](https://frame.sh/), [Rabby](http://rabby.io), [Brume](http://brume.money), [Hinkal](https://hinkal.pro), [Terminal Wallet](https://terminal-wallet.com/), [Token SHielder](https://tokenshielder.com/), [Kohaku Wallet](https://notes.ethereum.org/@rudolf/kohaku-wallet), [Ambire](https://www.ambire.com/), [Starshell](https://starshell.net/), [Payy](https://payy.link)
 - **Transactions**: [Railgun](http://railgun.org), [0xbow](http://0xbow.io), [Tornado Cash](https://tornadocash-eth.ipns.dweb.link/), [zkbob](https://www.zkbob.com), [Veil Cash](https://www.veil.cash/)
 - **DID**: [Rarime](https://github.com/rarimo/rarime), [Human.tech](http://human.tech), [ZKpassport](https://zkpassport.id), [Zupass](https://zupass.org), [Onflow](https://onflow.xyz/), [QuarkID](https://x.com/QuarkIDok), [Self Protocol](https://x.com/SelfProtocol), [Opacity Network](x.com/OpacityNetwork), [Reclaim Protocol](https://reclaimprotocol.org/)
 - **Stealth addresses**: [Fluidkey](https://www.fluidkey.com/), [Umbra](https://app.umbra.cash/send), [Night](https://night.finance/), [STELS](https://stelsprotocol.com/), [dstealth](https://dstealth.xyz), [Curvy](https://www.curvy.box/),
@@ -321,6 +321,7 @@ _**Zero-Knowledge Infrastructure**_
   - [shinobi.cash](https://github.com/shinobi-cash) - cross-chain privacy protocol enabling ntent-based private fund transfers
   - [HIBR - Have I Been Rekt](https://beenrekt.com/) - open-source toolkit for verifying truth, tracing scams, and protecting people
   - [Privacy Pool Master](https://github.com/KannuSingh/privacy-pool-paymasters) - paymaster for enabling gas-efficient withdrawals without relying on centralized relayer services
+  - [Payy Network](https://payy.network) - Ethereum L2 in mainnet with confidential UTXO stablecoin transations, 100ms mobile proving and 1s block time.
   
 - **Edge**: [Miden](https://miden.xyz) - STARK-based zkVM enabling private execution on Ethereum
 - **RPC**
