@@ -1,7 +1,7 @@
 # 2025
   
 ## Ethereum Ecosystem: Hackathon Overview (Jan.-Oct.)
-### Hackathon Organizers
+### Most Active Hackathon Organizers
 
 | **Organizer**             | **Number of Hackathons** |
 | ------------------------- | ------------------------ |
@@ -12,30 +12,30 @@
 
 ### Hackathon Submissions
 
-| **Organizer**        | **Total Submissions** | **Number of Hackathons** |
-| -------------------- | --------------------- | ------------------------ |
-| ETHGlobal            | 3,312                 | 10                       |
-| ETHKyiv              | 49                    | 2                        |
-| ETHWarsaw Foundation | 50                    | 2                        |
-| ETHDenver LLC.       | 227                   | 1                        |
-| ETH Oxford           | 142                   | 1                        |
-| Urbe.eth             | 65                    | 1                        |
-| ETH Cinco de Mayo    | 62                    | 1                        |
-| ETH Istanbul         | 42                    | 1                        |
-| ETHTokyo             | 41                    | 1                        |
-| ETH Accra            | 39                    | 1                        |
-| BAM                  | 38                    | 1                        |
-| ETH Bishkek          | 38                    | 1                        |
-| Dots N' Bits         | 35                    | 1                        |
-| CryptoCanal          | 33                    | 1                        |
-| ETHIreland           | 31                    | 1                        |
-| ETH Bolivia          | 26                    | 1                        |
-| ETHBelgrade          | 20                    | 1                        |
-| Ethereum TGU         | 12                    | 1                        |
-| ETHBratislava        | 11                    | 1                        |
-| NapulETH             | 11                    | 1                        |
-| ETH Uruguay          | 8                     | 1                        |
-| ETH Hangzhou         | 0                     | 1                        |
+| Organizer            | Total Submissions | # Hackathons |
+| -------------------- | ----------------- | ------------ |
+| ETHGlobal            | 3,457             | 8            |
+| ETHDenver LLC.       | 227               | 1            |
+| ETH Oxford           | 142               | 1            |
+| Urbe.eth             | 65                | 1            |
+| ETH Cinco de Mayo    | 62                | 1            |
+| ETHWarsaw Foundation | 50                | 2            |
+| ETHKyiv              | 49                | 2            |
+| ETH Istanbul         | 42                | 1            |
+| ETHTokyo             | 41                | 1            |
+| ETH Accra            | 39                | 1            |
+| ETH Bishkek          | 38                | 1            |
+| BAM                  | 38                | 1            |
+| Dots N' Bits         | 35                | 1            |
+| ETH Ireland          | 31                | 1            |
+| CryptoCanal          | 33                | 1            |
+| ETHBelgrade          | 20                | 1            |
+| ETH Oxford           | 142               | 1            |
+| NapulETH             | 11                | 1            |
+| ETHBratislava        | 11                | 1            |
+| Ethereum TGU         | 12                | 1            |
+| ETH Bolivia          | 26                | 1            |
+| ETH Uruguay          | 8                 | 1            |
 
 ### Hackathon Prize Distribution
 
@@ -49,7 +49,18 @@
 
 > **NOTE:** *Prize distribution is skewed: mean prize ≈ $120k but median ≈ $40k. A few large prize pools (ETHDenver, and ETHGlobal flagship events) drive the mean upwards.*
 
-### Hackathon Locations
+### Hackathon Locations Chart
+
+| Region / Continent | Hackathons |
+| ------------------ | ---------- |
+| Europe             | 16         |
+| Asia               | 5          |
+| North America      | 3          |
+| South America      | 3          |
+| Africa             | 2          |
+| Virtual            | 2          |
+
+### Hackathon Locations Map
 
 <img width="6460" height="3403" alt="MapChart_Map" src="https://github.com/user-attachments/assets/1d318fa7-a06c-441f-bc7e-25d91d781e9b" />
 
