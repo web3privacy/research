@@ -1,7 +1,7 @@
 # 2025
   
-## Ethereum Ecosystem: Hackathon Organizers (Jan.-Oct.)
-### Hackathons Overview
+## Ethereum Ecosystem: Hackathon Overview (Jan.-Oct.)
+### Hackathon Organizers
 
 | **Organizer**             | **Number of Hackathons** |
 | ------------------------- | ------------------------ |
@@ -10,32 +10,32 @@
 | ETHKyiv                   | 2                        |
 | Others                    | 19                       |
 
-### Hackathon Submissions Overview
+### Hackathon Submissions
 
 | **Organizer**        | **Total Submissions** | **Number of Hackathons** |
 | -------------------- | --------------------- | ------------------------ |
 | ETHGlobal            | 3,312                 | 10                       |
 | ETHKyiv              | 49                    | 2                        |
-| ETH Oxford           | 142                   | 1                        |
-| BAM                  | 38                    | 1                        |
-| ETHDenver LLC.       | 227                   | 1                        |
-| ETH Hangzhou         | 0                     | 1                        |
 | ETHWarsaw Foundation | 50                    | 2                        |
-| Dots N' Bits         | 35                    | 1                        |
-| ETH Cinco de Mayo    | 62                    | 1                        |
-| CryptoCanal          | 33                    | 1                        |
-| ETHBratislava        | 11                    | 1                        |
-| ETHIreland           | 31                    | 1                        |
-| ETHBelgrade          | 20                    | 1                        |
-| NapulETH             | 11                    | 1                        |
-| ETH Bolivia          | 26                    | 1                        |
-| Ethereum TGU         | 12                    | 1                        |
-| ETH Accra            | 39                    | 1                        |
-| ETH Istanbul         | 42                    | 1                        |
-| ETH Uruguay          | 8                     | 1                        |
-| ETHTokyo             | 41                    | 1                        |
+| ETHDenver LLC.       | 227                   | 1                        |
+| ETH Oxford           | 142                   | 1                        |
 | Urbe.eth             | 65                    | 1                        |
+| ETH Cinco de Mayo    | 62                    | 1                        |
+| ETH Istanbul         | 42                    | 1                        |
+| ETHTokyo             | 41                    | 1                        |
+| ETH Accra            | 39                    | 1                        |
+| BAM                  | 38                    | 1                        |
 | ETH Bishkek          | 38                    | 1                        |
+| Dots N' Bits         | 35                    | 1                        |
+| CryptoCanal          | 33                    | 1                        |
+| ETHIreland           | 31                    | 1                        |
+| ETH Bolivia          | 26                    | 1                        |
+| ETHBelgrade          | 20                    | 1                        |
+| Ethereum TGU         | 12                    | 1                        |
+| ETHBratislava        | 11                    | 1                        |
+| NapulETH             | 11                    | 1                        |
+| ETH Uruguay          | 8                     | 1                        |
+| ETH Hangzhou         | 0                     | 1                        |
 
 ### Hackathon Prize Distribution
 
@@ -47,21 +47,7 @@
 | Max Prize                   | $1,029,833 |
 | Min Prize                   | $2,000     |
 
-> **NOTE:** *Prize distribution is skewed: mean prize ≈ $120k but median ≈ $40k. A few large prize pools (ETHDenver, Unite DeFi, ETHGlobal flagship events) drive the mean upwards. Expect heavy right skew in a prize-pool distribution plot.*
-
-### IRL vs. Virtual Hackathon Comparison
-
-| Type    | Hackathons | Total Prize ($) | Total Submissions | Privacy Submissions | % Privacy Submissions |   Avg. Prize Pool | Avg. Hackers (non-missing) |
-| ------- | ---------- | --------------- | ----------------- | ------------------- | --------------------- | ----------------- | -------------------------- |
-| IRL     |         28 |      $2,776,683 |             2,695 |                 234 |             **8.68%** | $102,840.11       |                     258.41 |
-| Virtual |          3 |        $825,000 |             1,595 |                  76 |             **4.76%** | $275,000.00       |                   1,690.00 |
-
-> **NOTE:** *IRL hackathons have a higher proportion of privacy submissions (8.68%) than Virtual events (4.76%) in this dataset.*
-
-<img width="328" height="323" alt="hackathons" src="https://github.com/user-attachments/assets/97b51d50-e5b9-4c2b-891c-84234ea4c42b" />
-<img width="328" height="323" alt="IRL hackathons" src="https://github.com/user-attachments/assets/57cee8b0-7794-46b3-bbc5-a424d1d04bc1" />
-<img width="328" height="323" alt="virtual hackathons" src="https://github.com/user-attachments/assets/97a526f2-4dfb-41f5-bef6-ae0a79ddb5e0" />
-
+> **NOTE:** *Prize distribution is skewed: mean prize ≈ $120k but median ≈ $40k. A few large prize pools (ETHDenver, and ETHGlobal flagship events) drive the mean upwards.*
 
 ### Hackathon Locations
 
@@ -92,6 +78,19 @@
 
 > **NOTE:** *Events with $200K–$275K prize pools (ETHGlobal New Delhi, ETHGlobal Cannes, ETHGlobal New York) have 14–42 submissions with moderate correlation in mid-range. Very small prize pools ($2K–$10K) almost always have 0–1 submissions. Extremely large prize pools do not guarantee high privacy participation. Prize size alone is not a strong driver for privacy submissions.
 
+### IRL vs. Virtual Hackathon Comparison
+
+| Type    | Hackathons | Total Prize ($) | Total Submissions | Privacy Submissions | % Privacy Submissions |   Avg. Prize Pool | Avg. Hackers (non-missing) |
+| ------- | ---------- | --------------- | ----------------- | ------------------- | --------------------- | ----------------- | -------------------------- |
+| IRL     |         28 |      $2,776,683 |             2,695 |                 234 |             **8.68%** | $102,840.11       |                     258.41 |
+| Virtual |          3 |        $825,000 |             1,595 |                  76 |             **4.76%** | $275,000.00       |                   1,690.00 |
+
+> **NOTE:** *IRL hackathons have a higher proportion of privacy submissions (8.68%) than Virtual events (4.76%) in this dataset.*
+
+<img width="328" height="323" alt="hackathons" src="https://github.com/user-attachments/assets/97b51d50-e5b9-4c2b-891c-84234ea4c42b" />
+<img width="328" height="323" alt="IRL hackathons" src="https://github.com/user-attachments/assets/57cee8b0-7794-46b3-bbc5-a424d1d04bc1" />
+<img width="328" height="323" alt="virtual hackathons" src="https://github.com/user-attachments/assets/97a526f2-4dfb-41f5-bef6-ae0a79ddb5e0" />
+
 ### TOP 10 Hackathons Ranked by Privacy Intensity
 
 | Rank | Event                | Privacy Subms. | Total Subms. | Privacy intensity (%) |
@@ -107,7 +106,7 @@
 |    9 | **ETHDublin**        |              3 |           31 |             **9.68%** |
 |   10 | **ETHIstanbul**      |              4 |           42 |             **9.52%** |
 
-> **NOTE:** *A few events (notably ETHBelgrade and ETHTokyo) show extremely high privacy intensity — in Belgrade 50% of submissions were privacy-related (though total submissions there was only 20). Larger hackathons (e.g.: ETHGlobal Prague, ETHGlobal Cannes, ETHGlobal New Delhi, and ETHGlobal ETHOnline) produce many privacy projects in absolute numbers but are lower on intensity % because they have many non-privacy projects too.*
+> **NOTE:** *A few events (notably ETHBelgrade and ETHTokyo) show extremely high privacy intensity — in Belgrade 50% of submissions were privacy-related (though total submissions there was only 20). Larger hackathons (e.g.: ETHGlobal Prague, ETHGlobal Cannes, ETHGlobal New Delhi, and ETHGlobal ETHOnline) produce many privacy projects in absolute numbers but are lower on intensity % because they have many non-privacy projects.*
 
 ### Absolute Contributions Chart
 
