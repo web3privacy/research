@@ -1,6 +1,7 @@
 # 2025
   
 ## Ethereum Ecosystem: Hackathon Overview (Jan.-Oct.)
+
 ### Most Active Hackathon Organizers
 
 | **Organizer**             | **Number of Hackathons** |
@@ -67,6 +68,7 @@
 ---
 
 ## Ethereum Privacy Ecosystem: Hackathons
+
 ### Quick Headline Numbers & Averages (Jan.-Oct.)
 
 | Metric                                    | Value      |
@@ -154,6 +156,7 @@
 ---
 
 ## WIP
+
 ### Privacy Project Categories {TBC}
 
 | Category   | Count   | % of Total Projects |
