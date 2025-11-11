@@ -245,6 +245,7 @@
 <img width="2461" height="1177" alt="technology detection" src="https://github.com/user-attachments/assets/ee082b56-9b32-4783-8c1f-b40f4f29f2d5" />
 
 # {TBC}
+
 --- MORE CHARTS (HACKATHON OVERVIEW) ---
 
 --- PRIVACY THEMES TRENDS ---
