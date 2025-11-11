@@ -61,29 +61,30 @@
 | Africa             | 2          |
 | Virtual            | 2          |
 
-### Hackathon Locations Map
+### Hackathons Location Map
 
 <img width="6460" height="3403" alt="MapChart_Map" src="https://github.com/user-attachments/assets/1d318fa7-a06c-441f-bc7e-25d91d781e9b" />
 
 ---
 
-## Ethereum Privacy Ecosystem: Hackathons
+## Ethereum Privacy Ecosystem: Hackathon Overview (Jan.-Oct.)
 
-### Quick Headline Numbers & Averages (Jan.-Oct.)
+### Quick Headline Numbers & Averages
 
-| Metric                                    | Value      |
-| ----------------------------------------- | ---------- |
-| Total Hackathons                          | 31         |
-| Total Hackers                             | 10,357     |
-| Average Hackers per Hackahton             | 357        |
-| Total Projects                            | 4,290      |
-| Average Submission per Hackathon          | 138        |
-| Total Privacy Projects                    | 310        |
-| Privacy Submission Ratio                  | 7.23%      |
-| Average Privacy Submissions per Hackathon | 10         |
-| Average Price Pool                        | $120,056   |
-| Median Prize Pool                         | $40,425    |
-| Total Prize Money                         | $3,601,683 |
+| Metric                                      | Value      |
+| ------------------------------------------- | ---------- |
+| Total Hackathons                            | 31         |
+| Total Hackahtons (with privacy submissions) | 23         |
+| Total Hackers                               | 10,357     |
+| Average Hackers per Hackahton               | 357        |
+| Total Projects                              | 4,290      |
+| Average Submission per Hackathon            | 138        |
+| Total Privacy Projects                      | 308        |
+| Privacy Submission Ratio                    | 7.18%      |
+| Average Privacy Submissions per Hackathon   | 13         |
+| Average Price Pool                          | $120,056   |
+| Median Prize Pool                           | $40,425    |
+| Total Prize Money                           | $3,601,683 |
 
 ### Correlation Chart Between Submissions and Prize Pool
 
@@ -121,11 +122,11 @@
 
 > **NOTE:** *A few events (notably ETHBelgrade and ETHTokyo) show extremely high privacy intensity — in Belgrade 50% of submissions were privacy-related (though total submissions there was only 20). Larger hackathons (e.g.: ETHGlobal Prague, ETHGlobal Cannes, ETHGlobal New Delhi, and ETHGlobal ETHOnline) produce many privacy projects in absolute numbers but are lower on intensity % because they have many non-privacy projects.*
 
-### Absolute Contributions Chart
+### Absolute Contributions Barchart
 
-<img width="3336" height="1540" alt="TotalSubmissionsVSPrivacySubmissions" src="https://github.com/user-attachments/assets/02c87f48-22aa-4a3d-b2e6-49b336078c05" />
+<img width="3336" height="1540" alt="absolute contributions chart 1" src="https://github.com/user-attachments/assets/7ae96892-6627-4ed8-b331-48590b93461e" />
 
-### Hackathon Organizer Privacy Submissions
+### Hackathon Organizer Privacy Submissions (23/31)
 
 | **Event**                     | **Total Submissions** | **Privacy Submissions** |
 | ----------------------------- | --------------------- | ----------------------- |
@@ -153,27 +154,99 @@
 | NapulETH                      | 11                    | 1                       |
 | ETHJaguar                     | 12                    | 1                       |
 
+### Privacy Contributions Barchart
+
+<img width="3345" height="1003" alt="absolute contributions chart" src="https://github.com/user-attachments/assets/4bcc50de-87af-4a9d-a3de-aedad2619c3c" />
+
 ---
 
-## WIP
+## Ethereum Privacy Ecosystem: Projects Overview (Jan.-Oct.)
 
-### Privacy Project Categories {TBC}
+### Privacy Project Categories
 
-| Category   | Count   | % of Total Projects |
-| ---------- | ------- | ------------------- |
-| Finance    | 101     | Y%                  |
-| Social     | 76      | Y%                  |
-| AI         | 37      | Y%                  |
-| Auth       | 19      | Y%                  |
-| Gaming     | 11      | Y%                  |
-| Healthcare | 10      | Y%                  |
-| Identity   | 9       | Y%                  |
-| DAO        | 8       | Y%                  |
-| Wallet     | 7       | Y%                  |
-| Storage    | 6       | Y%                  |
-| Infra      | 4       | Y%                  |
-| Security   | 4       | Y%                  |
-| Interop    | 2       | Y%                  |
-| Governance | 2       | Y%                  |
-| Moderation | 1       | Y%                  |
-| Browser    | 1       | Y%                  |
+| Category      | Count   | % of Total Projects |
+| ------------- | ------- | ------------------- |
+| Finance       | 104     | 33.8%               |
+| Social        | 76      | 24.7%               |
+| AI            | 36      | 11.7%               |
+| Auth          | 19      | 6.2%                |
+| Gaming        | 11      | 3.6%                |
+| Healthcare    | 10      | 3.2%                |
+| Identity      | 9       | 2.9%                |
+| DAO           | 8       | 2.6%                |
+| Wallet        | 7       | 2.3%                |
+| Storage       | 6       | 1.9%                |
+| Security      | 4       | 1.3%                |
+| Communication | 4       | 1.3%                |
+| Infra         | 4       | 1.3%                |
+| Interop       | 2       | 0.6%                |
+| Governance    | 2       | 0.6%                |
+| Reputation    | 2       | 0.6%                |
+| Moderation    | 1       | 0.3%                |
+| Music         | 1       | 0.3%                |
+| Browser       | 1       | 0.3%                |
+| Insurance     | 1       | 0.3%                |
+
+### Category Distribution Chart
+
+<img width="4065" height="1608" alt="category distribution" src="https://github.com/user-attachments/assets/bb258f3d-1dd2-458a-a151-1cdb83d4eb82" />
+
+### Keyword Frequency
+
+| Category      | Count   | % of Total Projects |
+| ------------- | ------- | ------------------- |
+| private       | 70      | 22.7%               |
+| zk            | 65      | 20.8%               |
+| ai            | 48      | 15.6%               |
+| proofs        | 46      | 14.9%               |
+| chain         | 39      | 12.3%               |
+| decentralized | 33      | 10.7%               |
+| preserving    | 33      | 10.7%               |
+| data          | 28      | 8.1%                |
+| anonymous     | 20      | 6.5%                |
+| payments      | 19      | 6.2%                |
+| secure        | 18      | 5.8%                |
+| system        | 17      | 5.5%                |
+| wallet        | 17      | 5.5%                |
+| encrypted     | 16      | 5.2%                |
+| defi          | 16      | 5.2%                |
+| verification  | 16      | 5.2%                |
+| protocol      | 15      | 4.9%                |
+| confidential  | 14      | 4.5%                |
+| app           | 14      | 4.5%                |
+| web3          | 14      | 4.5%                |
+| identity      | 14      | 4.5%                |
+| token         | 11      | 3.6%                |
+| ens           | 11      | 3.6%                |
+| ethereum      | 11      | 3.6%                |
+| blockchain    | 11      | 3.6%                |
+| crypto        | 10      | 3.2%                |
+
+> **NOTE:** *"ZK" (zero-knowledge) is the single most frequent token by far, followed by "AI" and "proofs", confirming heavy focus on zero-knowledge proofs and AI across project descriptions. Words related to privacy and confidentiality (preserving, encrypted, confidential, anonymous, private-related tokens) are common. Finance/DeFi vocabulary (defi, payments, token, ethereum, bridge/cross) also appears frequently. "chain", "blockchain", "protocol", "platform", and "wallet" indicate infrastructural or plumbing projects.*
+
+### TOP 10 Keywords Sunburst Chart
+
+<img width="628" height="665" alt="keyword sunburst" src="https://github.com/user-attachments/assets/4e75754b-5438-42e6-96ea-4d3c4804dbb1" />
+
+### Privacy Technologies Detection
+
+| Category      | Total Occurrences | Projects with Keyword | % of Total Projects |
+| ------------- | ----------------- | --------------------- | ------------------- |
+| ZK            | 226               | 103                   | 33.44%              |
+| AI            | 71                | 57                    | 18.51%              |
+| TEE           | 12                | 7                     | 2.27%               |
+| MPC           | 6                 | 6                     | 1.95%               |
+| FHE           | 4                 | 4                     | 1.30%               |
+
+> **NOTE:** *Counts are derived from regex-based detection across project descriptions. "**Total Occurrences**" counts all matches; "**Projects with Keyword**" counts distinct projects whose description mentions the keyword at least once. Regex-based matching was used for each target with some common variants (e.g., 'zk', 'zero-knowledge' and 'zero knowledge', 'encrypted', 'encrypt', 'fhe' and 'fully homomorphic', 'mpc' and 'multi-party', 'tee' includes 'trusted execution', 'nitro', 'tdx', 'secure enclave', etc.).*
+
+### Technologies Used Barchart
+
+<img width="2461" height="1177" alt="technology detection" src="https://github.com/user-attachments/assets/ee082b56-9b32-4783-8c1f-b40f4f29f2d5" />
+
+# {TBC}
+--- MORE CHARTS (HACKATHON OVERVIEW) ---
+
+--- PRIVACY THEMES TRENDS ---
+
+--- EXTRACTION OF MOST INTERESTING FOR DEVCONNECT ---
