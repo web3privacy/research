@@ -181,7 +181,7 @@
 
 > **NOTE:** *Accounting only for Jan.-Oct. 2025 the privacy submissions show an upward trend from Q1 (2.3%) through Q2 (10.9%), then dip slightly in Q3 (7.3%) before recovering in Q4 (10.2%).*
 
-### Monthly Privacy Projects & Notable Events
+### Monthly Privacy Projects & Notable Events Line Chart
 
 <img width="4693" height="1717" alt="monthly privacy projects" src="https://github.com/user-attachments/assets/5f6e5d96-d9fd-45af-8dde-b75b34cafad0" />
 
@@ -227,7 +227,7 @@
 
 {TBC}
 
-### Keyword Frequency
+### Keyword Frequency Analysis
 
 | Keyword       | Count   | % of Total Privacy Projects |
 | ------------- | ------- | --------------------------- |
@@ -288,3 +288,4 @@
 4. BEAUTIFY INTO SLIDES
 5. START WRITING THE REPORT
 6. BEAUTIFY REPORT FOR FINAL DELIVERY
+
