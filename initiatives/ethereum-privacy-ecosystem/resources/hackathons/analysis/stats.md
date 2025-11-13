@@ -79,7 +79,7 @@
 | Average Hackers per Hackahton               | 357        |
 | Total Projects                              | 4,290      |
 | Average Submission per Hackathon            | 138        |
-| Total Privacy Projects                      | 308        |
+| Total Privacy Projects                      | 310        |
 | Privacy Submission Ratio                    | 7.18%      |
 | Average Privacy Submissions per Hackathon   | 13         |
 | Average Price Pool                          | $120,056   |
@@ -158,69 +158,105 @@
 
 <img width="3345" height="1003" alt="absolute contributions chart" src="https://github.com/user-attachments/assets/4bcc50de-87af-4a9d-a3de-aedad2619c3c" />
 
+### Monthly/Quarterly Privacy Projects
+
+| Month     | Privacy Projects / Total Projects | % of Total Projects |
+| --------- | --------------------------------- | ------------------- |
+| January   | 16/530                            | 3.0%                |
+| February  | 6/433                             | 1.4%                |
+| March     | 0/8                               | 0.0%                |
+| **Q1**    | **22/971**                        | **2.3%**            |
+| April     | 16/268                            | 6.0%                |
+| May       | 46/360                            | 12.8%               |
+| June      | 11/43                             | 25.6%               |
+| **Q2**    | **73/671**                        | **10.9%**           |
+| July      | 45/766                            | 5.9%                |
+| August    | 15/321                            | 4.7%                |
+| September | 78/805                            | 9.7%                |
+| **Q3**    | **138/1892**                      | **7.3%**            |
+| October   | 77/756                            | 10.2%               |
+| November  | -                                 | -                   |
+| December  | -                                 | -                   |
+| **Q4**    | **77/756**                        | **10.2%**           |
+
+> **NOTE:** *Accounting only for Jan.-Oct. 2025 the privacy submissions show an upward trend from Q1 (2.3%) through Q2 (10.9%), then dip slightly in Q3 (7.3%) before recovering in Q4 (10.2%).*
+
+### Monthly Privacy Projects & Notable Events Line Chart
+
+<img width="4693" height="1717" alt="monthly privacy projects" src="https://github.com/user-attachments/assets/5f6e5d96-d9fd-45af-8dde-b75b34cafad0" />
+
 ---
 
-## Ethereum Privacy Ecosystem: Projects Overview (Jan.-Oct.)
+## Ethereum Privacy Ecosystem: Privacy Projects Overview (Jan.-Oct.)
 
-### Privacy Project Categories
+### Privacy Project Categories & Gap Analysis
 
-| Category      | Count   | % of Total Projects |
-| ------------- | ------- | ------------------- |
-| Finance       | 104     | 33.8%               |
-| Social        | 76      | 24.7%               |
-| AI            | 36      | 11.7%               |
-| Auth          | 19      | 6.2%                |
-| Gaming        | 11      | 3.6%                |
-| Healthcare    | 10      | 3.2%                |
-| Identity      | 9       | 2.9%                |
-| DAO           | 8       | 2.6%                |
-| Wallet        | 7       | 2.3%                |
-| Storage       | 6       | 1.9%                |
-| Security      | 4       | 1.3%                |
-| Communication | 4       | 1.3%                |
-| Infra         | 4       | 1.3%                |
-| Interop       | 2       | 0.6%                |
-| Governance    | 2       | 0.6%                |
-| Reputation    | 2       | 0.6%                |
-| Moderation    | 1       | 0.3%                |
-| Music         | 1       | 0.3%                |
-| Browser       | 1       | 0.3%                |
-| Insurance     | 1       | 0.3%                |
+| Category      | Count   | % of Total Privacy Projects | Hackathons | Notes / Opportunity         |
+| ------------- | ------- | --------------------------- | ---------- | --------------------------- |
+| Finance       | 104     | 33.8%                       | 16         | Strong presence             |
+| Social        | 76      | 24.7%                       | 14         | Strong presence             |
+| AI            | 36      | 11.7%                       | 13         | Strong presence             |
+| Auth          | 19      | 6.2%                        | 10         | Growing trend               |
+| Gaming        | 11      | 3.6%                        | 9          | Growing trend               |
+| Healthcare    | 10      | 3.2%                        | 9          | Growing trend               |
+| Identity      | 9       | 2.9%                        | 7          | Moderate activity           |
+| DAO           | 8       | 2.6%                        | 5          | Under-served                |
+| Wallet        | 7       | 2.3%                        | 3          | Low focus (potential niche) |
+| Storage       | 6       | 1.9%                        | 4          | Under-served                |
+| Security      | 4       | 1.3%                        | 3          | Low focus (potential niche) |
+| Communication | 4       | 1.3%                        | 3          | Low focus (potential niche) |
+| Infra         | 4       | 1.3%                        | 3          | Low focus (potential niche) |
+| Interop       | 2       | 0.6%                        | 1          | Untapped opportunity        |
+| Governance    | 2       | 0.6%                        | 2          | Low focus (potential niche) |
+| Reputation    | 2       | 0.6%                        | 1          | Untapped opportunity        |
+| Moderation    | 1       | 0.3%                        | 1          | Untapped opportunity        |
+| Music         | 1       | 0.3%                        | 1          | Untapped opportunity        |
+| Browser       | 1       | 0.3%                        | 1          | Untapped opportunity        |
+| Insurance     | 1       | 0.3%                        | 1          | Untapped opportunity        |
 
 ### Category Distribution Chart
 
 <img width="4065" height="1608" alt="category distribution" src="https://github.com/user-attachments/assets/bb258f3d-1dd2-458a-a151-1cdb83d4eb82" />
 
-### Keyword Frequency
+### Project Persistance Tracking
 
-| Category      | Count   | % of Total Projects |
-| ------------- | ------- | ------------------- |
-| private       | 70      | 22.7%               |
-| zk            | 65      | 20.8%               |
-| ai            | 48      | 15.6%               |
-| proofs        | 46      | 14.9%               |
-| chain         | 39      | 12.3%               |
-| decentralized | 33      | 10.7%               |
-| preserving    | 33      | 10.7%               |
-| data          | 28      | 8.1%                |
-| anonymous     | 20      | 6.5%                |
-| payments      | 19      | 6.2%                |
-| secure        | 18      | 5.8%                |
-| system        | 17      | 5.5%                |
-| wallet        | 17      | 5.5%                |
-| encrypted     | 16      | 5.2%                |
-| defi          | 16      | 5.2%                |
-| verification  | 16      | 5.2%                |
-| protocol      | 15      | 4.9%                |
-| confidential  | 14      | 4.5%                |
-| app           | 14      | 4.5%                |
-| web3          | 14      | 4.5%                |
-| identity      | 14      | 4.5%                |
-| token         | 11      | 3.6%                |
-| ens           | 11      | 3.6%                |
-| ethereum      | 11      | 3.6%                |
-| blockchain    | 11      | 3.6%                |
-| crypto        | 10      | 3.2%                |
+| Project   | Hackathon | Category | GitHub                                        | Last Commit (YYYY-MM-DD) | Active (Y/N) | Stars | Forks | Website Active (Y/N) |
+| --------- | --------- | -------- | --------------------------------------------- | ------------------------ | ------------ | ----- | ----- | -------------------- |
+| example1  |           |          | [url]()                                       |               2025-00-00 |       ✓      |       |       |           ✓          |
+| example2  |           |          | [url]()                                       |               2025-00-00 |       X      |       |       |           X          |
+
+{TBC}
+
+### Keyword Frequency Analysis
+
+| Keyword       | Count   | % of Total Privacy Projects |
+| ------------- | ------- | --------------------------- |
+| private       | 70      | 22.7%                       |
+| zk            | 65      | 20.8%                       |
+| ai            | 48      | 15.6%                       |
+| proofs        | 46      | 14.9%                       |
+| chain         | 39      | 12.3%                       |
+| decentralized | 33      | 10.7%                       |
+| preserving    | 33      | 10.7%                       |
+| data          | 28      | 8.1%                        |
+| anonymous     | 20      | 6.5%                        |
+| payments      | 19      | 6.2%                        |
+| secure        | 18      | 5.8%                        |
+| system        | 17      | 5.5%                        |
+| wallet        | 17      | 5.5%                        |
+| encrypted     | 16      | 5.2%                        |
+| defi          | 16      | 5.2%                        |
+| verification  | 16      | 5.2%                        |
+| protocol      | 15      | 4.9%                        |
+| confidential  | 14      | 4.5%                        |
+| app           | 14      | 4.5%                        |
+| web3          | 14      | 4.5%                        |
+| identity      | 14      | 4.5%                        |
+| token         | 11      | 3.6%                        |
+| ens           | 11      | 3.6%                        |
+| ethereum      | 11      | 3.6%                        |
+| blockchain    | 11      | 3.6%                        |
+| crypto        | 10      | 3.2%                        |
 
 > **NOTE:** *"ZK" (zero-knowledge) is the single most frequent token by far, followed by "AI" and "proofs", confirming heavy focus on zero-knowledge proofs and AI across project descriptions. Words related to privacy and confidentiality (preserving, encrypted, confidential, anonymous, private-related tokens) are common. Finance/DeFi vocabulary (defi, payments, token, ethereum, bridge/cross) also appears frequently. "chain", "blockchain", "protocol", "platform", and "wallet" indicate infrastructural or plumbing projects.*
 
@@ -230,13 +266,13 @@
 
 ### Privacy Technologies Detection
 
-| Category      | Total Occurrences | Projects with Keyword | % of Total Projects |
-| ------------- | ----------------- | --------------------- | ------------------- |
-| ZK            | 226               | 103                   | 33.44%              |
-| AI            | 71                | 57                    | 18.51%              |
-| TEE           | 12                | 7                     | 2.27%               |
-| MPC           | 6                 | 6                     | 1.95%               |
-| FHE           | 4                 | 4                     | 1.30%               |
+| Technology    | Total Occurrences | Projects with Keyword | % of Total Privacy Projects |
+| ------------- | ----------------- | --------------------- | --------------------------- |
+| ZK            | 226               | 103                   | 33.44%                      |
+| AI            | 71                | 57                    | 18.51%                      |
+| TEE           | 12                | 7                     | 2.27%                       |
+| MPC           | 6                 | 6                     | 1.95%                       |
+| FHE           | 4                 | 4                     | 1.30%                       |
 
 > **NOTE:** *Counts are derived from regex-based detection across project descriptions. "**Total Occurrences**" counts all matches; "**Projects with Keyword**" counts distinct projects whose description mentions the keyword at least once. Regex-based matching was used for each target with some common variants (e.g., 'zk', 'zero-knowledge' and 'zero knowledge', 'encrypted', 'encrypt', 'fhe' and 'fully homomorphic', 'mpc' and 'multi-party', 'tee' includes 'trusted execution', 'nitro', 'tdx', 'secure enclave', etc.).*
 
@@ -246,8 +282,10 @@
 
 # {TBC}
 
---- MORE CHARTS (HACKATHON OVERVIEW) ---
+1. PROJECT PERSISTANCE TRACKING
+2. PRIVACY THEMES TRENDS
+3. EXTRACTION OF MOST INTERESTING FOR DEVCONNECT
+4. BEAUTIFY INTO SLIDES
+5. START WRITING THE REPORT
+6. BEAUTIFY REPORT FOR FINAL DELIVERY
 
---- PRIVACY THEMES TRENDS ---
-
---- EXTRACTION OF MOST INTERESTING FOR DEVCONNECT ---
