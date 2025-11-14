@@ -162,22 +162,22 @@
 
 | Month     | Privacy Projects / Total Projects | % of Total Projects |
 | --------- | --------------------------------- | ------------------- |
-| January   | 16/530                            | 3.0%                |
-| February  | 6/433                             | 1.4%                |
-| March     | 0/8                               | 0.0%                |
-| **Q1**    | **22/971**                        | **2.3%**            |
-| April     | 16/268                            | 6.0%                |
-| May       | 46/360                            | 12.8%               |
-| June      | 11/43                             | 25.6%               |
-| **Q2**    | **73/671**                        | **10.9%**           |
-| July      | 45/766                            | 5.9%                |
-| August    | 15/321                            | 4.7%                |
-| September | 78/805                            | 9.7%                |
-| **Q3**    | **138/1892**                      | **7.3%**            |
-| October   | 77/756                            | 10.2%               |
+| January   | 16 / 530                          | 3.0%                |
+| February  | 6 / 433                           | 1.4%                |
+| March     | 0 / 8                             | 0.0%                |
+| **Q1**    | **22 / 971**                      | **2.3%**            |
+| April     | 16 / 268                          | 6.0%                |
+| May       | 46 / 360                          | 12.8%               |
+| June      | 11 / 43                           | 25.6%               |
+| **Q2**    | **73 / 671**                      | **10.9%**           |
+| July      | 45 / 766                          | 5.9%                |
+| August    | 15 / 321                          | 4.7%                |
+| September | 78 / 805                          | 9.7%                |
+| **Q3**    | **138 / 1892**                    | **7.3%**            |
+| October   | 77 / 756                          | 10.2%               |
 | November  | -                                 | -                   |
 | December  | -                                 | -                   |
-| **Q4**    | **77/756**                        | **10.2%**           |
+| **Q4**    | **77 / 756**                      | **10.2%**           |
 
 > **NOTE:** *Accounting only for Jan.-Oct. 2025 the privacy submissions show an upward trend from Q1 (2.3%) through Q2 (10.9%), then dip slightly in Q3 (7.3%) before recovering in Q4 (10.2%).*
 
@@ -220,12 +220,43 @@
 
 ### Project Persistance Tracking
 
-| Project   | Hackathon | Category | GitHub                                        | Last Commit (YYYY-MM-DD) | Active (Y/N) | Stars | Forks | Website Active (Y/N) |
-| --------- | --------- | -------- | --------------------------------------------- | ------------------------ | ------------ | ----- | ----- | -------------------- |
-| example1  |           |          | [url]()                                       |               2025-00-00 |       ✓      |       |       |           ✓          |
-| example2  |           |          | [url]()                                       |               2025-00-00 |       X      |       |       |           X          |
+| Project                   | Hackathon                   | Category   | GitHub URL                                                             | Last Commit (YYYY-MM-DD) | Active (Y/N) | Stars | Forks | Website Active (Y/N) |
+|---------------------------|-----------------------------|------------|-------------------------------------------------------------------------|---------------------------|--------------|-------|-------|------------------------|
+| Autark                    | ETHRome                     | Security   | [url](https://github.com/MihRazvan/ETHRome_hackathon)                  | 2025-11-02                | Y            | 0     | 0     | N                      |
+| iDarkPool                 | ETHRome                     | Finance    | [url](https://github.com/mariocana/idarkpool)                          | 2025-11-25                | Y            | 0     | 0     | N                      |
+| nilHAK                    | ETHGlobal ETHOnline         | AI         | [url](https://github.com/Davetbutler/nillion-private-hedera-agent-kit) | 2025-10-31                | Y            | 0     | 0     | N                      |
+| CredentialsZK             | ETHGlobal ETHOnline         | Auth       | [url](https://github.com/Ankur2606/CredentialsZk)                      | 2025-11-02                | Y            | 0     | 0     | [Y](https://credentials-zk-protocol.vercel.app/) |
+| Eclipse                   | ETHGlobal ETHOnline         | Social     | [url](https://github.com/oceans404/eclipse)                            | 2025-11-10                | Y            | 0     | 0     | [Y](https://eclipse-pm.vercel.app/) |
+| ChronoVault               | ETHGlobal ETHOnline         | Wallet     | [url](https://github.com/WhyAsh5114/ethonline-2025)                    | 2025-10-31                | Y            | 0     | 0     | N                      |
+| RIP                       | ETHGlobal New Delhi         | Finance    | [url](https://github.com/0xgeorgemathew/rip-contracts)                 | 2025-11-03                | Y            | 0     | 0     | [Y](https://rip-sandy.vercel.app/) |
+| Croissant                 | ETHGlobal New Delhi         | Reputation | [url](https://github.com/Tanishka-Singh05/kadena_croissant)            | 2025-10-16                | Y            | 0     | 0     | [Y](https://kadenacroissant.vercel.app/) |
+| Cyclone Cash              | ETHTokyo                    | Finance    | [url](https://github.com/TornadoOpt)                                   | 2025-09-14                | Y            | 4     | 0     | N                      |
+| Luft Deck                 | ETHTokyo                    | Social     | [url](https://github.com/kidneyweakx/Luft-Deck)                        | 2025-10-12                | Y            | 1     | 0     | N                      |
+| zkVC                      | ETHTokyo                    | Identity   | [url](https://github.com/nabe33/zkVC)                                  | 2025-09-27                | Y            | 0     | 0     | [Y](https://note.com/nabe33/m/ma5c67b992a6c) |
+| Scaffold-ETH Confidential | ETHWarsaw                   | Infra      | [url](https://github.com/poppyseedDev/scaffold-eth-zama-template)      | 2025-09-17                | Y            | 2     | 1     | N                      |
+| ProofOnBase               | ETHAccra                    | Identity   | [url](https://github.com/Mrwicks00/ProofOnBase)                        | 2025-10-26                | Y            | 0     | 0     | [Y](https://proof-on-base.vercel.app/) |
+| RPS-Onchain               | ETHAccra                    | Gaming     | [url](https://github.com/Delvin233/rps-onchain)                        | 2025-11-06                | Y            | 0     | 0     | [Y](https://rps-onchain-nextjs.vercel.app/) |
+| ShadowVault               | ETHGlobal New York          | Social     | [url](https://github.com/NathaliaBarreiros/ShadowVault)                | 2025-08-30                | Y            | 0     | 1     | [Y](https://shadowvault.vercel.app/login) |
+| Resona                    | ETHGlobal New York          | Social     | [url](https://github.com/lakshkumar06/Resona)                          | 2025-10-28                | Y            | 0     | 0     | N                      |
+| PonyHof                   | ETHGlobal Unite DeFi        | Finance    | [url](https://github.com/tatdz/RainbowRelay)                           | 2025-10-21                | Y            | 0     | 1     | N                      |
+| zkMed                     | NapulETH / ETHGlobal Prague | Healthcare | [url](https://github.com/ppezzull/zkMed)                               | 2025-08-16                | Y            | 1     | 0     | N                      |
+| MobiScale                 | ETHGlobal Cannes            | Social     | [url](https://github.com/ElusAegis/MobiScale)                          | 2025-08-29                | Y            | 0     | 1     | N                      |
+| POAPrivacy                | ETHGlobal Cannes            | Social     | [url](https://github.com/ethglobal-cannes-stealth-poap/ppoap)          | 2025-07-16                | Y            | 0     | 0     | [Y](https://ppoap.vercel.app/) |
+| Roll The Credits          | ETHGlobal Cannes            | Social     | [url](https://github.com/vm06007/roll-my-credits)                      | 2025-08-16                | Y            | 0     | 0     | [Y](https://roll-the-credits.vercel.app/) |
+| MedVault                  | ETHBelgrade                 | Healthcare | [url](https://github.com/branislavstojkovic70/ETH-Belgrade-MedVault)    | 2025-08-16                | Y            | 0     | 0     | N                      |
+| emailBasedVoting          | ETHGlobal Prague            | DAO        | [url](https://github.com/Zirael-leariZ/decentralised-voting-app)       | 2025-10-19                | Y            | 2     | 0     | N                      |
+| Batlleship Goes Private   | ETHDam                      | Gaming     | [url](https://github.com/bakoushin/battleship)                         | 2025-10-19                | Y            | 0     | 0     | [Y](https://battleship-d0q.pages.dev/) |
+| TaskVault_AI              | ETHGlobal Taipei            | AI         | [url](https://github.com/cheng-chun-yuan/TaskVault_AI)                 | 2025-10-12                | Y            | 0     | 0     | [Y](https://hivemind-ai.vercel.app/) |
+| Cubix Markonium           | ETHGlobal Taipei            | Infra      | [url](https://github.com/34r7h/cubix)                                   | 2025-05-26                | Y            | 0     | 0     | N                      |
+| GhostPad                  | ETHDenver                   | Finance    | [url](https://github.com/psycho-virtual/ghostpad-launcher)             | 2025-03-11                | Y            | 0     | 0     | [Y](https://ghostpad-launcher.vercel.app/) |
+| Blind Notary              | ETHGlobal Agentic Ethereum  | AI         | [url](https://github.com/a3s7p/blind-notary)                           | 2025-05-09                | Y            | 0     | 0     | N                      |
+| KOVA                      | ETHGlobal Agentic Ethereum  | AI         | [url](https://github.com/shadmau/ETHGlobal-Agentic)                    | 2025-04-08                | Y            | 2     | 0     | [Y](https://eth-global-agentic-two.vercel.app/) |
+| Thaink Tank               | ETHGlobal Agentic Ethereum  | Social     | [url](https://github.com/guy-do-or-die/thaink)                         | 2025-06-22                | Y            | 0     | 0     | [Y](https://www.thaink.in/) |
 
-{TBC}
+### Project Persistance Charts
+
+<img width="358" height="258" alt="14" src="https://github.com/user-attachments/assets/86227681-03d3-408e-8210-3be2e301d101" /> <img width="310" height="254" alt="12" src="https://github.com/user-attachments/assets/4c6cb294-d83d-4a68-a385-e16780dbd915" /> <img width="330" height="245" alt="13" src="https://github.com/user-attachments/assets/d00cf90a-88d2-4bfe-9063-1fe3586bc419" />
+<img width="4166" height="999" alt="15" src="https://github.com/user-attachments/assets/41eb8a8f-1aab-465d-bb1c-e173503a7909" />
 
 ### Keyword Frequency Analysis
 
@@ -279,12 +310,3 @@
 ### Technologies Used Barchart
 
 <img width="2461" height="1177" alt="technology detection" src="https://github.com/user-attachments/assets/ee082b56-9b32-4783-8c1f-b40f4f29f2d5" />
-
-# {TBC}
-
-1. PROJECT PERSISTANCE TRACKING
-2. PRIVACY THEMES TRENDS
-3. EXTRACTION OF MOST INTERESTING FOR DEVCONNECT
-4. BEAUTIFY INTO SLIDES
-5. START WRITING THE REPORT
-6. BEAUTIFY REPORT FOR FINAL DELIVERY
