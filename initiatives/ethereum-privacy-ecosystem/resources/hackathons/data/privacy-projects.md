@@ -6,15 +6,36 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Project name | Specific category (example: gaming) | Short description explaining project purpose ("Healthcare app allowing patients to own and share their medical data") | GitHub link | Web link |
 
-_Example_
-
-| Project  | Category | Description | GitHub | Web | Process | Applied project | Privacy features |
-| ------------- | ------------- |------------- |------------- | ------------- |------------- |------------- |------------- |
-| whisper | Fundraising | Private Cross-chain Quadratic Funding | [GitHub](https://github.com/ethdam24-quadratic/secret-repo) | [web](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/cluxtb3ci00qaz301yt806bvw/idea) | quadratic voting | secret network | private voting |
-
 ---
 
 # 2025
+
+## Ethereum Argentina Hackathon Tierra de Buidlers
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ArkAnon | Communication | A decentralized signalling platform. | [GitHub](https://github.com/Akhil-2310/arkanon) | [web](https://arkanon-nextjs.vercel.app/) |
+| DecentralIndex | Analytics | The truly decentralized data availability layer for Web3 analytics. | [GitHub](https://github.com/Lauman/devconnect-hackaton-buidlers-2025/tree/master) | [web](https://arkiv-first-contact-frontend.vercel.app/) |
+| GAITA | Reputation | Platform with financial reputation for invisible peoples to conventional market. | [GitHub](https://github.com/marcosmwx/gaita-web-landing) | [web](https://gaita-web-landing.vercel.app/) |
+| on-message | Communication | Fully private on-chain messaging with no intermediaries. | [GitHub](https://github.com/nv-cho/on-message) | [web](https://on-message.vercel.app/) |
+| Ramen Protocol | Social | Passing down cultural assets and secret knowledge across generations. | [GitHub](https://github.com/Heirloom-Inheritance-Protocol/ramen-protocol) | [web](https://ramen-protocol-proto.vercel.app/) |
+| RIKUY | Social | Denounce antisocial activities. | [GitHub](https://github.com/Firrton/Rikuy) | [web](https://taikai.network/ethargentina/hackathons/tierra-de-buidlers-2025/projects/cmi64b5pi003xdtw3x8b3eecf/idea) |
+| Saregama.ai | Music | Artists upload their music, offer rentals, and keep full control of their rights. | [GitHub](https://github.com/Pranav9931/saregama.ai) | [web](https://saregama.replit.app/) |
+| ShizenGate | Finance | Priviate Smart Bridge. | [GitHub](https://github.com/lausuarez02/private-smart-bridge) | [web](https://private-smart-bridge.vercel.app/) |
+
+## ETHLatam
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| AdsZk | Marketing | A privacy-first ads SDK that enables audience targeting and campaign delivery without cross-user data correlation. | - | [web](https://taikai.network/ethsamba/hackathons/ethlatam25/projects/cmhpf5vio00t6l7yrtmrfvio5/idea) |
+| Class Glass | Education | Distribution of scholarships in educational institutions. | [GitHub](https://github.com/meninadobitcoin/Ethlatamclassglass) | [web](https://taikai.network/ethsamba/hackathons/ethlatam25/projects/cmhpecuoh00n03bjltwjn31fr/idea) |
+| DriveFi | Finance | Reliability, privacy and bureaucracy in the financing process. | [GitHub](https://github.com/DriveFI-ethSAMBA/eth-samba-25) | [web](https://drivefi-frontend-nextjs.vercel.app/) |
+| EnDAOment | Finance | Blockchain based university endowment using DeFi yields. | [GitHub](https://github.com/fruteroclub/endaoment) | [web](https://endaoment-mvp.vercel.app/) |
+| FHElings | Education | Interactive Rustlings-style CLI. | [GitHub](https://github.com/victorsampereira/HackathonETHLatam.git) | [web](https://frontend-blue-five-56.vercel.app/) |
+| FHEVesting | Finance | Cross-chain confidential vesting using ZK proofs. | [GitHub](https://github.com/thiagorochatr/ethlatam25) | [web](https://taikai.network/ethsamba/hackathons/ethlatam25/projects/cmhp9jxb000gr3bjlfa1du4c3/idea) |
+| Mandinga | Finance | Private, onchain saving protocol. | [GitHub](https://github.com/Milbaxter/mandinga-ethlatam) | [web](https://mandingg.vercel.app/) |
+| MintBuzz | Social | Share your social life, earn tokens. | [GitHub](https://github.com/AndreRMeira/MintBuzz) | [web](https://mint-buzz-nextjs-o3pyrbcgb-andre-meiras-projects.vercel.app/) |
+| PharmaLink | Healthcare | Tracking prescriptions and medicines. | [GitHub](https://github.com/luizfolly/pharmalink) | [web](https://taikai.network/ethsamba/hackathons/ethlatam25/projects/cmhpgg0j600qq3bjljhi1atrp/idea) |
 
 ## ETHBichkek
 
@@ -107,6 +128,13 @@ _Example_
 | Rahu Protocol | AI | Self-Piloting ZK-L2: AI agents optimize the blockchain in real-time with ZK-Proofs. | [GitHub](https://github.com/suyash242004/rahu-protocol) | [web](https://rahu-protocol-frontend.vercel.app/) |
 | BugChan | Social | Trustless bug bounties powered by smart contracts, encryption, and reputation. | [GitHub](https://github.com/swarooppatilx/bug-chan) | [web](https://bugchan.xyz/) |
 | zkEnc | Auth | Witness encryption made practical: encrypt with statements, decrypt with proofs—using Circom. | [GitHub](https://github.com/flyinglimao/zkenc) | [web](https://zkenc.limaois.me/) |
+
+## ETHNile Kampala
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ContractScanner | Security | Vulnerability Dashboard. | - | [web](https://v0-smart-contract-dashboard-three.vercel.app/) |
+| Book-of-Secrets | Social | Decentralized diary meets paywall. | [GitHub](https://github.com/Nouman-wp/Book-of-Secrets) | [web](https://citrea-secrets.vercel.app/) |
 
 ## ETHGlobal New Delhi
 
@@ -294,17 +322,38 @@ _Example_
 | Roll The Credits | Social | Store secrets In Cannes movie posters & credit scenes - privacy preserving steganography. | [GitHub](https://github.com/vm06007/roll-my-credits) | [web](https://roll-the-credits.vercel.app/) |
 | ZKSub | Finance | Decentralized content subscription platform using INTMAX for secure ETH payments. | [GitHub](https://github.com/jowy81/ZKSub) | [web](https://ethglobal.com/showcase/zksub-ftk3r) |
 
+## ZKHack Berlin
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Marriaged | Social | The only proof you need to say 'I do'. | [GitHub](https://github.com/kekonen/marriaged) | [web](https://devfolio.co/projects/marriaged-9e43) |
+| Fruit Swap | Identity | Privacy-Protecting KYC for Fruit trading. | [GitHub](https://github.com/hamiha70/hyli-defi-app) | [web](https://devfolio.co/projects/fruit-swap-0991) |
+| LeoMafia | Gaming | The Private Onchain Mafia Game on Aleo. | [GitHub](https://github.com/mbcse/leomafia) | [web](https://devfolio.co/projects/leomafia-0a98) |
+| Kinky Swap | Finance | Poor but sexy non-vanilla cross-chain swaps. | [GitHub](https://github.com/reymom/zkhackberlin-kinkyswap/tree/develop) / [GitHub](https://github.com/GianfrancoBazzani/zkHack-Berlin-Kinky-Swap) | [web](https://zkhackberlin-kinkyswap.vercel.app/) |
+| Anon Proxies | Finance | New crypto for private transaction delegation. | [GitHub](https://github.com/therealyingtong/schnorr-tokens) | [web](https://devfolio.co/projects/anonymous-proxy-signatures-bce9) |
+| God's Hand | Finance | Anonymous donations for disasters on any EVM chain. | [GitHub](https://github.com/GabrielGodsHand) | [web](https://gods-hand.vercel.app/) |
+| ZK-AntiCheat | Gaming | Privacy preserving anticheat engine. | [GitHub](https://github.com/zk-AntiCheat/) | [web](https://v0-privacy-preserving-anti-cheat.vercel.app/) |
+| Zface.cash | Finance | Private Payments. No Keys. Just Faces. | [GitHub](https://github.com/anii76/zkhack-berlin) | [web](https://zface.cash/) |
+| TruthSeeker | Social | A privacy first platform for undeniable videos. | [GitHub](https://github.com/RomarioKavin1/TruthSeeker) | [web](https://devfolio.co/projects/truthseeker-c41b) |
+| BlindMatch | Social | ZK verified, privacy first Tinder <3. | [GitHub](https://github.com/LeoFranklin015/ZkDating) | [web](https://zk-dating.vercel.app/) |
+| goblowit | Social | Whistleblow platform for telegram messages proving. | [GitHub](https://github.com/frosimanuel/blowit) | [web](https://goblow.it/) |
+| ZeroHour | Social | ZK proofs on minimal wearable personal hardware. | [GitHub](https://github.com/leonardoalt/InfiniTime/tree/zkhack) / [GitHub](https://github.com/leonardoalt/InfiniSim/tree/zkhack) | [web](https://devfolio.co/projects/zerohour-c1ed) |
+| ZKShield | Finance | Private Trading. Zero MEV. Full Control. | [GitHub](https://github.com/Omardibba50/ZKShield.git) | [web](https://devfolio.co/projects/zkshield-4ade) |
+| MPSee | Auth | MPCannotSee. | [GitHub](https://github.com/eerkaijun/blind-threshold-sig) | [web](https://devfolio.co/projects/mpsee-fdfd) |
+| Aztec-TEE-Automator | Finance | Schedule private recurring payments on TEE. | [GitHub](https://github.com/porco-rosso-j/aztec-tee-automator) | [web](https://devfolio.co/projects/aztecteeautomator-a83b) |
+| privatestargatefinance.eth | Finance | Stargate.finance with a privacy layer on top. | [GitHub](https://github.com/hooperben/privatestargatefinance.eth) | [web](https://privatestargatefinance.eth.limo/) |
+| ZK Tik Tak | Gaming | Tic Tac Toe game with ZKpassport verification. | [GitHub](https://github.com/andriibondards/zk-p2) / [GitHub](https://github.com/andriibondards/zk-ver/) | [web](https://zk-p2.vercel.app/) |
+
 ## ETHKyiv
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 🐇 BunnBattle | Gaming | A PvP on-chain game based on Scroll and validation of actions through ZK proofs. | [GitHub](https://github.com/Space-zee/dumb-battle) | [web](https://t.me/bunnyBattle_bot) |
+| BunnBattle | Gaming | A PvP on-chain game based on Scroll and validation of actions through ZK proofs. | [GitHub](https://github.com/Space-zee/dumb-battle) | [web](https://t.me/bunnyBattle_bot) |
 
 ## ETHBelgrade
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Alike👬 | Social | Alike is a private, anonymous support platform connecting people facing addiction or mental health struggles with real, verified professionals. | [GitHub](https://github.com/Kofidell4545/Alike.git) | [web](https://alike-wellness.windsurf.build/) |
+| Alike | Social | Alike is a private, anonymous support platform connecting people facing addiction or mental health struggles with real, verified professionals. | [GitHub](https://github.com/Kofidell4545/Alike.git) | [web](https://alike-wellness.windsurf.build/) |
 | Dead Man's NFT | Social | Confidential data release system for activists/journalists. | [GitHub](https://github.com/fac3m4n/dead-man) / [GitHub](https://github.com/fac3m4n/dead-man-iapp) | [web](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects/cmbih6bmz005913ggkozejy9j/idea) |
 | MedVault | Healthcare | Decentralized medical data vault that lets patients encrypt, store, and share health records securely. | [GitHub](https://github.com/branislavstojkovic70/ETH-Belgrade-MedVault) | [web](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects/cmbj1auw200iypppcogxskup1/idea) |
 | Morgan | Finance | Privacy-preserving DeFi mortgage evaluator. | [GitHub](https://github.com/ZeroXShazam/ethbelgrade2025) | [web](https://morgan.0xshazam.xyz/) |
