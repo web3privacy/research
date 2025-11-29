@@ -32,6 +32,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHGlobal Prague](https://ethglobal.com/events/prague) | ETHGlobal | 30.05.2025 | IRL | $150.000 | 800 | [223](https://ethglobal.com/showcase?events=prague) | 29 |
 | [ETHBelgrade](https://ethbelgrade.rs/) | ETHBelgrade | 03.06.2025 | IRL | $60.000 | 284 | [20](https://taikai.network/ethbelgrade/hackathons/eth-belgrade-hackathon-3/projects) | 10 |
 | [ETHKyiv](https://ethkyiv.com/) | ETHKyiv | 21.06.2025 | IRL | $100.000 | 143 | [23](https://taikai.network/en/ethkyiv/hackathons/ethkyiv/projects) | 1 |
+| [ZK Hack Berlin](https://zkhack.dev/) | ZKHack | 20.06.2025 | IRL | $44.500 | `?` | [45](https://zk-hack-berlin.devfolio.co/projects) | 17 |
 | [ETHGlobal Cannes](https://ethglobal.com/events/cannes) | ETHGlobal | 04.07.2025 | IRL | $275.000 | 800 | [343](https://ethglobal.com/showcase?events=cannes) | 35 |
 | [NapulETH](https://www.napuleth.org/) | NapulETH | 15.07.2025 | IRL | $10.000 | 28 | [11](https://taikai.network/en/napulETH/hackathons/napuleth2025/projects) | 1 |
 | [Unite Defi](https://ethglobal.com/events/unite) | ETHGlobal | 25.07.2025 | Vitual | $550.000 | `?` | [412](https://ethglobal.com/showcase?events=unite) | 9 |
@@ -44,9 +45,15 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHUruguay](https://www.ethereumuruguay.org/) | ETH Uruguay | 11.09.2025 | IRL | $5.000 | 47 | [8](https://taikai.network/en/ethuruguay/hackathons/hackathon-2025/projects) | 0 |
 | [ETHTokyo](https://ethtokyo.org/) | ETHTokyo | 15.09.2025 | IRL | $9.000 | 124 | [41](https://taikai.network/ethtokyo/hackathons/hackathon-2025/projects) | 19 |
 | [ETHGlobal New Delhi](https://ethglobal.com/events/newdelhi) | ETHGlobal | 26.09.2025 | IRL | $200.000 | 800 | [633](https://ethglobal.com/showcase?events=newdelhi) | 42 |
+| [EthNile Kampala](https://dorahacks.io/hackathon/ethnile25) | Eth Nile | 06.10.2025 | Virtual | $2.000 | 235 | [70](https://dorahacks.io/hackathon/ethnile25/buidl) | 5 |
 | [ETHGlobal ETHOnline](https://ethglobal.com/events/ethonline2025) | ETHGlobal | 10.10.2025 | Virtual | $100.000 | 1670 | [653](https://ethglobal.com/showcase?events=ethonline2025) | 51 |
+| [ETHSafari](https://ethsafari.xyz/) | ETH Safari | 14.10.2025 | Virtual | $4.000 | 206 | [71](https://dorahacks.io/hackathon/eth-safari-hackathon-2025/buidl) | 2 |
 | [ETHRome](https://www.ethrome.org/) | Urbe.eth | 17.10.2025 | IRL | $50.000 | 128 | [65](https://taikai.network/ethrome/hackathons/2025/projects) | 23 |
 | [ETHBishkek](https://www.ethbishkek.xyz/) | ETH Bishkek | 24.10.2025 | IRL | $22.000 | 123 | [38](https://taikai.network/en/ethbishkek/hackathons/ethbishkek-2025/projects) | 3 |
+| [Octant DeFi](https://octant.build/) | Octant | 30.10.2025 | Virtual | $24.000 | `?` | [103](https://octant.devfolio.co/projects) | 1 |
+| [Ethereum Mexico](https://ethmexico.org/) | Ethereum Mexico | 31.10.2025 | IRL | $15.000 | 109 | [33](https://dorahacks.io/hackathon/ethmx2025/buidl) | 1 |
+| [Ethereum Argentina Hackathon Tierra de Buidlers](https://ethereumargentina.org/) | Ethereum Argentina | 10.11.2025 | IRL | $30.000 | 355 | [61](https://taikai.network/ethargentina/hackathons/tierra-de-buidlers-2025/projects) | 13 |
+| [ETHLviv Impulse](https://dorahacks.io/hackathon/ethlvivimpulse/detail) | ETHLviv | 16.11.2025 | IRL | $5.000 | 11 | [6](https://dorahacks.io/hackathon/ethlvivimpulse/buidl) | 0 |
 | [ETHGlobal Buenos Aires](https://ethglobal.com/events/buenosaires) | ETHGlobal | 21.11.2025 | IRL | $500.000 | 1200 | [488](https://ethglobal.com/showcase?events=buenosaires) | 69 |
 
 ---
