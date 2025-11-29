@@ -46,7 +46,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHGlobal New Delhi](https://ethglobal.com/events/newdelhi) | ETHGlobal | 26.09.2025 | IRL | $200.000 | 800 | [633](https://ethglobal.com/showcase?events=newdelhi) | 42 |
 | [EthNile Kampala](https://dorahacks.io/hackathon/ethnile25) | Eth Nile | 06.10.2025 | Virtual | $2.000 | 235 | [70](https://dorahacks.io/hackathon/ethnile25/buidl) | 2 |
 | [ETHGlobal ETHOnline](https://ethglobal.com/events/ethonline2025) | ETHGlobal | 10.10.2025 | Virtual | $100.000 | 1670 | [653](https://ethglobal.com/showcase?events=ethonline2025) | 51 |
-| [ETHSafari](https://ethsafari.xyz/) | ETH Safari | 14.10.2025 | Virtual | $4.000 | 206 | [71](https://dorahacks.io/hackathon/eth-safari-hackathon-2025/buidl) | 2 |
+| [ETHSafari](https://ethsafari.xyz/) | ETH Safari | 14.10.2025 | Virtual | $4.000 | 206 | [71](https://dorahacks.io/hackathon/eth-safari-hackathon-2025/buidl) | 1 |
 | [ETHRome](https://www.ethrome.org/) | Urbe.eth | 17.10.2025 | IRL | $50.000 | 128 | [65](https://taikai.network/ethrome/hackathons/2025/projects) | 23 |
 | [ETHBishkek](https://www.ethbishkek.xyz/) | ETH Bishkek | 24.10.2025 | IRL | $22.000 | 123 | [38](https://taikai.network/en/ethbishkek/hackathons/ethbishkek-2025/projects) | 3 |
 | [Octant DeFi](https://octant.build/) | Octant | 30.10.2025 | Virtual | $24.000 | `?` | [103](https://octant.devfolio.co/projects) | 1 |
