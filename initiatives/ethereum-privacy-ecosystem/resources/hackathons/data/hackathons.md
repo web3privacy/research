@@ -7,8 +7,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 #### _Shepherds' Notes:_
 
 - **Platforms:** `devfolio`, `devpost`, `dorahacks`, `taikai`, and `ethglobal`
-- **Last up:** ETHGlobal, Taikai Network, Dorahacks
-- _Focus kept on 2025_
+- _Focus kept on 2025 for the December 2025 delivery_
 
 ---
 
@@ -52,6 +51,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETHBishkek](https://www.ethbishkek.xyz/) | ETH Bishkek | 24.10.2025 | IRL | $22.000 | 123 | [38](https://taikai.network/en/ethbishkek/hackathons/ethbishkek-2025/projects) | 3 |
 | [Octant DeFi](https://octant.build/) | Octant | 30.10.2025 | Virtual | $24.000 | `?` | [103](https://octant.devfolio.co/projects) | 1 |
 | [Ethereum Mexico](https://ethmexico.org/) | Ethereum Mexico | 31.10.2025 | IRL | $15.000 | 109 | [33](https://dorahacks.io/hackathon/ethmx2025/buidl) | 1 |
+| [ETH Latam](https://www.ethlatam.org/en) | ETHSamba | 06.11.2025 | IRL | $25.000 | 317 | [27](https://taikai.network/ethsamba/hackathons/ethlatam25/projects) | 9 |
 | [Ethereum Argentina Hackathon Tierra de Buidlers](https://ethereumargentina.org/) | Ethereum Argentina | 10.11.2025 | IRL | $30.000 | 355 | [61](https://taikai.network/ethargentina/hackathons/tierra-de-buidlers-2025/projects) | 13 |
 | [ETHLviv Impulse](https://dorahacks.io/hackathon/ethlvivimpulse/detail) | ETHLviv | 16.11.2025 | IRL | $5.000 | 11 | [6](https://dorahacks.io/hackathon/ethlvivimpulse/buidl) | 0 |
 | [ETHGlobal Buenos Aires](https://ethglobal.com/events/buenosaires) | ETHGlobal | 21.11.2025 | IRL | $500.000 | 1200 | [488](https://ethglobal.com/showcase?events=buenosaires) | 69 |
