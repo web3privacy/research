@@ -325,7 +325,7 @@ _**Zero-Knowledge Infrastructure**_
   
 - **Edge**: [Miden](https://miden.xyz) - STARK-based zkVM enabling private execution on Ethereum
 - **RPC**
-  - [1RPC](https://rpch.net) - No-tracking RPC for Ethereum with privacy protection
+  - [1RPC](https://www.1rpc.io/) - Zero-tracking RPC for Ethereum and major L2s with TEE-attested privacy protection
   - [RPCh](rpch.net) - private Ethereum RPC relayed through mixnets (HOPR)
   - [SecureRPC](https://www.securerpc.com/) - MEV-protected Ethereum RPC for safer transactions
 - **Mixnets**:
