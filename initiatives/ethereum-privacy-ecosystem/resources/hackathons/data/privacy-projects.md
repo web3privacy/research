@@ -414,6 +414,7 @@
 | ZKSub | Finance | Decentralized content subscription platform using INTMAX for secure ETH payments. | [GitHub](https://github.com/jowy81/ZKSub) | [web](https://ethglobal.com/showcase/zksub-ftk3r) |
 
 ## ZKHack Berlin
+
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Marriaged | Social | The only proof you need to say 'I do'. | [GitHub](https://github.com/kekonen/marriaged) | [web](https://devfolio.co/projects/marriaged-9e43) |
