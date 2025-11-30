@@ -10,6 +10,79 @@
 
 # 2025
 
+## ETHGlobal Buenos Aires
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| LOCUSt | Finance | Private cross-chain swaps via confidential deposits. | [GitHub](https://github.com/Nilay27/l0cust) | [web](https://v0-de-fi-protocol-design.vercel.app/) |
+| gh0st.market | Social | A privacy-first job network for verifiable web data collection. | [GitHub](https://github.com/wu-s-john/gh0st.market) | [web](https://gh0st.markeet/) |
+| VPoR | Finance | Private proof of solvency. | [GitHub](https://github.com/Spoyte/VPoR) | [web](https://github.com/Spoyte/VPoR) |
+| OpenIO | Infra | Discover, build & deploy custom privacy models. | [GitHub](https://github.com/undefinedlab/OpenIO_ETH) | [web](https://open-io-eth.vercel.app/) |
+| pokechain | Gaming | A pokemon onchain game across multichain with zk battle. | [GitHub](https://github.com/mullethdude/pokechain) | [web](https://ethglobal.com/showcase/pokechain-i68yv) |
+| Scout | Finance | Private opportunity markets. | [GitHub](https://github.com/namn-grg/opportunity-markets) | [web](https://ethglobal.com/showcase/scout-g0kq0) |
+| MeetPoint | Social | Privacy-preserving calendar matching app. | [GitHub](https://github.com/rusgariana/meetpoint) | [web](https://meetpoint-zeta.vercel.app/) |
+| Shadow Guardians | Security | Wallets can be recovered privately using a 2-of-N guardian system. | [GitHub](https://github.com/FavioSauto/shadow-guardian) | [web](https://ethglobal.com/showcase/shadow-guardians-8obhq) |
+| PrevDL | Marketing | Privacy-preserving ad targeting using TEE. | [GitHub](https://github.com/7ipolito/eth-global-prevdl) | [web](https://ethglobal.com/showcase/prevdl-4znpi) |
+| Shayd | Finance | Privacy-First Leveraged Trading/Yield Generation Platform. | [GitHub](https://github.com/arseneeth/shayd) | [web](https://ethglobal.com/showcase/shayd-4w0ry) |
+| GhostBounties | Social | ZK-verified GitHub bounties. | [GitHub](https://github.com/mhiskall282/The-Ghost-Operator) | [web](https://ethglobal.com/showcase/ghostbounties-xh3yt) |
+| ZKRSS | Communication | Verifiable RSS feeds & content provenance. | [GitHub](https://github.com/leomanza/zkrss-eth-ba-2025) | [web](https://ethglobal.com/showcase/zkrss-6hbvk) |
+| Void Wallet | Wallet | Privacy-first wallet. | [GitHub](https://github.com/itublockchain/ethglobal-buenos-void) | [web](https://void-wallet.vercel.app/) |
+| PayPunk | Finance | Buy real goods with crypto. | [GitHub](https://github.com/Buenos-Aires-Hackers/contracts) | [web](https://paypunk.vercel.app/) |
+| Sybilization | DAO | Private voting with ZKPassport. | [GitHub](https://github.com/Fran-cio/Sybilization) | [web](https://ethglobal.com/showcase/sybilization-fev4e) |
+| LensMint Camera | Social | Tamper-proof Web3 camera. | [GitHub](https://github.com/mbcse/lensmint-camera) | [web](https://lensmint.onrender.com/claim/7d20aa30-bce7-441c-af31-e9be78bb0707) |
+| Nostec | Social | Privacy-first social network. | [GitHub](https://github.com/tms7331/nostec-aztec) | [web](https://ethglobal.com/showcase/nostec-2iufp) |
+| Aztec Domain ID | Communication | Privacy preserving email identity. | [GitHub](https://github.com/raizo07/Aztec-Domain-Identity) | [web](https://ethglobal.com/showcase/aztec-domain-id-ztgp1) |
+| Nydus | Finance | Privacy payment network. | [GitHub](https://github.com/SolidityDrone/nydus-network-ethglobal-buidl) | [web](https://nydus-network.vercel.app/) |
+| px402 | Finance | Privacy preserving x402 payments. | [GitHub](https://github.com/Ariiellus/px402) | [web](https://ethglobal.com/showcase/px402-i7jbv) |
+| Redfish | Security | Trustless anomaly detection. | [GitHub](https://github.com/LPSCRYPT/Redfish) | [web](https://ethglobal.com/showcase/redfish-v4g9r) |
+| Linda | Social | Private and human first location-based social app. | [GitHub](https://github.com/OwnerOfJK/linda) | [web](https://ethglobal.com/showcase/linda-svad9) |
+| Hygiea MedGuard | Healthcare | mMdical records system with end-to-end encryption. | [GitHub](https://github.com/eth-ecuador/hygiea) | [web](https://ethglobal.com/showcase/hygiea-medguard-4usvz) |
+| Eth2Aztec-Bridge | Finance | Bridging USDC across Ethereum (Sepolia) and Aztec Obsidian. | [GitHub](https://github.com/niluferokay/Eth2Aztec-Bridge) | [web](https://ethglobal.com/showcase/eth2aztec-bridge-4jrv8) |
+| ProverX | AI | Connect AI agents to on-demand ZK proofs. | [GitHub](https://github.com/naz3eh/zkp-service) | [web](https://zkp-service-frontend.vercel.app/) |
+| agegate | Auth | Universal age verification. | [GitHub](https://github.com/zambrose/agegate-ai) | [web](https://agegate-ai.vercel.app/) |
+| aZKey | Auth | Privacy layer to enable the use of web2 social login. | [GitHub](https://github.com/eth-ecuador/aZKey) | [web](https://ethglobal.com/showcase/azkey-n0xfb) |
+| Seed Vault | Finance | AI-powered investment vault. | [GitHub](https://github.com/sammajayi/Seed_Vault) | [web](https://ethglobal.com/showcase/seed-vault-0mbka) |
+| Pension-Kit | Finance | Privacy-preserving Pension. | [GitHub](https://github.com/kevincharm/ubikit) | [web](https://ubikit-interface.vercel.app/) |
+| Cyra | Social | Plan your life privately and intuitively. | [GitHub](https://github.com/OlaOlaPaola/Cyra) | [web](https://cycle-sync-poze.vercel.app/) |
+| Open IO | Infra | Indistinguishabiity Obfuscation Coprocessor. | [GitHub](https://github.com/madschristensen99/openIO) | [web](https://fungerbil.com/io/) |
+| Incendia Auction v2 | Finance | A fully on-chain, anonymous auction protocol. | [GitHub](https://github.com/incendia-tech/ETHGlobal-Buenos-Aires-Incendia) |
+| deFilePlace | Finance | A decentralized marketplace for buying and selling encrypted files. | [GitHub](https://github.com/joaocosta9/filecoin_marketplace) | [web](https://defileplace.netlify.app/) |
+| Womansplain | Social | Verified women give advice. | [GitHub](https://github.com/vladasanadev/ethglobalapp) | [web](https://womansplain.vercel.app/) |
+| SatisProof | Social | Gamified anonymous event reviews. | [GitHub](https://github.com/Odig0/proof-of-satisfaction) | [web](https://ethglobal.com/showcase/satisproof-e3ykn) |
+| KeyForge | Auth | Customizable multi-factor authentication. | [GitHub](https://github.com/teddav/keyforge) | [web](https://ethglobal.com/showcase/keyforge-hiozu) |
+| Aztec Semaphore | DAO | Semaphore protocol on the Aztec Network. | [GitHub](https://github.com/hashcloak/humanvoting) | [web](https://ethglobal.com/showcase/aztec-semaphore-9p80j) |
+| mini-app-bubble | Wallet | Sybil-resistant social wallet. | [GitHub](https://github.com/Rollorsson/social-miniapp) | [web](https://world.org/mini-app?app_id=app_31a3b2ae0f731dd2b52533a942871ca3&path=&draft_id=meta_113e6a17508da33ce4f68488185d09e6) |
+| M I V Y | Social | Read, support, and publish with full ownership and total privacy. | [GitHub](https://github.com/mavix21/mivy-mini) | [web](https://farcaster.xyz/miniapps/rfmotn8STmCh/mivy) |
+| Subscription3 | A private, automated way to subscribe. | [GitHub](https://github.com/williamh-zx/Subscription3) | [web](https://ethglobal.com/showcase/subscription3-ueyvg) |
+| nocturne | Finance | Cross-chain trading of RWA tokens. | [GitHub](https://github.com/nocturne-protocol/oapp_layerzero_iexec) | [web](https://nocturne-rwa.vercel.app/) |
+| Private Deals | Finance | Privacy pools for institutional liquidity providers. | [GitHub](https://github.com/freeatnet/ethglobal-2025-aztec) | [web](https://ethglobal.com/showcase/private-deals-rqdm8) |
+| Thunder.finance | Finance | Mixer that incentives Privacy paying yields. | [GitHub](https://github.com/web3thunderfinance/website) | [web](https://web3-thunder-finance-web.vercel.app/) |
+| Scholar-Fi | Finance | Financial freedom with total data privacy. | [GitHub](https://github.com/fabriciojallaza/scholar-fi) | [web](https://scholar-fi-frontend.vercel.app/) |
+| SIGILO | Social | Encrypted whistleblowing. | [GitHub](https://github.com/ValenteCreativo/Sigilo) | [web](https://sigilo-zeta.vercel.app/) |
+| ZkVip | Social | Private VIP verification. | [GitHub](https://github.com/JennyT3/zkvip-ethglobal) | [web](https://ethglobal.com/showcase/zkvip-ydyzy) |
+| Askme | Auth | Decentralized ENS field verification. | [GitHub](https://github.com/FranzQ/askme-ios) | [web](https://ethglobal.com/showcase/askme-rdku8) |
+| SisterSafe | Social | Share your location with verificate users using ZK proofs. | [GitHub](https://github.com/pauliro/sisterSafe) | [web](https://ethglobal.com/showcase/sistersafe-ojmec) |
+| mintmarks.fun | Communication | Transform your emails with zkemail. | [GitHub](https://github.com/0x471/mintmarks.fun) | [web](https://ethglobal.com/showcase/mintmarks-fun-mkjh4) |
+| zk-invoice | Finance | Privacy-preserving invoicing. | [GitHub](https://github.com/0xmapachex/zk-invoice) | [web](https://ethglobal.com/showcase/zk-invoice-kv1bo) |
+| Priv Pay | Finance | Private USDC checkout links. | [GitHub](https://github.com/frani/privpay) | [web](https://privpay.vercel.app/) |
+| FROSTGUN | Wallet | Threshold wallet (k out of n signing) integrated in hardware. | [GitHub](https://github.com/ZKNoxHQ/FROSTGUN) | [web](https://ethglobal.com/showcase/frostgun-vmw1h) |
+| schwarzschild | Finance | Zkwormholes and stealth addresses. | [GitHub](https://github.com/nodestarQ/schwarzschild) | [web](https://schwarzschild.xyz/) |
+| Hidden Garden | Social | A privacy-preserving skill tree and leaderboard. | [GitHub](https://github.com/understories/hidden-garden) | [web](https://hidden-garden-poc.vercel.app/) |
+| 1Key | Security | Decentralized password manager. | [GitHub](https://github.com/covenant-gov/1key) | [web](https://ethglobal.com/showcase/1key-af216) |
+| IdCom | Identity | ZK-powered identity and payments. | [GitHub](https://github.com/dacarva/idcom) | [web](https://v0-landing-page-for-app-ten-flame.vercel.app/) |
+| mailMIST | Finance | Private USDC transfers to Gmail addresses. | [GitHub](https://github.com/mistcash/mailed) | [web](https://email.mist.cash/) |
+| Private-Escrow x402 | Finance | Micropayments for the agentic web. | [GitHub](https://github.com/hamiha70/x402-escrow) | [web](https://ethglobal.com/showcase/private-escrow-x402-fj0v1) |
+| Reputation Oracle | Reputation | AI-powered on-chain reputation system. | [GitHub](https://github.com/Thompson-Team/backend-ronintrustscore) | [web](https://ethglobal.com/showcase/reputation-oracle-ffzoq) |
+| zkREX | Finance | Confidential RWA token transactions. | [GitHub](https://github.com/zkRex/ERC-7943xSapphire) | [web](https://ethglobal.com/showcase/zkrex-d7mbn) |
+| Cleverly Using Money | Finance | Privacy-preserving shared liquidity provisioning. | [GitHub](https://github.com/mcmoodoo/simple-cum) | [web](https://cum-app.vercel.app/) |
+| dmail | Communication | Decentralized end-to-end encrypted email. | [GitHub](https://github.com/rohitshukla11/dmail) | [web](https://dmailapp.vercel.app/) |
+| ERC-21 post-quantum | Security | Post Quantum ERC-20 Tokens. | [GitHub](https://github.com/qkeyco/ERC20pq) | [web](https://eth.quantumcanary.online/) |
+| Pops | Social | Verified steps, sealed in a TEE, saved forever on IPFS. | [GitHub](https://github.com/guy-do-or-die/pops.cooking) | [web](http://pops.cooking/) |
+| bitoracless | Infra | Trustless P2P off-chain oracle clients. | [GitHub](https://github.com/rafarocha/bitoracless) | [web](https://ethglobal.com/showcase/bitoracless-5cbpc) |
+| zkx402 | Finance | ZK for verified variable payments and verifiable content. | [GitHub](https://github.com/chatresearch/zkx402) | [web](https://zkx402.io/) |
+| PRTCT | Finance | Cyber-insurance infrastructure. | [GitHub](https://github.com/Nurnberg-Meistersinger/PRTCTeam) | [web](https://app.protectorium.com/) |
+| OmniPriv | Identity | Prove you're verified on any blockchain. | [GitHub](https://github.com/0xyydeca/OmniPriv) | [web](https://ethglobal.com/showcase/omnipriv-od2ft) |
+
 ## Ethereum Argentina Hackathon Tierra de Buidlers
 
 | Project | Category | Description | GitHub | Web |
@@ -36,6 +109,18 @@
 | Mandinga | Finance | Private, onchain saving protocol. | [GitHub](https://github.com/Milbaxter/mandinga-ethlatam) | [web](https://mandingg.vercel.app/) |
 | MintBuzz | Social | Share your social life, earn tokens. | [GitHub](https://github.com/AndreRMeira/MintBuzz) | [web](https://mint-buzz-nextjs-o3pyrbcgb-andre-meiras-projects.vercel.app/) |
 | PharmaLink | Healthcare | Tracking prescriptions and medicines. | [GitHub](https://github.com/luizfolly/pharmalink) | [web](https://taikai.network/ethsamba/hackathons/ethlatam25/projects/cmhpgg0j600qq3bjljhi1atrp/idea) |
+
+## Ethereum Mexico
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ShadowCrypt | Finance | Deep liquidity order execution platform. | [GitHub](https://github.com/Bernardo-Mata/Etherium-hackathon/) | [web](https://dorahacks.io/buidl/36018) |
+
+## Octant DeFi
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| HashX | DAO | Private voting and Reveal for Optimistic Oracles. | - | [web](https://hashx-live.vercel.app/) |
 
 ## ETHBichkek
 
@@ -72,6 +157,12 @@
 | SecSanta | Finance | Pool a gift amount, and let the receipent choose their own gifts. | [GitHub](https://github.com/batikanor/SecSanta) | [web](https://secsanta.vercel.app/) |
 | Split3 | Finance | Splitwise meets Web3. | [GitHub](https://github.com/ilge-ustun/splitwise) | [web](https://split3-ethrome.vercel.app/) |
 | SteganoPhaser | Communication | Hiding messages in the flow of transaction, ecdh based stealth address communication tool. | [GitHub](https://github.com/SolidityDrone/SteganoPhaser.git) | [web](https://taikai.network/ethrome/hackathons/2025/projects/cmgx1i27w01tv86975acfkjne/idea) |
+
+## ETHSafari
+
+| Project | Category | Description | GitHub | Web |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| trustlink | A simple, private way for people to confirm agreements and prove document authenticity. | [GitHub](https://github.com/Edwin420s/trustlink) | [web](https://trustlink-fawn.vercel.app/) |
 
 ## ETHGlobal ETHOnline
 
