@@ -54,7 +54,7 @@ _Fill existing knowledge gap: Create an actionable map structuring global player
 | [ETH Latam](https://www.ethlatam.org/en) | ETHSamba | 06.11.2025 | IRL | $25.000 | 317 | [27](https://taikai.network/ethsamba/hackathons/ethlatam25/projects) | 9 |
 | [Ethereum Argentina Hackathon Tierra de Buidlers](https://ethereumargentina.org/) | Ethereum Argentina | 10.11.2025 | IRL | $30.000 | 355 | [61](https://taikai.network/ethargentina/hackathons/tierra-de-buidlers-2025/projects) | 8 |
 | [ETHLviv Impulse](https://dorahacks.io/hackathon/ethlvivimpulse/detail) | ETHLviv | 16.11.2025 | IRL | $5.000 | 11 | [6](https://dorahacks.io/hackathon/ethlvivimpulse/buidl) | 0 |
-| [ETHGlobal Buenos Aires](https://ethglobal.com/events/buenosaires) | ETHGlobal | 21.11.2025 | IRL | $500.000 | 1200 | [488](https://ethglobal.com/showcase?events=buenosaires) | 69 |
+| [ETHGlobal Buenos Aires](https://ethglobal.com/events/buenosaires) | ETHGlobal | 21.11.2025 | IRL | $500.000 | 1200 | [488](https://ethglobal.com/showcase?events=buenosaires) | 68 |
 
 ---
 
