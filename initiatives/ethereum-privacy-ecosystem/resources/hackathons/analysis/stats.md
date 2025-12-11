@@ -1,162 +1,180 @@
 # 2025
   
-## Ethereum Ecosystem: Hackathon Overview (Jan.-Oct.)
+## Ethereum Ecosystem: Hackathon Overview (Jan.-Nov.)
 
 ### Most Active Hackathon Organizers
 
 | **Organizer**             | **Number of Hackathons** |
 | ------------------------- | ------------------------ |
-| ETHGlobal                 | 10                       |
-| ETHWarsaw Foundation      | 4                        |
+| ETHGlobal                 | 11                       |
+| ETHWarsaw Foundation      | 2                        |
 | ETHKyiv                   | 2                        |
-| Others                    | 19                       |
+| Others                    | 25                       |
 
 ### Hackathon Submissions
 
 | Organizer            | Total Submissions | # Hackathons |
 | -------------------- | ----------------- | ------------ |
-| ETHGlobal            | 3,457             | 8            |
+| ETHGlobal            | 3,945             | 11           |
 | ETHDenver LLC.       | 227               | 1            |
 | ETH Oxford           | 142               | 1            |
+| Octant               | 103               | 1            |
+| ETHSafari            | 71                | 1            |
+| Ethereum Argentina   | 61                | 1            |
 | Urbe.eth             | 65                | 1            |
-| ETH Cinco de Mayo    | 62                | 1            |
+| ETHCinco de Mayo     | 62                | 1            |
+| ETHNile              | 70                | 1            |
 | ETHWarsaw Foundation | 50                | 2            |
-| ETHKyiv              | 49                | 2            |
-| ETH Istanbul         | 42                | 1            |
+| ETHKyiv              | 29                | 2            |
+| ZKHack               | 45                | 1            |
+| ETHSamba             | 27                | 1            |
+| ETHIstanbul          | 42                | 1            |
 | ETHTokyo             | 41                | 1            |
-| ETH Accra            | 39                | 1            |
-| ETH Bishkek          | 38                | 1            |
+| ETHAccra             | 39                | 1            |
+| ETHBishkek           | 38                | 1            |
 | BAM                  | 38                | 1            |
 | Dots N' Bits         | 35                | 1            |
-| ETH Ireland          | 31                | 1            |
+| ETHIreland           | 31                | 1            |
 | CryptoCanal          | 33                | 1            |
+| Ethereum Mexico      | 33                | 1            |
 | ETHBelgrade          | 20                | 1            |
-| ETH Oxford           | 142               | 1            |
 | NapulETH             | 11                | 1            |
 | ETHBratislava        | 11                | 1            |
+| ETHLviv              | 6                 | 1            |
 | Ethereum TGU         | 12                | 1            |
-| ETH Bolivia          | 26                | 1            |
-| ETH Uruguay          | 8                 | 1            |
+| ETHBolivia           | 26                | 1            |
+| ETHUruguay           | 8                 | 1            |
+| ETHHangzhou          | 0                 | 1            |
 
 ### Hackathon Prize Distribution
 
 | Metric                      | Value      |
 | --------------------------- | ---------- |
-| Total Prize                 | $3,601,683 |
-| Average Prize per Hackathon | $124,196   |
-| Median Prize                | $40,425    |
+| Total Prize                 | $4,817,683 |
+| Average Prize per Hackathon | $120,442   |
+| Median Prize                | $32,500    |
 | Max Prize                   | $1,029,833 |
 | Min Prize                   | $2,000     |
 
-> **NOTE:** *Prize distribution is skewed: mean prize ≈ $120k but median ≈ $40k. A few large prize pools (ETHDenver, and ETHGlobal flagship events) drive the mean upwards.*
+> **NOTE:** *Prize distribution is skewed: mean prize ≈ $120k while the median prize is notably lower (~ $32.5k). A small number of very large prize pools (including a $1.03M event and other ETHGlobal/ETHDenver flagship events) raise the mean; most events have substantially smaller pools.*
 
 ### Hackathon Locations Chart
 
 | Region / Continent | Hackathons |
 | ------------------ | ---------- |
-| Europe             | 16         |
+| Europe             | 21         |
 | Asia               | 5          |
+| South America      | 4          |
+| Virtual            | 4          |
 | North America      | 3          |
-| South America      | 3          |
-| Africa             | 2          |
-| Virtual            | 2          |
+| Africa             | 3          |
 
 ### Hackathons Location Map
 
-<img width="6460" height="3403" alt="MapChart_Map" src="https://github.com/user-attachments/assets/1d318fa7-a06c-441f-bc7e-25d91d781e9b" />
+<img width="6460" height="3403" alt="MapChart_Map" src="https://github.com/user-attachments/assets/1a5f454f-0ad3-4f62-b0b6-ac8f8072a834" />
 
 ---
 
-## Ethereum Privacy Ecosystem: Hackathon Overview (Jan.-Oct.)
+## Ethereum Privacy Ecosystem: Hackathon Overview (Jan.-Nov.)
 
 ### Quick Headline Numbers & Averages
 
-| Metric                                      | Value      |
-| ------------------------------------------- | ---------- |
-| Total Hackathons                            | 31         |
-| Total Hackahtons (with privacy submissions) | 23         |
-| Total Hackers                               | 10,357     |
-| Average Hackers per Hackahton               | 357        |
-| Total Projects                              | 4,290      |
-| Average Submission per Hackathon            | 138        |
-| Total Privacy Projects                      | 310        |
-| Privacy Submission Ratio                    | 7.18%      |
-| Average Privacy Submissions per Hackathon   | 13         |
-| Average Price Pool                          | $120,056   |
-| Median Prize Pool                           | $40,425    |
-| Total Prize Money                           | $3,601,683 |
+| Metric                                      | Value       |
+| ------------------------------------------- | ----------- |
+| Total Hackathons                            | 40          |
+| Total Hackahtons (with privacy submissions) | 31          |
+| Total Hackers                               | 10,692      |
+| Average Hackers per Hackahton               | 313         |
+| Total Projects                              | 5,194       |
+| Average Submission per Hackathon            | 130         |
+| Total Privacy Projects                      | 417         |
+| Privacy Submission Ratio                    | 8.02%       |
+| Average Privacy Submissions per Hackathon   | 13          |
+| Average Price Pool                          | $120,442    |
+| Median Prize Pool                           | $40,425     |
+| Total Prize Money                           | $34,817,683 |
 
 ### Correlation Chart Between Submissions and Prize Pool
 
-<img width="3336" height="990" alt="top10privacy submissions vs prize pools" src="https://github.com/user-attachments/assets/6feebb13-86f2-4ecf-bd04-240e79eece5c" />
+<img width="3355" height="1077" alt="TOP 10 Privacy Submissions vs  Price Pools" src="https://github.com/user-attachments/assets/b735e3f6-7374-4fdf-ad0c-104d3e0c2f99" />
 
-> **NOTE:** *Events with $200K–$275K prize pools (ETHGlobal New Delhi, ETHGlobal Cannes, ETHGlobal New York) have 14–42 submissions with moderate correlation in mid-range. Very small prize pools ($2K–$10K) almost always have 0–1 submissions. Extremely large prize pools do not guarantee high privacy participation. Prize size alone is not a strong driver for privacy submissions.
+> **NOTE:** *Events with $200K–$275K prize pools (for example, several ETHGlobal events) tend to sit in the mid-range for privacy submissions (roughly 14–42), while very small pools ($2K–$10K) rarely produce privacy projects. The updated dataset (including recent events) reinforces that very large prize pools do not by themselves guarantee high privacy participation — prize size is only one of several factors that correlate with privacy submissions.*
 
 ### IRL vs. Virtual Hackathon Comparison
 
 | Type    | Hackathons | Total Prize ($) | Total Submissions | Privacy Submissions | % Privacy Submissions |   Avg. Prize Pool | Avg. Hackers (non-missing) |
 | ------- | ---------- | --------------- | ----------------- | ------------------- | --------------------- | ----------------- | -------------------------- |
-| IRL     |         28 |      $2,776,683 |             2,695 |                 234 |             **8.68%** | $102,840.11       |                     258.41 |
+| IRL     |         37 |      $3,993,683 |             3,599 |                 341 |             **9.47%** | $107,937.92       |                     244.73 |
 | Virtual |          3 |        $825,000 |             1,595 |                  76 |             **4.76%** | $275,000.00       |                   1,690.00 |
 
-> **NOTE:** *IRL hackathons have a higher proportion of privacy submissions (8.68%) than Virtual events (4.76%) in this dataset.*
+> **NOTE:** *IRL hackathons have a higher proportion of privacy submissions (9.47%) than Virtual events (4.76%) in this dataset; the addition of several new in-person events in the latest update strengthens this observed gap.*
 
-<img width="328" height="323" alt="hackathons" src="https://github.com/user-attachments/assets/97b51d50-e5b9-4c2b-891c-84234ea4c42b" />
-<img width="328" height="323" alt="IRL hackathons" src="https://github.com/user-attachments/assets/57cee8b0-7794-46b3-bbc5-a424d1d04bc1" />
-<img width="328" height="323" alt="virtual hackathons" src="https://github.com/user-attachments/assets/97a526f2-4dfb-41f5-bef6-ae0a79ddb5e0" />
+<img width="328" height="323" alt="hackathons" src="https://github.com/user-attachments/assets/e8a0846e-882a-4a69-823d-edfa1be79f75" />
+<img width="328" height="323" alt="IRL" src="https://github.com/user-attachments/assets/b1e1c83d-9b95-4d3b-87e2-1ac60fcadf7b" />
+<img width="328" height="323" alt="Virtual" src="https://github.com/user-attachments/assets/f4bd7514-84f6-4404-b9e4-c725ed02e07a" />
 
 ### TOP 10 Hackathons Ranked by Privacy Intensity
 
-| Rank | Event                | Privacy Subms. | Total Subms. | Privacy intensity (%) |
-| ---- | -------------------- | -------------- | ------------ | --------------------- |
-|    1 | **ETHBelgrade**      |             10 |           20 |            **50.00%** |
-|    2 | **ETHTokyo**         |             19 |           41 |            **46.34%** |
-|    3 | **ETHDam**           |             13 |           33 |            **39.39%** |
-|    4 | **ETHRome**          |             23 |           65 |            **35.38%** |
-|    5 | **ETHWarsaw**        |              8 |           42 |            **19.05%** |
-|    6 | **ETHGlobal Prague** |             29 |          223 |            **13.00%** |
-|    7 | **ETHAccra**         |              5 |           39 |            **12.82%** |
-|    8 | **ETHGlobal Cannes** |             35 |          343 |            **10.20%** |
-|    9 | **ETHDublin**        |              3 |           31 |             **9.68%** |
-|   10 | **ETHIstanbul**      |              4 |           42 |             **9.52%** |
+| Rank | Event                    | Privacy Subms. | Total Subms. | Privacy intensity (%) |
+| ---- | ------------------------ | -------------- | ------------ | --------------------- |
+|    1 | **ETHBelgrade**          |             10 |           20 |            **50.00%** |
+|    2 | **ETHTokyo**             |             19 |           41 |            **46.34%** |
+|    3 | **ETHDam**               |             13 |           33 |            **39.39%** |
+|    4 | **ZKHack Berlin**        |             17 |           45 |            **37.78%** |
+|    5 | **ETHRome**              |             23 |           65 |            **35.38%** |
+|    6 | **ETHWarsaw**            |              8 |           42 |            **19.05%** |
+|    7 | **ETHGlobal Buenos Aires |             68 |          488 |            **13.93%** |
+|    8 | **ETHGlobal Prague**     |             29 |          223 |            **13.00%** |
+|    9 | **ETHAccra**             |              5 |           39 |            **12.82%** |
+|   10 | **ETHGlobal Cannes**     |             35 |          343 |            **10.20%** |
 
-> **NOTE:** *A few events (notably ETHBelgrade and ETHTokyo) show extremely high privacy intensity — in Belgrade 50% of submissions were privacy-related (though total submissions there was only 20). Larger hackathons (e.g.: ETHGlobal Prague, ETHGlobal Cannes, ETHGlobal New Delhi, and ETHGlobal ETHOnline) produce many privacy projects in absolute numbers but are lower on intensity % because they have many non-privacy projects.*
+> **NOTE:** *A few events (notably ETHBelgrade and ETHTokyo) show extremely high privacy intensity — Belgrade had 50% privacy intensity (albeit from a small total). ZK Hack Berlin also ranks high on intensity (≈37.8%) after the latest additions. Conversely, large ETHGlobal flagship events produce many privacy projects in absolute numbers (e.g., ETHGlobal Buenos Aires contributed 68 privacy projects) but score lower on intensity percentage because of large overall submission counts.*
 
 ### Absolute Contributions Barchart
 
-<img width="3336" height="1540" alt="absolute contributions chart 1" src="https://github.com/user-attachments/assets/7ae96892-6627-4ed8-b331-48590b93461e" />
+<img width="5069" height="1645" alt="Absolute Contributions Barchart" src="https://github.com/user-attachments/assets/263930a8-85ef-4bad-af8d-0a07b19b397c" />
 
-### Hackathon Organizer Privacy Submissions (23/31)
+
+### Hackathon Organizer Privacy Submissions
 
 | **Event**                     | **Total Submissions** | **Privacy Submissions** |
 | ----------------------------- | --------------------- | ----------------------- |
+| ETHGlobal Buenos Aires        | 488                   | 68                      |
 | ETHGlobal ETHOnline           | 653                   | 51                      |
 | ETHGlobal New Delhi           | 633                   | 42                      |
 | ETHGlobal Cannes              | 343                   | 35                      |
 | ETHGlobal Prague              | 223                   | 29                      |
 | ETHRome                       | 65                    | 23                      |
 | ETHTokyo                      | 41                    | 19                      |
+| ZKHack Berlin                 | 45                    | 17                      |
 | ETHGlobal Agentic Ethereum    | 530                   | 16                      |
 | ETHGlobal Taipei              | 233                   | 15                      |
 | ETHGlobal New York            | 283                   | 14                      |
 | ETHDam                        | 33                    | 13                      |
 | ETHBelgrade                   | 20                    | 10                      |
 | ETHGlobal Unite Defi          | 412                   | 9                       |
+| ETHLatam                      | 27                    | 9                       |
 | ETHWarsaw                     | 42                    | 8                       |
+| Ethereum Argentina            | 61                    | 8                       |
 | ETHDenver                     | 227                   | 6                       |
 | ETHAccra                      | 39                    | 5                       |
 | ETHIstanbul                   | 42                    | 4                       |
 | ETHBishkek                    | 38                    | 3                       |
 | ETHDublin                     | 31                    | 3                       |
+| ETHNile Kampala               | 70                    | 2                       |
+| Octant DeFi                   | 103                   | 1                       |
 | ETHBucharest                  | 35                    | 1                       |
 | ETHKyiv                       | 23                    | 1                       |
 | ETH Cinco de Mayo             | 62                    | 1                       |
+| Ethereum Mexico               | 33                    | 1                       |
+| ETHSafari                     | 71                    | 1                       |
 | NapulETH                      | 11                    | 1                       |
 | ETHJaguar                     | 12                    | 1                       |
+| ETHLviv Impulse               | 6                     | 0                       |
 
 ### Privacy Contributions Barchart
 
-<img width="3345" height="1003" alt="absolute contributions chart" src="https://github.com/user-attachments/assets/4bcc50de-87af-4a9d-a3de-aedad2619c3c" />
+<img width="3341" height="1090" alt="Privacy Contributions Barchart" src="https://github.com/user-attachments/assets/599a89f9-69f4-4543-80ed-4bfeeeb52661" />
 
 ### Monthly/Quarterly Privacy Projects
 
@@ -175,50 +193,55 @@
 | September | 78 / 805                          | 9.7%                |
 | **Q3**    | **138 / 1892**                    | **7.3%**            |
 | October   | 77 / 756                          | 10.2%               |
-| November  | -                                 | -                   |
+| November  | 107 / 904                         | 11.8%               |
 | December  | -                                 | -                   |
-| **Q4**    | **77 / 756**                      | **10.2%**           |
+| **Q4**    | **184 / 1660**                    | **11.1%**           |
 
-> **NOTE:** *Accounting only for Jan.-Oct. 2025 the privacy submissions show an upward trend from Q1 (2.3%) through Q2 (10.9%), then dip slightly in Q3 (7.3%) before recovering in Q4 (10.2%).*
+> **NOTE:** *Across Jan.–Nov. 2025 the data shows an upward trend from Q1 (2.3%) to Q2 (10.9%), a dip in Q3 (7.3%), and a recovery in Q4 (11.1%) after incorporating November (which contributed 107 privacy projects at an 11.8% intensity). The November additions materially increase Q4's privacy share.*
 
 ### Monthly Privacy Projects & Notable Events Line Chart
 
-<img width="4693" height="1717" alt="monthly privacy projects" src="https://github.com/user-attachments/assets/5f6e5d96-d9fd-45af-8dde-b75b34cafad0" />
+<img width="4693" height="1717" alt="Monthly Privacy Projects" src="https://github.com/user-attachments/assets/d8a0f7f9-1b60-4f3b-841a-1ed5bec2b45d" />
+
 
 ---
 
-## Ethereum Privacy Ecosystem: Privacy Projects Overview (Jan.-Oct.)
+## Ethereum Privacy Ecosystem: Privacy Projects Overview (Jan.-Nov.)
 
 ### Privacy Project Categories & Gap Analysis
 
 | Category      | Count   | % of Total Privacy Projects | Hackathons | Notes / Opportunity         |
 | ------------- | ------- | --------------------------- | ---------- | --------------------------- |
-| Finance       | 104     | 33.8%                       | 16         | Strong presence             |
-| Social        | 76      | 24.7%                       | 14         | Strong presence             |
-| AI            | 36      | 11.7%                       | 13         | Strong presence             |
-| Auth          | 19      | 6.2%                        | 10         | Growing trend               |
-| Gaming        | 11      | 3.6%                        | 9          | Growing trend               |
-| Healthcare    | 10      | 3.2%                        | 9          | Growing trend               |
-| Identity      | 9       | 2.9%                        | 7          | Moderate activity           |
-| DAO           | 8       | 2.6%                        | 5          | Under-served                |
-| Wallet        | 7       | 2.3%                        | 3          | Low focus (potential niche) |
-| Storage       | 6       | 1.9%                        | 4          | Under-served                |
-| Security      | 4       | 1.3%                        | 3          | Low focus (potential niche) |
-| Communication | 4       | 1.3%                        | 3          | Low focus (potential niche) |
-| Infra         | 4       | 1.3%                        | 3          | Low focus (potential niche) |
-| Interop       | 2       | 0.6%                        | 1          | Untapped opportunity        |
-| Governance    | 2       | 0.6%                        | 2          | Low focus (potential niche) |
-| Reputation    | 2       | 0.6%                        | 1          | Untapped opportunity        |
+| Finance       | 153     | 36.7%                       | 23         | Strong presence             |
+| Social        | 100     | 23.9%                       | 18         | Strong presence             |
+| AI            | 51      | 12.2%                       | 13         | Strong presence             |
+| Auth          | 26      | 6.2%                        | 13         | Growing trend               |
+| Gaming        | 15      | 3.6%                        | 11         | Growing trend               |
+| Healthcare    | 12      | 2.9%                        | 11         | Growing trend               |
+| Identity      | 14      | 3.4%                        | 10         | Moderate activity           |
+| DAO           | 10      | 2.4%                        | 7          | Under-served                |
+| Wallet        | 10      | 2.4%                        | 5          | Low focus (potential niche) |
+| Storage       | 9       | 2.2%                        | 6          | Under-served                |
+| Security      | 6       | 1.4%                        | 4          | Low focus (potential niche) |
+| Communication | 8       | 1.9%                        | 5          | Low focus (potential niche) |
+| Infra         | 5       | 1.2%                        | 4          | Low focus (potential niche) |
+| Interop       | 2       | 0.5%                        | 2          | Untapped opportunity        |
+| Governance    | 2       | 0.5%                        | 2          | Low focus (potential niche) |
+| Reputation    | 3       | 0.7%                        | 2          | Untapped opportunity        |
 | Moderation    | 1       | 0.3%                        | 1          | Untapped opportunity        |
-| Music         | 1       | 0.3%                        | 1          | Untapped opportunity        |
-| Browser       | 1       | 0.3%                        | 1          | Untapped opportunity        |
-| Insurance     | 1       | 0.3%                        | 1          | Untapped opportunity        |
+| Music         | 1       | 0.2%                        | 1          | Untapped opportunity        |
+| Browser       | 1       | 0.2%                        | 1          | Untapped opportunity        |
+| Insurance     | 1       | 0.2%                        | 1          | Untapped opportunity        |
+| Education     | 2       | 0.5%                        | 1          | Emerging opportunity        |
+| Marketing     | 1       | 0.2%                        | 1          | Untapped opportunity        |
+| Analytics     | 1       | 0.2%                        | 1          | Untapped opportunity        |
 
 ### Category Distribution Chart
 
-<img width="4065" height="1608" alt="category distribution" src="https://github.com/user-attachments/assets/bb258f3d-1dd2-458a-a151-1cdb83d4eb82" />
+<img width="4065" height="1608" alt="Category Distribution Chart" src="https://github.com/user-attachments/assets/f4bc8b79-2c41-4bf5-9c12-d1b5a7aa1c17" />
 
-### Project Persistance Tracking
+
+### Project Persistance Tracking (Jan.-Oct.)
 
 | Project                   | Hackathon                   | Category   | GitHub URL                                                             | Last Commit (YYYY-MM-DD) | Active (Y/N) | Stars | Forks | Website Active (Y/N) |
 |---------------------------|-----------------------------|------------|-------------------------------------------------------------------------|---------------------------|--------------|-------|-------|------------------------|
@@ -253,7 +276,7 @@
 | KOVA                      | ETHGlobal Agentic Ethereum  | AI         | [url](https://github.com/shadmau/ETHGlobal-Agentic)                    | 2025-04-08                | Y            | 2     | 0     | [Y](https://eth-global-agentic-two.vercel.app/) |
 | Thaink Tank               | ETHGlobal Agentic Ethereum  | Social     | [url](https://github.com/guy-do-or-die/thaink)                         | 2025-06-22                | Y            | 0     | 0     | [Y](https://www.thaink.in/) |
 
-### Project Persistance Charts
+### Project Persistance Charts (Jan.-Oct.)
 
 <img width="358" height="258" alt="14" src="https://github.com/user-attachments/assets/86227681-03d3-408e-8210-3be2e301d101" /> <img width="310" height="254" alt="12" src="https://github.com/user-attachments/assets/4c6cb294-d83d-4a68-a385-e16780dbd915" /> <img width="330" height="245" alt="13" src="https://github.com/user-attachments/assets/d00cf90a-88d2-4bfe-9063-1fe3586bc419" />
 <img width="4166" height="999" alt="15" src="https://github.com/user-attachments/assets/41eb8a8f-1aab-465d-bb1c-e173503a7909" />
@@ -262,51 +285,52 @@
 
 | Keyword       | Count   | % of Total Privacy Projects |
 | ------------- | ------- | --------------------------- |
-| private       | 70      | 22.7%                       |
-| zk            | 65      | 20.8%                       |
-| ai            | 48      | 15.6%                       |
-| proofs        | 46      | 14.9%                       |
-| chain         | 39      | 12.3%                       |
-| decentralized | 33      | 10.7%                       |
-| preserving    | 33      | 10.7%                       |
-| data          | 28      | 8.1%                        |
-| anonymous     | 20      | 6.5%                        |
-| payments      | 19      | 6.2%                        |
-| secure        | 18      | 5.8%                        |
-| system        | 17      | 5.5%                        |
-| wallet        | 17      | 5.5%                        |
-| encrypted     | 16      | 5.2%                        |
-| defi          | 16      | 5.2%                        |
-| verification  | 16      | 5.2%                        |
-| protocol      | 15      | 4.9%                        |
-| confidential  | 14      | 4.5%                        |
-| app           | 14      | 4.5%                        |
-| web3          | 14      | 4.5%                        |
-| identity      | 14      | 4.5%                        |
-| token         | 11      | 3.6%                        |
-| ens           | 11      | 3.6%                        |
-| ethereum      | 11      | 3.6%                        |
-| blockchain    | 11      | 3.6%                        |
-| crypto        | 10      | 3.2%                        |
+| zk            | 135     | 32.4%                       |
+| private       | 100     | 24.0%                       |
+| proofs        | 80      | 19.2%                       |
+| ai            | 70      | 16.8%                       |
+| preserving    | 65      | 15.6%                       |
+| encrypted     | 60      | 14.4%                       |
+| chain         | 60      | 14.4%                       |
+| data          | 50      | 12.0%                       |
+| decentralized | 55      | 13.2%                       |
+| payments      | 45      | 10.8%                       |
+| secure        | 42      | 10.1%                       |
+| anonymous     | 38      | 9.1%                        |
+| system        | 35      | 8.4%                        |
+| wallet        | 35      | 8.4%                        |
+| verification  | 35      | 8.4%                        |
+| defi          | 32      | 7.7%                        |
+| protocol      | 32      | 7.7%                        |
+| confidential  | 28      | 6.7%                        |
+| app           | 28      | 6.7%                        |
+| web3          | 28      | 6.7%                        |
+| identity      | 26      | 6.2%                        |
+| token         | 24      | 5.8%                        |
+| ethereum      | 22      | 5.3%                        |
+| blockchain    | 22      | 5.3%                        |
+| ens           | 20      | 4.8%                        |
+| crypto        | 18      | 4.3%                        |
 
-> **NOTE:** *"ZK" (zero-knowledge) is the single most frequent token by far, followed by "AI" and "proofs", confirming heavy focus on zero-knowledge proofs and AI across project descriptions. Words related to privacy and confidentiality (preserving, encrypted, confidential, anonymous, private-related tokens) are common. Finance/DeFi vocabulary (defi, payments, token, ethereum, bridge/cross) also appears frequently. "chain", "blockchain", "protocol", "platform", and "wallet" indicate infrastructural or plumbing projects.*
+> **NOTE:** *"ZK" (zero-knowledge) is the dominant token, appearing in ~32.4% of privacy projects, followed by "private" (24.0%), "proofs" (19.2%) and "AI" (16.8%). Privacy/confidentiality vocabulary (e.g., preserving, encrypted, confidential, anonymous) is pervasive. Finance/DeFi terms remain common, indicating a strong orientation toward financial use-cases alongside infrastructure and identity-focused projects. Keyword counts are approximate (regex-based) and intended to show relative emphasis rather than exact semantics.*
 
 ### TOP 10 Keywords Sunburst Chart
 
-<img width="628" height="665" alt="keyword sunburst" src="https://github.com/user-attachments/assets/4e75754b-5438-42e6-96ea-4d3c4804dbb1" />
+<img width="1828" height="1365" alt="TOP 10 Keywords Sunburst Chart" src="https://github.com/user-attachments/assets/2f649197-c4d3-4145-b321-36fd27441b84" />
+
 
 ### Privacy Technologies Detection
 
 | Technology    | Total Occurrences | Projects with Keyword | % of Total Privacy Projects |
 | ------------- | ----------------- | --------------------- | --------------------------- |
-| ZK            | 226               | 103                   | 33.44%                      |
-| AI            | 71                | 57                    | 18.51%                      |
-| TEE           | 12                | 7                     | 2.27%                       |
-| MPC           | 6                 | 6                     | 1.95%                       |
-| FHE           | 4                 | 4                     | 1.30%                       |
+| ZK            | 310               | 145                   | 34.77%                      |
+| AI            | 95                | 78                    | 18.71%                      |
+| TEE           | 18                | 12                    | 2.88%                       |
+| MPC           | 9                 | 8                     | 1.92%                       |
+| FHE           | 8                 | 8                     | 1.92%                       |
 
-> **NOTE:** *Counts are derived from regex-based detection across project descriptions. "**Total Occurrences**" counts all matches; "**Projects with Keyword**" counts distinct projects whose description mentions the keyword at least once. Regex-based matching was used for each target with some common variants (e.g., 'zk', 'zero-knowledge' and 'zero knowledge', 'encrypted', 'encrypt', 'fhe' and 'fully homomorphic', 'mpc' and 'multi-party', 'tee' includes 'trusted execution', 'nitro', 'tdx', 'secure enclave', etc.).*
+> **NOTE:** *Detection is regex-based. In the updated counts ZK appears in 145 distinct projects (≈34.8% of privacy projects) and shows 310 total matches; AI appears in 78 projects (≈18.7%). Alternative privacy approaches (TEE, MPC, FHE) are far less common — together they account for ~6.7% of projects. "Total Occurrences" counts all matches while "Projects with Keyword" reports distinct projects containing the term at least once; these figures are approximate and intended to indicate prevalence and trends rather than exact taxonomy.*
 
 ### Technologies Used Barchart
 
-<img width="2461" height="1177" alt="technology detection" src="https://github.com/user-attachments/assets/ee082b56-9b32-4783-8c1f-b40f4f29f2d5" />
+<img width="2461" height="1177" alt="Technologies Used Barchart" src="https://github.com/user-attachments/assets/41c2bbb6-4ad5-4292-8a39-ae4fbc87dbc7" />
