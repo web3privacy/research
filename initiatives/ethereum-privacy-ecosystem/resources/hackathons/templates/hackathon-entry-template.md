@@ -1,4 +1,4 @@
-# Hackathon Entry Template (Hackathons 2025)
+# Hackathon Entry Template
 
 Use this short template when adding or updating rows in the `Hackathons 2025` table. The fields below mirror the table columns exactly to keep the database machine-readable.
 
