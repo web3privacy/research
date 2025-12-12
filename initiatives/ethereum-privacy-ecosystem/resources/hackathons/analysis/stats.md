@@ -134,7 +134,6 @@
 
 <img width="5069" height="1645" alt="Absolute Contributions Barchart" src="https://github.com/user-attachments/assets/263930a8-85ef-4bad-af8d-0a07b19b397c" />
 
-
 ### Hackathon Organizer Privacy Submissions
 
 | **Event**                     | **Total Submissions** | **Privacy Submissions** |
@@ -203,7 +202,6 @@
 
 <img width="4693" height="1717" alt="Monthly Privacy Projects" src="https://github.com/user-attachments/assets/d8a0f7f9-1b60-4f3b-841a-1ed5bec2b45d" />
 
-
 ---
 
 ## Ethereum Privacy Ecosystem: Privacy Projects Overview (Jan.-Nov.)
@@ -239,7 +237,6 @@
 ### Category Distribution Chart
 
 <img width="4065" height="1608" alt="Category Distribution Chart" src="https://github.com/user-attachments/assets/f4bc8b79-2c41-4bf5-9c12-d1b5a7aa1c17" />
-
 
 ### Project Persistance Tracking (Jan.-Oct.)
 
@@ -317,7 +314,6 @@
 ### TOP 10 Keywords Sunburst Chart
 
 <img width="1828" height="1365" alt="TOP 10 Keywords Sunburst Chart" src="https://github.com/user-attachments/assets/2f649197-c4d3-4145-b321-36fd27441b84" />
-
 
 ### Privacy Technologies Detection
 

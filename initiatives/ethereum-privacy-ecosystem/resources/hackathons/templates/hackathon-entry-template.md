@@ -9,6 +9,7 @@ Use this short template when adding or updating rows in the `Hackathons 2025` ta
 | [Agentic Ethereum](https://ethglobal.com/events/agents) | ETHGlobal | 31.01.2025 | Virtual | $175.000 | 1710 | [530](https://ethglobal.com/showcase?events=agents) | 16 |
 
 ### Contributor guidance
+
 - Use `?` where data is missing.
 - For `Privacy Submissions`, prefer an integer; use `private` when an organizer replies that numbers are confidential. `0` explicitly means none.
 - Use date formatting (`DD-MM-YYYY`).

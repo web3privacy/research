@@ -63,7 +63,7 @@ These technology tags are derived from regex-based detection in project descript
 | `wallet-fe`| Wallet front-end or UX-specific work (use `wallet` for the broader wallet category) |
 | `analytics`| Privacy-preserving analytics, instrumentation or DAQ patterns |
 | `education`| Learning or onboarding-focused artifacts |
-| `europe`   | Project primarily targeted at or built by EU community | 
+| `europe`   | Project primarily targeted at or built by EU community |
 | `latam`    | Targeted at or built by Latin American community |
 | `asia`     | Asia-focused projects |
 | `africa`   | Africa-focused projects |
