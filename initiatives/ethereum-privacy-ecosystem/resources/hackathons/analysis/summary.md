@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Privacy Ethereum Ecosystem experienced significant growth across 2025, with **40 hackathons** hosting **5,194 total projects**, of which **417 (8.02%)** were explicitly privacy-focused. This report analyzes participation trends, technology adoption, geographic distribution, and emerging opportunities within the privacy-first building community.
+The Privacy Ethereum Ecosystem experienced significant growth across 2025, with **40 hackathons** hosting **5,194 total projects**, of which **416 (8.01%)** were explicitly privacy-focused. This report analyzes participation trends, technology adoption, geographic distribution, and emerging opportunities within the privacy-first building community.
 
 ---
 
@@ -141,4 +141,5 @@ With **31 of 40 hackathons** producing privacy projects and a **steady upward tr
 - `hackathons.md`: 40 events, 5,194 submissions, 416 privacy projects (2025)
 - `privacy-projects.md`: 416 detailed project entries across 8 hackathon sections (curated) (2025)
 - `stats.md`: aggregated metrics, charts, and analytical breakdown (Jan.–Nov. 2025)
+
 
