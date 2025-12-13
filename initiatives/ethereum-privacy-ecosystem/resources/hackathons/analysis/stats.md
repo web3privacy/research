@@ -87,8 +87,8 @@
 | Average Hackers per Hackahton               | 313         |
 | Total Projects                              | 5,194       |
 | Average Submission per Hackathon            | 130         |
-| Total Privacy Projects                      | 417         |
-| Privacy Submission Ratio                    | 8.02%       |
+| Total Privacy Projects                      | 416         |
+| Privacy Submission Ratio                    | 8.01%       |
 | Average Privacy Submissions per Hackathon   | 13          |
 | Average Price Pool                          | $120,442    |
 | Median Prize Pool                           | $40,425     |
@@ -337,5 +337,6 @@
 ### Technologies Used Barchart
 
 <img width="2461" height="1177" alt="Technologies Used Barchart" src="https://github.com/user-attachments/assets/41c2bbb6-4ad5-4292-8a39-ae4fbc87dbc7" />
+
 
 
