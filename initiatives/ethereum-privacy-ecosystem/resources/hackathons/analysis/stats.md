@@ -115,24 +115,24 @@
 
 ### TOP 10 Hackathons Ranked by Privacy Intensity
 
-| Rank | Event                    | Privacy Subms. | Total Subms. | Privacy intensity (%) |
-| ---- | ------------------------ | -------------- | ------------ | --------------------- |
-|    1 | **ETHBelgrade**          |             10 |           20 |            **50.00%** |
-|    2 | **ETHTokyo**             |             19 |           41 |            **46.34%** |
-|    3 | **ETHDam**               |             13 |           33 |            **39.39%** |
-|    4 | **ZKHack Berlin**        |             17 |           45 |            **37.78%** |
-|    5 | **ETHRome**              |             23 |           65 |            **35.38%** |
-|    6 | **ETHWarsaw**            |              8 |           42 |            **19.05%** |
-|    7 | **ETHGlobal Buenos Aires |             68 |          488 |            **13.93%** |
-|    8 | **ETHGlobal Prague**     |             29 |          223 |            **13.00%** |
-|    9 | **ETHAccra**             |              5 |           39 |            **12.82%** |
-|   10 | **ETHGlobal Cannes**     |             35 |          343 |            **10.20%** |
+| Rank | Event                      | Privacy Subms. | Total Subms. | Privacy intensity (%) |
+| ---- | -------------------------- | -------------- | ------------ | --------------------- |
+|    1 | **ETHBelgrade**            |             10 |           20 |            **50.00%** |
+|    2 | **ETHTokyo**               |             19 |           41 |            **46.34%** |
+|    3 | **ETHDam**                 |             13 |           33 |            **39.39%** |
+|    4 | **ZKHack Berlin**          |             17 |           45 |            **37.78%** |
+|    5 | **ETHRome**                |             23 |           65 |            **35.38%** |
+|    6 | **ETHWarsaw**              |              8 |           42 |            **19.05%** |
+|    7 | **ETHGlobal Buenos Aires** |             68 |          488 |            **13.93%** |
+|    8 | **ETHGlobal Prague**       |             29 |          223 |            **13.00%** |
+|    9 | **ETHAccra**               |              5 |           39 |            **12.82%** |
+|   10 | **ETHGlobal Cannes**       |             35 |          343 |            **10.20%** |
 
 > **NOTE:** *A few events (notably ETHBelgrade and ETHTokyo) show extremely high privacy intensity — Belgrade had 50% privacy intensity (albeit from a small total). ZK Hack Berlin also ranks high on intensity (≈37.8%) after the latest additions. Conversely, large ETHGlobal flagship events produce many privacy projects in absolute numbers (e.g., ETHGlobal Buenos Aires contributed 68 privacy projects) but score lower on intensity percentage because of large overall submission counts.*
 
 ### Absolute Contributions Barchart
 
-<img width="5069" height="1645" alt="Absolute Contributions Barchart" src="https://github.com/user-attachments/assets/263930a8-85ef-4bad-af8d-0a07b19b397c" />
+<img width="5115" height="1622" alt="Absolute Contributions Barchart" src="https://github.com/user-attachments/assets/8781c877-c157-41b7-a661-810d5e3fdceb" />
 
 ### Hackathon Organizer Privacy Submissions
 
@@ -170,6 +170,13 @@
 | NapulETH                      | 11                    | 1                       |
 | ETHJaguar                     | 12                    | 1                       |
 | ETHLviv Impulse               | 6                     | 0                       |
+| ETHOxford                     | 142                   | `private`               |
+| ETHiopia                      | 38                    | 0                       |
+| ETHBolivia                    | 26                    | 0                       |
+| ETHBratislava                 | 11                    | 0                       |
+| ETHUruguay                    | 8                     | 0                       |
+| ETHWarsaw SpringHack          | 8                     | 0                       |
+| ETHHangzhou                   | 0                     | 0                       |
 
 ### Privacy Contributions Barchart
 
@@ -330,3 +337,4 @@
 ### Technologies Used Barchart
 
 <img width="2461" height="1177" alt="Technologies Used Barchart" src="https://github.com/user-attachments/assets/41c2bbb6-4ad5-4292-8a39-ae4fbc87dbc7" />
+
