@@ -71,7 +71,7 @@
 
 ### Hackathons Location Map
 
-<img width="6460" height="3403" alt="MapChart_Map" src="https://github.com/user-attachments/assets/1a5f454f-0ad3-4f62-b0b6-ac8f8072a834" />
+<img width="4096" height="2158" alt="mapchart 2" src="https://github.com/user-attachments/assets/9a168bbe-3096-477a-bc7f-56c5201f998d" />
 
 ---
 
@@ -337,4 +337,5 @@
 ### Technologies Used Barchart
 
 <img width="2461" height="1177" alt="Technologies Used Barchart" src="https://github.com/user-attachments/assets/41c2bbb6-4ad5-4292-8a39-ae4fbc87dbc7" />
+
 
