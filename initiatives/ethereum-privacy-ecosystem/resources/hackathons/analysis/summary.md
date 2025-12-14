@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Privacy Ethereum Ecosystem experienced significant growth across 2025, with **40 hackathons** hosting **5,194 total projects**, of which **416 (8.01%)** were explicitly privacy-focused. This report analyzes participation trends, technology adoption, geographic distribution, and emerging opportunities within the privacy-first building community.
+The Privacy Ethereum Ecosystem experienced significant growth across 2025, with **40 hackathons** hosting **5,194 total projects**, of which **417 (8.02%)** were explicitly privacy-focused. This report analyzes participation trends, technology adoption, geographic distribution, and emerging opportunities within the privacy-first building community.
 
 ---
 
@@ -12,7 +12,7 @@ The Privacy Ethereum Ecosystem experienced significant growth across 2025, with 
 
 - **40 hackathons** across Jan.–Nov. 2025 (37 IRL, 3 Virtual)
 - **5,194 total projects** submitted across all events
-- **416 privacy projects** (8.01% privacy ratio) — a strong and growing segment
+- **417 privacy projects** (8.02% privacy ratio) — a strong and growing segment
 - **10,692 total hackers** (avg. 313 per hackathon)
 - **$4.82M total prize pool** (median $32.5K per event; mean $120K skewed by large ETHGlobal/ETHDenver events)
 
@@ -123,13 +123,14 @@ With **31 of 40 hackathons** producing privacy projects and a **steady upward tr
 
 - **Report Date**: December 2025
 - **Dataset Coverage**: January–November 2025
-- **Total Projects Analyzed**: 416 privacy projects across 31 hackathons
+- **Total Projects Analyzed**: 417 privacy projects across 31 hackathons
 
 ---
 
-- `hackathons.md`: 40 events, 5,194 submissions, 416 privacy projects (2025)
-- `privacy-projects.md`: 416 detailed project entries across 8 hackathon sections (curated) (2025)
+- `hackathons.md`: 40 events, 5,194 submissions, 417 privacy projects (2025)
+- `privacy-projects.md`: 417 detailed project entries across 8 hackathon sections (curated) (2025)
 - `stats.md`: aggregated metrics, charts, and analytical breakdown (Jan.–Nov. 2025)
+
 
 
 
