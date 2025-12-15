@@ -130,7 +130,3 @@ With **31 of 40 hackathons** producing privacy projects and a **steady upward tr
 - `hackathons.md`: 40 events, 5,194 submissions, 417 privacy projects (2025)
 - `privacy-projects.md`: 417 detailed project entries across 8 hackathon sections (curated) (2025)
 - `stats.md`: aggregated metrics, charts, and analytical breakdown (Jan.–Nov. 2025)
-
-
-
-

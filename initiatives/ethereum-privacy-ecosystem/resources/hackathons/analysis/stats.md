@@ -337,7 +337,3 @@
 ### Technologies Used Barchart
 
 <img width="2461" height="1177" alt="Technologies Used Barchart" src="https://github.com/user-attachments/assets/41c2bbb6-4ad5-4292-8a39-ae4fbc87dbc7" />
-
-
-
-

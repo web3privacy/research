@@ -1,4 +1,5 @@
 # Ethereum Privacy Ecosystem Research (Hackathons 2025)
+
 ## Comprehensive Data-Driven Analysis & Strategic Outlook
 
 ---
@@ -33,31 +34,37 @@ This report provides a comprehensive data-driven hackathon analysis of the Ether
 #### Key Findings (Summary)
 
 **1. Strong Privacy Ecosystem Maturity**
+
 - Nearly 8 out of 100 projects explicitly prioritize privacy — a significant and growing segment
 - 31 of 40 hackathons (77.5%) produced at least one privacy project, indicating broad adoption
 - Top-tier events (ETHGlobal Buenos Aires, ETHOnline, ETHGlobal New Delhi) consistently drive 40–70+ privacy submissions
 
 **2. Zero-Knowledge Dominance**
+
 - ZK proofs appear in 145 projects (34.8% of privacy projects; 310 total mentions)
 - Establishing itself as the de facto privacy standard across finance, social, and infrastructure domains
 - Secondary primitives (TEE, MPC, FHE) remain underutilized despite emerging acceptance
 
 **3. Finance & Social Leadership**
+
 - Finance: 153 projects (36.7%) — swaps, payments, RWA-focused
 - Social: 100 projects (23.9%) — identity, messaging, reputation emphasis
 - Combined 259 projects (62%) anchor the ecosystem; leaving 158 projects (38%) in emerging categories
 
 **4. AI-Privacy Convergence**
+
 - 78 projects (18.7%) explicitly combine AI with privacy
 - Agent-based systems, encrypted inference, and privacy-preserving ML training all represented
 - Signals industry-wide recognition that confidentiality is foundational to agentic systems
 
 **5. IRL > Virtual Phenomenon**
+
 - In-person hackathons: 9.47% privacy ratio (341 projects / 3,599 submissions)
 - Virtual events: 4.76% privacy ratio (76 projects / 1,595 submissions)
 - 2x higher privacy focus in IRL contexts — suggests mentorship, collaboration, and ecosystem depth matter
 
 **6. Temporal Momentum: Q4 Acceleration**
+
 - Q1 2025: 2.3% privacy intensity (22 projects)
 - Q2 2025: 10.9% privacy intensity (73 projects) — ~5x growth from Q1
 - Q3 2025: 7.3% privacy intensity (138 projects) — momentum sustained
@@ -65,6 +72,7 @@ This report provides a comprehensive data-driven hackathon analysis of the Ether
 - **Interpretation**: Exponential growth into year-end; emerging market awareness and developer interest
 
 **7. Regional Differentiation**
+
 - Europe: 21 hackathons (52.5%) — established hub; ETHWarsaw, ETHBelgrade, ETHRome leading
 - Latin America: 4 hackathons — emerging hub; ETHGlobal Buenos Aires (68 privacy projects), Ethereum Argentina (8)
 - Asia: 5 hackathons — ETHTokyo (19 privacy projects, 46% intensity) standout; limited follow-up ecosystem
@@ -163,6 +171,7 @@ graph LR
 ```
 
 **Observations:**
+
 - ETHGlobal accounts for 27.5% of hackathons but 75.9% of submissions (economies of scale; flagship status)
 - Independent organizers (25 events) demonstrate **higher privacy intensity** (14.7%) than ETHGlobal (5.5%) — suggests specialized/niche focus
 - ETHWarsaw Foundation shows exceptionally high privacy intensity (32%) — Warsaw ecosystem deeply privacy-focused
@@ -201,6 +210,7 @@ graph LR
 ETHGlobal runs large, sponsor-led flagship events spanning virtual and IRL formats. Their benefits include scale, sponsor networks, and strong production which drives participation and visibility.
 
 **Characteristics:**
+
 - High absolute submission volume (3,945 submissions across 11 events = 358 average per event)
 - Lower privacy intensity per event (5.5%) — attracts generalist teams
 - Significant sponsor-driven prize pools ($3.155M across 11 events = $287K average)
@@ -230,6 +240,7 @@ xychart-beta
     y-axis "Privacy %" 0 --> 15
     bar [4.3, 9.0]
 ```
+
 **Key Observation:** IRL ETHGlobal events show 2.1x higher privacy intensity (9.0%) vs. Virtual (4.3%), consistent with global trends.
 
 ### Independent Organizers (25 Events)
@@ -237,6 +248,7 @@ xychart-beta
 Independent organizers include university groups, incubators, regional foundations, and subject-matter communities. They typically run smaller events with targeted themes (privacy, DeFi, governance) and show higher privacy-intensity.
 
 **Characteristics:**
+
 - Niche themes lead to higher signal-to-noise for privacy projects
 - Stronger mentor-to-team ratios and localized mentorship
 - Lower absolute prize pools but targeted privacy grants are common
@@ -249,12 +261,14 @@ Independent organizers include university groups, incubators, regional foundatio
 Regional organizers demonstrate that local communities with academic/cryptography talent produce higher privacy yields.
 
 **ETHWarsaw Foundation (2 Events)**
+
 - Profile: Warsaw-based Ethereum development foundation; strong ties to academic cryptography research
 - Privacy Intensity: 32% (16 privacy projects / 50 total submissions) — exceptional
 - Events: ETHWarsaw Spring (mentorship-focused), ETHWarsaw Fall (research-focused)
 - Key Success Factors: local cryptography expertise, academic partnerships, mentorship-heavy format
 
 **Recommendations:**
+
 - Scale successful regional models to other cryptography hubs (Zurich, Berlin, Tel Aviv)
 - Encourage academic partnerships through grant programs and co-sponsored research tracks
 
@@ -328,6 +342,7 @@ Finance remains the single largest category, driven by confidential swaps, priva
 | Insurance & Risk         | 3     | PRTCT                             | Early    | Emerging  |
 
 **Observations:**
+
 - Confidential swaps and private payments are the most mature and well-funded sub-areas
 - Mixers are less common, often folded into broader private payment projects rather than standalone
 - RWA & lending segments are rapidly emerging due to regulatory clarity and institutional demand
@@ -337,6 +352,7 @@ Finance remains the single largest category, driven by confidential swaps, priva
 Privacy-preserving messaging, social web, and content-sharing saw strong interest. Many projects focus on selective disclosure and ephemeral identities to mitigate deanonymization risks.
 
 Representative focuses:
+
 - Private messaging with ephemeral network graphs
 - Private reputation systems for social platforms
 - Anonymous tipping and content monetization
@@ -347,6 +363,7 @@ Representative focuses:
 AI & privacy is the fastest-growing category: privacy-preserving ML pipelines, private model inference, and data marketplaces that protect contributor privacy.
 
 Notable tech approaches:
+
 - Federated learning with privacy guarantees
 - MPC-assisted inference (distributed computation)
 - ZK proofs for model integrity and output verification
@@ -392,6 +409,7 @@ pie title ZK Framework Adoption (145 Projects, 34.8% of Privacy)
 | Other/Custom     | 67       | One-off implementations, mixed stacks               | Mixed      | Varies        |
 
 **Observations:**
+
 - ZK use is broad but fragmented across many frameworks, increasing integration overhead
 - 46% of ZK projects use custom or unspecified frameworks, indicating either innovation or lack of adoption of standard tools
 - Many teams use hybrid approaches (ZK for critical checks, off-chain compute for heavy ML workloads)
@@ -425,16 +443,19 @@ xychart-beta
 ```
 
 **MPC (Multi-Party Computation):** 32 projects
+
 - Used primarily in AI-inference and private aggregation scenarios
 - Projects leverage existing frameworks (MP-SPDZ, EMP, custom JS libs)
 - MPC is used when ZK is too costly for large datasets
 
 **TEE (Trusted Execution Environments):** 18 projects
+
 - Smaller adoption due to supply and trust limitations
 - Useful for prototype systems requiring confidential compute
 - Intel SGX and AMD SEV often used in proof-of-concept phase
 
 **FHE (Fully Homomorphic Encryption):** 12 projects
+
 - Experimental in hackathon context; FHE incur high compute costs
 - Projects were proof-of-concept rather than production-ready
 - Zama and Microsoft SEAL used by most projects
@@ -478,6 +499,7 @@ xychart-beta
 | Q4 2025 | 12     | 1,928             | 104              | 5.4%      | Stable    |
 
 **Seasonality Observations:**
+
 - Q2 and Q3 show the strongest privacy activity, driven by theme-focused events and regional hubs (Europe, Latam)
 - Q4 contains major flagship demos (Cannes, Buenos Aires) which increase absolute submissions but not privacy intensity
 - **Dramatic Q1→Q2 acceleration** (5x growth) signals emerging developer interest and ecosystem maturation
@@ -499,6 +521,7 @@ xychart-beta
 | Nov   | 4      | 582               | 85      | 14.61%    | **Year-End Spike** (Buenos Aires, etc.)        |
 
 **Insights:**
+
 - **May–June Peak:** Dedicated ZK events and privacy-focused sprints drive highest intensity
 - **November Spike:** Year-end momentum from flagship events plus emerging independent organizers
 
@@ -597,6 +620,7 @@ xychart-beta
 **Finding:** IRL events produce **2x higher privacy intensity** than virtual events.
 
 **Hypothesis:** In-person hackathons enable:
+
 - Stronger mentor-mentee relationships and real-time technical collaboration
 - Spontaneous idea generation through side-events and hallway conversations
 - Credible expertise signals from judges and mentors in the "room"
