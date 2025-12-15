@@ -53,7 +53,7 @@
 | Aztec Semaphore | DAO | Semaphore protocol on the Aztec Network. | [GitHub](https://github.com/hashcloak/humanvoting) | [web](https://ethglobal.com/showcase/aztec-semaphore-9p80j) |
 | mini-app-bubble | Wallet | Sybil-resistant social wallet. | [GitHub](https://github.com/Rollorsson/social-miniapp) | [web](https://world.org/mini-app?app_id=app_31a3b2ae0f731dd2b52533a942871ca3&path=&draft_id=meta_113e6a17508da33ce4f68488185d09e6) |
 | M I V Y | Social | Read, support, and publish with full ownership and total privacy. | [GitHub](https://github.com/mavix21/mivy-mini) | [web](https://farcaster.xyz/miniapps/rfmotn8STmCh/mivy) |
-| Subscription3 | A private, automated way to subscribe. | [GitHub](https://github.com/williamh-zx/Subscription3) | [web](https://ethglobal.com/showcase/subscription3-ueyvg) |
+| Subscription3 | Social | A private, automated way to subscribe. | [GitHub](https://github.com/williamh-zx/Subscription3) | [web](https://ethglobal.com/showcase/subscription3-ueyvg) |
 | nocturne | Finance | Cross-chain trading of RWA tokens. | [GitHub](https://github.com/nocturne-protocol/oapp_layerzero_iexec) | [web](https://nocturne-rwa.vercel.app/) |
 | Private Deals | Finance | Privacy pools for institutional liquidity providers. | [GitHub](https://github.com/freeatnet/ethglobal-2025-aztec) | [web](https://ethglobal.com/showcase/private-deals-rqdm8) |
 | Thunder.finance | Finance | Mixer that incentives Privacy paying yields. | [GitHub](https://github.com/web3thunderfinance/website) | [web](https://web3-thunder-finance-web.vercel.app/) |
@@ -162,7 +162,7 @@
 
 | Project | Category | Description | GitHub | Web |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| trustlink | A simple, private way for people to confirm agreements and prove document authenticity. | [GitHub](https://github.com/Edwin420s/trustlink) | [web](https://trustlink-fawn.vercel.app/) |
+| trustlink | Auth | A simple, private way for people to confirm agreements and prove document authenticity. | [GitHub](https://github.com/Edwin420s/trustlink) | [web](https://trustlink-fawn.vercel.app/) |
 
 ## ETHGlobal ETHOnline
 
