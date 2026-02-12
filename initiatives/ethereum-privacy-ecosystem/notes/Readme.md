@@ -345,6 +345,7 @@ _**Zero-Knowledge Infrastructure**_
 - [Fhenix](fhenix.io) -Ethereum L2 using FHE to run encrypted smart contracts
 - [Ten](ten.xyz) - L2 using trusted enclaves (TEEs) for private contracts
 - [Mind Network](mindnetwork.xyz) - FHE infrastructure for encrypted data & AI use
+- [iExec](https://www.iex.ec/) - allows privacy-preserving off-chain compute via a decentralized TEE network
 
 - **MPC (Multi-Party Computation)**:
   - [Silent Shard](https://silencelaboratories.com/silent-shard-snap) - secure wallet key-sharing system using MPC to split private keys across devices, reducing risk of theft or loss
