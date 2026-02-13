@@ -577,7 +577,7 @@ graph TD
 ```mermaid
 xychart-beta
     title "Top 10 Events by Privacy Intensity"
-    x-axis ["ETHBelgrade", "ETHTokyo", "ETHDam", "ZK Hack Berlin", "ETHLatam", "ETHWarsaw", "Buenos Aires", "ETHPrague", "ETHCannes", "ETHOnline"]
+    x-axis ["ETHBel", "ETHTok", "ETHDam", "ZKHack", "ETHLatm", "ETHWar", "ETHBue", "ETHPra", "ETHCan", "ETHOnl"]
     y-axis "Privacy %" 0 --> 55
     bar [50, 46.3, 39.4, 37.8, 33.3, 32, 13.9, 13, 10.2, 7.8]
 ```
@@ -688,3 +688,4 @@ This report summarizes hackathon-derived privacy activity from January 2025 thro
 
 **Report Compiled:** December 12, 2025  
 **Data Coverage:** January 1 – November 30, 2025  
+
