@@ -1,0 +1,16 @@
+<img width="1512" height="850" alt="Slide1" src="https://github.com/user-attachments/assets/95626ab5-124a-445b-a1d9-2a5425d88d39" />
+<img width="1512" height="850" alt="Slide2" src="https://github.com/user-attachments/assets/3660cc6e-ed2e-4f25-8056-7bf29f8d310f" />
+<img width="1512" height="850" alt="Slide3" src="https://github.com/user-attachments/assets/4ba658c3-90d2-4b05-8816-e38936a55878" />
+<img width="1512" height="850" alt="Slide4" src="https://github.com/user-attachments/assets/472c22c6-fbe9-46f5-995a-d032e07b1f33" />
+<img width="1512" height="850" alt="Slide5" src="https://github.com/user-attachments/assets/b425b620-f523-4722-9e4c-d6c84f56294c" />
+<img width="1512" height="850" alt="Slide6" src="https://github.com/user-attachments/assets/caaec9a8-6540-4866-b811-93a3fc474442" />
+<img width="1512" height="850" alt="Slide7" src="https://github.com/user-attachments/assets/21a8f416-956f-4e4e-a667-7e4b5c63f70b" />
+<img width="1512" height="850" alt="Slide8" src="https://github.com/user-attachments/assets/3779d88c-179f-4897-91c0-7060851656ba" />
+<img width="1512" height="850" alt="Slide9" src="https://github.com/user-attachments/assets/17dba8b8-5a8d-49b2-baa1-4ad1219df860" />
+<img width="1512" height="850" alt="Slide10" src="https://github.com/user-attachments/assets/49be8e90-ecd8-474a-8af4-896137bdcb98" />
+<img width="1512" height="850" alt="Slide11" src="https://github.com/user-attachments/assets/a8fdcb6e-9e67-4a51-93a9-04fc169b702e" />
+<img width="1512" height="850" alt="Slide12" src="https://github.com/user-attachments/assets/23a223b8-aff8-4e1b-98ba-446f2b5fe2b5" />
+<img width="1512" height="850" alt="Slide13" src="https://github.com/user-attachments/assets/45391cfd-1e50-480c-8a82-f4cab2e29b13" />
+<img width="1512" height="850" alt="Slide14" src="https://github.com/user-attachments/assets/3f6e289b-c676-4e3c-829a-c4ed865b0819" />
+<img width="1512" height="850" alt="Slide15" src="https://github.com/user-attachments/assets/6eafd979-ec9c-4197-85e8-c2c6ffd5a494" />
+<img width="1512" height="850" alt="Slide16" src="https://github.com/user-attachments/assets/d1aa9c96-6cc9-4f97-b185-8620775baca4" />
